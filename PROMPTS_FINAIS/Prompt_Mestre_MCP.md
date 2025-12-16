@@ -1,3 +1,8 @@
+<!--
+MCP – Model Context Protocol Jurídico
+© 2025 – Kaue Hansen Gapski Pereira
+Uso sujeito a licenciamento
+-->
 # Prompt-Mestre do Model Context Protocol (MCP)
 
 ## Função do Prompt-Mestre
