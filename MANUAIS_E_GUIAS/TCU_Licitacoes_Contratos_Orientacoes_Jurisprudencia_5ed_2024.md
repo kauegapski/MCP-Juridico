@@ -5,18 +5,25 @@
 **Órgão emissor:** Tribunal de Contas da União (TCU)  
 **Fonte oficial:** Portal Licitações e Contratos – TCU  
 **URL:** https://licitacoesecontratos.tcu.gov.br/wp-content/uploads/sites/11/2024/09/Licitacoes-e-Contratos-Orientacoes-e-Jurisprudencia-do-TCU-5a-Edicao-29-08-2024.pdf  
-**Formato:** PDF  
+**Formato:** Documento PDF disponível em fonte oficial externa  
+**Acesso:** Consulta direta via URL oficial do TCU
 **Conteúdo:** Orientações técnicas, entendimentos consolidados e jurisprudência do TCU  
 **Abrangência:** Licitações e contratos administrativos (Lei nº 14.133/2021)  
 **Última verificação:** 2025-01-01  
 
 ---
 
+## Observação Técnica sobre Armazenamento
+
+Em razão das limitações técnicas do GitHub para arquivos de grande porte, o PDF oficial deste documento não é armazenado fisicamente neste repositório.
+
+O acesso ao conteúdo deve ser realizado exclusivamente por meio da fonte oficial indicada acima, garantindo autenticidade, atualização e integridade do material.
+
 ## Nota de Uso no MCP
 
 Este documento integra o Model Context Protocol (MCP) como material técnico e interpretativo do Tribunal de Contas da União, destinado a apoiar análises jurídicas, técnicas e administrativas relacionadas a licitações e contratos públicos.
 
-O conteúdo inclui orientações e entendimentos jurisprudenciais do TCU e **não deve ser utilizado para citação automática de acórdãos ou precedentes**, salvo quando expressamente solicitado pelo usuário.
+O conteúdo inclui orientações e entendimentos jurisprudenciais do TCU e **não deve ser utilizado para citação automática, inferência ou construção de precedentes**, salvo quando expressamente solicitado pelo usuário.
 
 O material possui caráter orientativo e interpretativo, não substituindo a legislação vigente nem dispensando a análise técnica e jurídica do caso concreto.
 
