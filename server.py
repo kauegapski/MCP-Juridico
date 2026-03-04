@@ -1,4 +1,3 @@
-import os
 from mcp.server.fastmcp import FastMCP
 
 mcp = FastMCP("MCP-Juridico")
@@ -16,5 +15,4 @@ def verificar_lgpd(texto: str) -> str:
     return "Conformidade LGPD analisada."
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    mcp.run(transport="sse", port=port)
+    mcp.run(transport="sse")
