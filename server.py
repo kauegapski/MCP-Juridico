@@ -14,5 +14,4 @@ def gerar_tr(objeto: str) -> str:
 def verificar_lgpd(texto: str) -> str:
     return "Conformidade LGPD analisada."
 
-if __name__ == "__main__":
-    mcp.run(transport="sse")
+app = mcp.asgi_app()
