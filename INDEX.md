@@ -48,6 +48,14 @@ Todos com **texto integral**, transcrito do Boletim Oficial do Município, Ano X
 - Decreto nº 40/2022 – Compra direta de pequena monta e pronto pagamento (art. 95, § 2º, da Lei nº 14.133/2021) — **não** trata da dispensa por valor do art. 75, II
 - Decreto nº 41/2022 – Dispensa de licitação na forma eletrônica (art. 75 da Lei nº 14.133/2021)
 
+### 3.2 Legislação Municipal – Guarapuava (servidores e estrutura da Câmara)
+
+📁 **LEGISLACAO_MUNICIPAL_GUARAPUAVA/**
+Somente a redação vigente (trechos riscados excluídos), extraída do Sistema Legislativo da Câmara Municipal.
+
+- Lei Complementar nº 61/2016 – Quadro de pessoal, estrutura administrativa, plano de cargos, salários e carreira e atribuições dos servidores da Câmara (inclui os Anexos I, II, II.A, III, V e VI; competências do Departamento de Tecnologia da Informação no Anexo V, art. 30) — `LC_61_2016_Estrutura_Cargos_Camara_Guarapuava.md`
+- Lei Complementar nº 120/2020 – Regime Jurídico dos Servidores Públicos do Município de Guarapuava, aplicável no que couber aos servidores da Câmara (férias, licenças, afastamentos, deveres, regime disciplinar) — `LC_120_2020_Estatuto_Servidores_Guarapuava.md`
+
 ---
 
 ## 4. Manuais, Guias e Orientações Técnicas
