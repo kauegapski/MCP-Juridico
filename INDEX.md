@@ -24,7 +24,11 @@ Pasta destinada ao armazenamento de **leis federais e atos normativos primários
 📁 **LEGISLACAO/**
 - Lei nº 14.133/2021 – Lei de Licitações e Contratos Administrativos  
 - Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD)  
-- Instruções Normativas federais correlatas
+- IN SEGES/ME nº 58/2022 – Estudo Técnico Preliminar (ETP) — `IN_SEGES_58_2022_ETP.md`  
+- IN SEGES/ME nº 65/2021 – Pesquisa de preços — `IN_SEGES_65_2021_Pesquisa_Precos.md`  
+- IN SEGES/ME nº 67/2021 – Dispensa de licitação na forma eletrônica — `IN_SEGES_67_2021_Dispensa_Eletronica.md`  
+
+⚠️ Pendente de inclusão: IN SEGES/ME nº 81/2022 (Termo de Referência) e o decreto federal vigente de atualização dos valores da Lei nº 14.133/2021.
 
 ---
 
@@ -35,11 +39,13 @@ Pasta destinada ao armazenamento de **leis federais e atos normativos primários
 Pasta destinada aos **decretos municipais regulamentares**, com aplicação direta às contratações públicas do Poder Legislativo de Guarapuava.
 
 📁 **DECRETOS/MUNICIPAIS_GUARAPUAVA/**
-- Decreto nº 37/2022 – Governança das contratações
+Todos com **texto integral**, transcrito do Boletim Oficial do Município, Ano XXVIII, nº 2521, de 15/12/2022 (págs. 64 a 80).
+
+- Decreto nº 37/2022 – Governança, PCA, fase preparatória, ETP/DFD, gestão e fiscalização de contratos, IMR
 - Decreto nº 38/2022 – Pesquisa de preços
 - Decreto nº 39/2022 – Termo de Referência
-- Decreto nº 40/2022 – Compra direta (pequeno valor)
-- Decreto nº 41/2022 – Dispensa eletrônica
+- Decreto nº 40/2022 – Compra direta de pequena monta e pronto pagamento (art. 95, § 2º, da Lei nº 14.133/2021) — **não** trata da dispensa por valor do art. 75, II
+- Decreto nº 41/2022 – Dispensa de licitação na forma eletrônica (art. 75 da Lei nº 14.133/2021)
 
 ---
 
