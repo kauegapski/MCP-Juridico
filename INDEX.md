@@ -28,8 +28,8 @@ Pasta destinada ao armazenamento de **leis federais e atos normativos primários
 - IN SEGES/ME nº 58/2022 – Estudo Técnico Preliminar (ETP) — `IN_SEGES_58_2022_ETP.md`  
 - IN SEGES/ME nº 65/2021 – Pesquisa de preços — `IN_SEGES_65_2021_Pesquisa_Precos.md`  
 - IN SEGES/ME nº 67/2021 – Dispensa de licitação na forma eletrônica — `IN_SEGES_67_2021_Dispensa_Eletronica.md`  
+- IN SEGES/ME nº 81/2022 – Termo de Referência (TR) — `IN_SEGES_81_2022_Termo_Referencia.md`  
 
-⚠️ Pendente de inclusão: IN SEGES/ME nº 81/2022 (Termo de Referência).
 
 ---
 
