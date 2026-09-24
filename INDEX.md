@@ -22,13 +22,14 @@ A utilização deste índice deve observar obrigatoriamente o disposto no **PROT
 Pasta destinada ao armazenamento de **leis federais e atos normativos primários**, com caráter vinculante.
 
 📁 **LEGISLACAO/**
-- Lei nº 14.133/2021 – Lei de Licitações e Contratos Administrativos  
+- Lei nº 14.133/2021 – Lei de Licitações e Contratos Administrativos (somente redação vigente; atualizada até a Lei nº 15.266/2025 e a Lei nº 15.210/2025)  
+- Decreto nº 12.807/2025 – Valores da Lei nº 14.133/2021 vigentes em 2026 — `Decreto_12807_2025_Atualizacao_Valores_Lei_14133.md`  
 - Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD)  
 - IN SEGES/ME nº 58/2022 – Estudo Técnico Preliminar (ETP) — `IN_SEGES_58_2022_ETP.md`  
 - IN SEGES/ME nº 65/2021 – Pesquisa de preços — `IN_SEGES_65_2021_Pesquisa_Precos.md`  
 - IN SEGES/ME nº 67/2021 – Dispensa de licitação na forma eletrônica — `IN_SEGES_67_2021_Dispensa_Eletronica.md`  
 
-⚠️ Pendente de inclusão: IN SEGES/ME nº 81/2022 (Termo de Referência) e o decreto federal vigente de atualização dos valores da Lei nº 14.133/2021.
+⚠️ Pendente de inclusão: IN SEGES/ME nº 81/2022 (Termo de Referência).
 
 ---
 
