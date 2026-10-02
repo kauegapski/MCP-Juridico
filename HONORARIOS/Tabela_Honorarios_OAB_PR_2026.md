@@ -14,7 +14,7 @@ Este documento integra o Model Context Protocol (MCP) como fonte de referência 
 
 - **Art. 15** da Resolução: a Tabela aplica-se à fixação de honorários sucumbenciais por equidade e **aos casos de nomeação de Curador Especial**.
 - **Art. 16** da Resolução: os valores são reajustados anualmente pelo INPC/IBGE, com divulgação preferencialmente em janeiro. Antes de citar um valor, confira se já houve reajuste posterior a esta versão.
-- Para advocacia dativa custeada pelo Estado do Paraná, verifique também a Lei Estadual nº 18.664/2015 e a tabela da Resolução Conjunta PGE/SEFA vigente, que não constam desta base.
+- **Advocacia dativa e curador especial pagos pelo Estado do Paraná:** use a tabela da Resolução Conjunta nº 06/2024 – PGE/SEFA (`Resolucao_Conjunta_06_2024_PGE_SEFA_Tabela_Dativos.md`), e não esta.
 
 Itens de uso frequente:
 - Capítulo VII (Advocacia Cível: Judicial), item 4.12 – Tutela e Curatela: R$ 3.073,42

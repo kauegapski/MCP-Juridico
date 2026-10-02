@@ -124,7 +124,8 @@ Fontes técnicas e normativas relacionadas à **proteção de dados, governança
 - Lei nº 13.146, de 6 de julho de 2015 – Estatuto da Pessoa com Deficiência (curatela: arts. 84 a 87) — `Lei_13146_2015_Estatuto_Pessoa_Deficiencia.md` (extraído em 02/10/2026)  
 
 📁 **HONORARIOS/**
-- Tabela de Honorários Advocatícios da OAB/PR – Resolução do Conselho Seccional nº 13/2026 (vigência 2026; aplicável à nomeação de Curador Especial, art. 15) — `Tabela_Honorarios_OAB_PR_2026.md` (extraída em 02/10/2026)  
+- Tabela de Honorários da Advocacia Dativa do Paraná – Resolução Conjunta nº 06/2024 – PGE/SEFA (vigente desde 01/01/2025; dativo e curador especial pagos pelo Estado) — `Resolucao_Conjunta_06_2024_PGE_SEFA_Tabela_Dativos.md`  
+- Tabela de Honorários Advocatícios da OAB/PR – Resolução do Conselho Seccional nº 13/2026 (vigência 2026; referência para a advocacia privada) — `Tabela_Honorarios_OAB_PR_2026.md` (extraída em 02/10/2026)  
 
 Todos os textos do Planalto nas pastas CONSTITUCIONAL, PENAL e CIVEL contêm **somente a redação vigente** (trechos riscados excluídos), extraídos em 24/09/2026.
 
