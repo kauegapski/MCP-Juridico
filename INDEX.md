@@ -131,6 +131,14 @@ Todos os textos do Planalto nas pastas CONSTITUCIONAL, PENAL e CIVEL contêm **s
 
 ---
 
+## 10. Ferramentas de manutenção da base
+
+📁 **FERRAMENTAS/**
+- `verificar_atualizacoes.py` — compara cada norma extraída do Planalto com a página oficial e lista trechos novos ou alterados e leis alteradoras ainda ausentes da base. Uso: `python3 FERRAMENTAS/verificar_atualizacoes.py` (requer `beautifulsoup4`).
+- `atualizar_norma.py` — reextrai o texto vigente de uma norma e reescreve o arquivo, preservando cabeçalho e nota de uso. Uso somente com autorização do Dr. Kaue: `python3 FERRAMENTAS/atualizar_norma.py <arquivo.md>`.
+
+---
+
 ## Observação Final
 
 Este índice não cria obrigações normativas, servindo exclusivamente como **instrumento de navegação e organização lógica** do Model Context Protocol (MCP).
