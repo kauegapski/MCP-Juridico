@@ -29,6 +29,11 @@ Pasta destinada ao armazenamento de **leis federais e atos normativos primários
 - IN SEGES/ME nº 65/2021 – Pesquisa de preços — `IN_SEGES_65_2021_Pesquisa_Precos.md`  
 - IN SEGES/ME nº 67/2021 – Dispensa de licitação na forma eletrônica — `IN_SEGES_67_2021_Dispensa_Eletronica.md`  
 - IN SEGES/ME nº 81/2022 – Termo de Referência (TR) — `IN_SEGES_81_2022_Termo_Referencia.md`  
+- IN SGD/ME nº 94/2022 – Processo de contratação de soluções de TIC — `IN_SGD_94_2022_Contratacao_TIC.md`  
+- Portaria SGD/MGI nº 5.950/2023 – Modelo de contratação de software (licenciamento, cessão temporária/locação, SaaS) e computação em nuvem — `Portaria_SGD_MGI_5950_2023_Software_Nuvem.md`  
+- Portaria SGD/MGI nº 370/2023 – Modelo de contratação de outsourcing de impressão — `Portaria_SGD_MGI_370_2023_Outsourcing_Impressao.md`  
+
+⚠️ As INs SEGES e SGD e as Portarias SGD são atos federais: vinculam a administração federal (e o SISP, no caso das SGD). No Poder Legislativo de Guarapuava prevalecem os Decretos Municipais nº 37 a 41/2022; os atos federais servem como referência correlata (art. 187 da Lei nº 14.133/2021) ou se aplicam diretamente quando houver recursos da União por transferência voluntária e a norma assim exigir.  
 
 
 ---
@@ -62,9 +67,23 @@ Somente a redação vigente (trechos riscados excluídos), extraída do Sistema 
 
 Repositório de **fontes orientativas e interpretativas**, sem caráter normativo vinculante.
 
-📁 **MANUAIS_E_GUIAS/**
-- Tribunal de Contas da União (TCU) – Licitações e Contratos
-- Tribunal de Contas do Estado do Paraná (TCE-PR) – Manual de Licitações
+📁 **MANUAIS_E_GUIAS/** (fichas de referência; o conteúdo integral fica na fonte oficial)
+
+Gerais:
+- TCU – Licitações e Contratos: Orientações e Jurisprudência, 5ª ed. — `TCU_Licitacoes_Contratos_Orientacoes_Jurisprudencia_5ed_2024.md`
+- TCE-PR – Manual de Licitações (3ª ed., 2021) — `TCE_PR_Manual_Licitacoes.md`
+- TCE-PR – Prejulgados e consultas sobre licitações — `TCE_PR_Prejulgados_Consultas_Licitacoes.md`
+- TCE-PR – Novo módulo Licitações do SIM-AM / Mural de Licitações (2026) — `TCE_PR_SIM_AM_Modulo_Licitacoes_2026.md`
+- TCE-PR – Cartilha de ETP de obras e serviços de engenharia — `TCE_PR_Cartilha_ETP_Obras_Servicos_Engenharia.md`
+
+Tecnologia da Informação:
+- TCU – Guia de Boas Práticas em Contratação de Soluções de TI (riscos e controles) — `TCU_Guia_Boas_Praticas_Contratacao_Solucoes_TI.md`
+- TCU – Nota Técnica AudTI/TCU 8/2023 (orçamento estimado de TI) — `TCU_Nota_Tecnica_AudTI_8_2023_Orcamento_TI.md`
+- SGD/MGI – Demais modelos e orientações de contratação de TIC — `SGD_Modelos_Orientacoes_Contratacao_TIC.md`
+- TCE-SC – Nota Técnica nº TC-19/2026 (softwares de gestão) — `TCE_SC_Nota_Tecnica_19_2026_Softwares_Gestao.md`
+- TCE-RS – Cartilha Contratação de Sistema de Gestão Municipal v2.0 (locação e aquisição) — `TCE_RS_Cartilha_Contratacao_Sistema_Gestao_Municipal_v2.md`
+- TCE-RS – Catálogos de Soluções de TIC e Guia de Governança das Contratações — `TCE_RS_Catalogos_TIC_Governanca_Contratacoes.md`
+- CNJ e CNMP – Guias de contratações de TI — `CNJ_CNMP_Guias_Contratacoes_TI.md`
 
 ⚠️ Estes documentos **não substituem a legislação** e devem ser utilizados apenas como apoio técnico.
 
@@ -75,7 +94,8 @@ Repositório de **fontes orientativas e interpretativas**, sem caráter normativ
 Fontes técnicas e normativas relacionadas à **proteção de dados, governança digital e segurança da informação**.
 
 📁 **TI_E_SEGURANCA/**
-- Autoridade Nacional de Proteção de Dados (ANPD)
+- Autoridade Nacional de Proteção de Dados (ANPD) — `ANPD_Guia_Poder_Publico.md`
+- Segurança da informação, privacidade e LGPD em contratações de TIC (IN SGD 94/2022, item 7 do Anexo; Parecer CNMLC/AGU 04/2022) — `SGD_Requisitos_Seguranca_Privacidade_Contratacoes_TIC.md`
 - Normas e orientações aplicáveis ao setor público
 
 ---

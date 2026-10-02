@@ -9,7 +9,8 @@
 **Acesso:** Consulta direta via URL oficial do TCU
 **Conteúdo:** Orientações técnicas, entendimentos consolidados e jurisprudência do TCU  
 **Abrangência:** Licitações e contratos administrativos (Lei nº 14.133/2021)  
-**Última verificação:** 2025-01-01  
+**Versão navegável:** https://licitacoesecontratos.tcu.gov.br/ (5ª edição lançada em dez/2023; manual atualizado em 29/08/2025)  
+**Última verificação:** 2026-10-02  
 
 ---
 
