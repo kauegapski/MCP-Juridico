@@ -131,6 +131,17 @@ Todos os textos do Planalto nas pastas CONSTITUCIONAL, PENAL e CIVEL contêm **s
 
 ---
 
+## 11. Jurisprudência sumulada (STF e STJ)
+
+📁 **JURISPRUDENCIA/**
+- Súmulas Vinculantes do STF (1 a 63, CF, art. 103-A), com situação e observações oficiais — `STF_Sumulas_Vinculantes.md` (extraídas em 02/10/2026)  
+- Súmulas do STF (1 a 736, não vinculantes), com situação e observações oficiais — `STF_Sumulas.md` (extraídas em 02/10/2026)  
+- Súmulas do STJ (1 a 673), com situação (cancelada, revogada, alterada) — `STJ_Sumulas.md` (PDF oficial de 18/09/2024; súmulas posteriores devem ser conferidas no site do STJ)  
+
+Uso: jurisprudência só entra nas peças quando o Dr. Kaue pedir. Busca por número: `grep -n "^### Súmula 231 " JURISPRUDENCIA/STJ_Sumulas.md`.
+
+---
+
 ## 10. Ferramentas de manutenção da base
 
 📁 **FERRAMENTAS/**
