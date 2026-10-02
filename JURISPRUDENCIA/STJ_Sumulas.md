@@ -1,9 +1,9 @@
 # Súmulas do Superior Tribunal de Justiça (STJ)
-## Enunciados das Súmulas 1 a 673
+## Enunciados das Súmulas 1 a 676
 
 **Fonte oficial:** Superior Tribunal de Justiça – "Enunciados das Súmulas do STJ" (PDF oficial gerado pelo SCON)  
 **URL:** https://www.stj.jus.br/docs_internet/VerbetesSTJ.pdf  
-**Versão:** PDF oficial gerado em 18/09/2024 (última súmula publicada nele: 673), fornecido pelo Dr. Kaue. Súmulas editadas depois dessa data **não constam** deste arquivo e devem ser conferidas no site do STJ.  
+**Versão:** Súmulas 1 a 673 extraídas do PDF oficial gerado em 18/09/2024, fornecido pelo Dr. Kaue. Súmulas 674 a 676 conferidas na pesquisa oficial de súmulas do STJ (SCON: https://scon.stj.jus.br/SCON/pesquisar.jsp?b=SUMU) em 02/10/2026, quando a 676 era a mais recente publicada.  
 **Última verificação:** 2026-10-02  
 
 ---
@@ -13,7 +13,7 @@
 Este documento integra o Model Context Protocol (MCP) e deve ser utilizado exclusivamente como fonte oficial dos enunciados para consulta, análise jurídica e contextualização em modelos de linguagem.
 
 - As súmulas do STJ **não são vinculantes** no sentido do art. 103-A da Constituição, mas juízes e tribunais devem observá-las (CPC, art. 927, IV).
-- A situação de cada súmula (cancelada, revogada, alterada) é a indicada no PDF oficial. Antes de fundamentar uma peça, confirme no site do STJ se não houve cancelamento ou nova súmula posterior a 18/09/2024.
+- A situação de cada súmula (cancelada, revogada, alterada) é a indicada no PDF oficial. Antes de fundamentar uma peça, confirme no site do STJ se não houve cancelamento ou nova súmula posterior à 676.
 - Jurisprudência só é citada nas peças quando o Dr. Kaue pedir; quando citada, indique o número da súmula e o tribunal.
 - Busca: `grep -n "^### Súmula 231" JURISPRUDENCIA/STJ_Sumulas.md`.
 
@@ -2713,3 +2713,21 @@ A alteração da capitulação legal da conduta do servidor, por si só, não en
 ### Súmula 673 (STJ)
 
 A comprovação da regular notificação do executado para o pagamento da dívida de anuidade de conselhos de classe ou, em caso de recurso, o esgotamento das instâncias administrativas são requisitos indispensáveis à constituição e execução do crédito.
+
+### Súmula 674 (STJ)
+
+A autoridade administrativa pode se utilizar de fundamentação per relationem nos processos disciplinares.
+
+> Direito Administrativo – Processo Administrativo Disciplinar. Primeira Seção, julgado em 13/11/2024, DJe de 25/11/2024.
+
+### Súmula 675 (STJ)
+
+É legítima a atuação dos órgãos de defesa do consumidor na aplicação de sanções administrativas previstas no CDC quando a conduta praticada ofender direito consumerista, o que não exclui nem inviabiliza a atuação do órgão ou entidade de controle quando a atividade é regulada.
+
+> Direito do Consumidor – Órgãos de Defesa do Consumidor. Primeira Seção, julgado em 13/11/2024, DJe de 25/11/2024.
+
+### Súmula 676 (STJ)
+
+Em razão da Lei n. 13.964/2019, não é mais possível ao juiz, de ofício, decretar ou converter prisão em flagrante em prisão preventiva.
+
+> Direito Processual Penal – Prisão. Terceira Seção, julgado em 11/12/2024, DJe de 17/12/2024.
