@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 10.406, de 10 de janeiro de 2002"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [civel]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+ultima_verificacao: 2026-10-02
+arquivo: CIVEL/Codigo_Civil_Lei_10406_2002.md
+---
+
 # Lei nº 10.406, de 10 de janeiro de 2002
 ## Código Civil
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 
@@ -6906,9 +6919,9 @@ Art. 1.617. A filiação materna ou paterna pode resultar de casamento declarado
 
 CAPÍTULO IV Da Adoção
 
-Art. 1.618. A adoção de crianças e adolescentes será deferida na forma prevista pela Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
+Art. 1.618. A adoção de crianças e adolescentes será deferida na forma prevista pela Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
 
-Art. 1.619. A adoção de maiores de 18 (dezoito) anos dependerá da assistência efetiva do poder público e de sentença constitutiva, aplicando-se, no que couber, as regras gerais da Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
+Art. 1.619. A adoção de maiores de 18 (dezoito) anos dependerá da assistência efetiva do poder público e de sentença constitutiva, aplicando-se, no que couber, as regras gerais da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
 
 Art. 1.620. a 1.629. (Revogados pela Lei nº 12.010, de 2009) Vigência
 
@@ -7394,7 +7407,7 @@ Art. 1.733. Aos irmãos órfãos dar-se-á um só tutor.
 
 § 2º Quem institui um menor herdeiro, ou legatário seu, poderá nomear-lhe curador especial para os bens deixados, ainda que o beneficiário se encontre sob o poder familiar, ou tutela.
 
-Art. 1.734. As crianças e os adolescentes cujos pais forem desconhecidos, falecidos ou que tiverem sido suspensos ou destituídos do poder familiar terão tutores nomeados pelo Juiz ou serão incluídos em programa de colocação familiar, na forma prevista pela Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
+Art. 1.734. As crianças e os adolescentes cujos pais forem desconhecidos, falecidos ou que tiverem sido suspensos ou destituídos do poder familiar terão tutores nomeados pelo Juiz ou serão incluídos em programa de colocação familiar, na forma prevista pela Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
 
 Seção II Dos Incapazes de Exercer a Tutela
 
@@ -8536,7 +8549,7 @@ LIVRO COMPLEMENTAR DAS Disposições Finais e Transitórias
 
 Art. 2.028. Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada.
 
-Art. 2.029. Até dois anos após a entrada em vigor deste Código, os prazos estabelecidos no parágrafo único do art. 1.238 e no parágrafo único do art. 1.242 serão acrescidos de dois anos, qualquer que seja o tempo transcorrido na vigência do anterior, Lei n o 3.071, de 1º de janeiro de 1916.
+Art. 2.029. Até dois anos após a entrada em vigor deste Código, os prazos estabelecidos no parágrafo único do art. 1.238 e no parágrafo único do art. 1.242 serão acrescidos de dois anos, qualquer que seja o tempo transcorrido na vigência do anterior, Lei nº 3.071, de 1º de janeiro de 1916.
 
 Art. 2.030. O acréscimo de que trata o artigo antecedente, será feito nos casos a que se refere o § 4º do art. 1.228.
 
@@ -8558,7 +8571,7 @@ Art. 2.036. A locação de prédio urbano, que esteja sujeita à lei especial, p
 
 Art. 2.037. Salvo disposição em contrário, aplicam-se aos empresários e sociedades empresárias as disposições de lei não revogadas por este Código, referentes a comerciantes, ou a sociedades comerciais, bem como a atividades mercantis.
 
-Art. 2.038. Fica proibida a constituição de enfiteuses e subenfiteuses, subordinando-se as existentes, até sua extinção, às disposições do Código Civil anterior, Lei n o 3.071, de 1º de janeiro de 1916, e leis posteriores.
+Art. 2.038. Fica proibida a constituição de enfiteuses e subenfiteuses, subordinando-se as existentes, até sua extinção, às disposições do Código Civil anterior, Lei nº 3.071, de 1º de janeiro de 1916, e leis posteriores.
 
 § 1º Nos aforamentos a que se refere este artigo é defeso:
 
@@ -8568,19 +8581,19 @@ II - constituir subenfiteuse.
 
 § 2º A enfiteuse dos terrenos de marinha e acrescidos regula-se por lei especial.
 
-Art. 2.039. O regime de bens nos casamentos celebrados na vigência do Código Civil anterior, Lei n o 3.071, de 1º de janeiro de 1916, é o por ele estabelecido.
+Art. 2.039. O regime de bens nos casamentos celebrados na vigência do Código Civil anterior, Lei nº 3.071, de 1º de janeiro de 1916, é o por ele estabelecido.
 
-Art. 2.040. A hipoteca legal dos bens do tutor ou curador, inscrita em conformidade com o inciso IV do art. 827 do Código Civil anterior, Lei n o 3.071, de 1º de janeiro de 1916, poderá ser cancelada, obedecido o disposto no parágrafo único do art. 1.745 deste Código.
+Art. 2.040. A hipoteca legal dos bens do tutor ou curador, inscrita em conformidade com o inciso IV do art. 827 do Código Civil anterior, Lei nº 3.071, de 1º de janeiro de 1916, poderá ser cancelada, obedecido o disposto no parágrafo único do art. 1.745 deste Código.
 
-Art. 2.041. As disposições deste Código relativas à ordem da vocação hereditária (arts. 1.829 a 1.844) não se aplicam à sucessão aberta antes de sua vigência, prevalecendo o disposto na lei anterior (Lei n o 3.071, de 1º de janeiro de 1916).
+Art. 2.041. As disposições deste Código relativas à ordem da vocação hereditária (arts. 1.829 a 1.844) não se aplicam à sucessão aberta antes de sua vigência, prevalecendo o disposto na lei anterior (Lei nº 3.071, de 1º de janeiro de 1916).
 
-Art. 2.042. Aplica-se o disposto no caput do art. 1.848, quando aberta a sucessão no prazo de um ano após a entrada em vigor deste Código, ainda que o testamento tenha sido feito na vigência do anterior, Lei n o 3.071, de 1º de janeiro de 1916; se, no prazo, o testador não aditar o testamento para declarar a justa causa de cláusula aposta à legítima, não subsistirá a restrição.
+Art. 2.042. Aplica-se o disposto no caput do art. 1.848, quando aberta a sucessão no prazo de um ano após a entrada em vigor deste Código, ainda que o testamento tenha sido feito na vigência do anterior, Lei nº 3.071, de 1º de janeiro de 1916; se, no prazo, o testador não aditar o testamento para declarar a justa causa de cláusula aposta à legítima, não subsistirá a restrição.
 
 Art. 2.043. Até que por outra forma se disciplinem, continuam em vigor as disposições de natureza processual, administrativa ou penal, constantes de leis cujos preceitos de natureza civil hajam sido incorporados a este Código.
 
 Art. 2.044. Este Código entrará em vigor 1 (um) ano após a sua publicação.
 
-Art. 2.045. Revogam-se a Lei n o 3.071, de 1º de janeiro de 1916 - Código Civil e a Parte Primeira do Código Comercial, Lei n o 556, de 25 de junho de 1850.
+Art. 2.045. Revogam-se a Lei nº 3.071, de 1º de janeiro de 1916 - Código Civil e a Parte Primeira do Código Comercial, Lei nº 556, de 25 de junho de 1850.
 
 Art. 2.046. Todas as remissões, em diplomas legislativos, aos Códigos referidos no artigo antecedente, consideram-se feitas às disposições correspondentes deste Código.
 

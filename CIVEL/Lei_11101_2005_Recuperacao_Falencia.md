@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 11.101, de 9 de fevereiro de 2005"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [civel]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm"
+ultima_verificacao: 2026-10-02
+arquivo: CIVEL/Lei_11101_2005_Recuperacao_Falencia.md
+---
+
 # Lei nº 11.101, de 9 de fevereiro de 2005
 ## Recuperação Judicial, Extrajudicial e Falência
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 

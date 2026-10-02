@@ -1,3 +1,16 @@
+---
+titulo: "Decreto nº 41/2022 – Poder Legislativo de Guarapuava"
+tipo: decreto_municipal
+esfera: municipal
+natureza: norma_vinculante
+situacao: vigente
+area: [licitacoes]
+fonte: "Boletim Oficial do Município de Guarapuava, Ano XXVIII, nº 2521, veiculação em 15/12/2022, págs. 77 a 80"
+fonte_url: ""
+ultima_verificacao: 2026-09-24
+arquivo: DECRETOS/MUNICIPAIS_GUARAPUAVA/Decreto_41_2022_Dispensa_Eletronica.md
+---
+
 # Decreto nº 41/2022 – Poder Legislativo de Guarapuava
 
 ## Dispensa de licitação na forma eletrônica e Sistema de Dispensa Eletrônica

@@ -1,10 +1,23 @@
+---
+titulo: "Instrução Normativa SEGES/ME nº 67, de 8 de julho de 2021"
+tipo: instrucao_normativa_federal
+esfera: federal
+natureza: norma_referencia
+situacao: vigente
+area: [licitacoes]
+fonte: "Ministério da Economia – Secretaria de Gestão (SEGES) / Portal de Compras do Governo Federal"
+fonte_url: "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-67-de-8-de-julho-de-2021"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/IN_SEGES_67_2021_Dispensa_Eletronica.md
+---
+
 # Instrução Normativa SEGES/ME nº 67, de 8 de julho de 2021
 ## Dispensa de Licitação na Forma Eletrônica — Sistema de Dispensa Eletrônica
 
 **Fonte oficial:** Ministério da Economia – Secretaria de Gestão (SEGES) / Portal de Compras do Governo Federal  
 **URL:** https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-67-de-8-de-julho-de-2021  
 **Versão:** Texto atualizado conforme o Portal de Compras (publicado em 09/07/2021; atualizado em 29/03/2023), incluindo a redação dada pela IN SEGES/MGI nº 8/2023  
-**Última verificação:** 2026-09-24 (a partir de cópia do Portal de Compras obtida em 17/06/2025)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 **Ementa:** Dispõe sobre a dispensa de licitação, na forma eletrônica, de que trata a Lei nº 14.133, de 1º de abril de 2021, e institui o Sistema de Dispensa Eletrônica, no âmbito da Administração Pública federal direta, autárquica e fundacional.
 

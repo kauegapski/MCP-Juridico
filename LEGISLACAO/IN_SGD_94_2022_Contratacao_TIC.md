@@ -1,10 +1,23 @@
+---
+titulo: "Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022"
+tipo: instrucao_normativa_federal
+esfera: federal
+natureza: norma_referencia
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Secretaria de Governo Digital (SGD) – Portal Governo Digital"
+fonte_url: "https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/processo-de-contratacao-de-solucoes-de-tic-regido-pela-lei-ndeg-14-133-de-2021"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/IN_SGD_94_2022_Contratacao_TIC.md
+---
+
 # Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022
 ## Processo de contratação de soluções de TIC (Lei nº 14.133/2021)
 
 **Fonte oficial:** Secretaria de Governo Digital (SGD) – Portal Governo Digital  
 **URL:** https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/processo-de-contratacao-de-solucoes-de-tic-regido-pela-lei-ndeg-14-133-de-2021  
 **Publicação:** DOU de 29/12/2022, seção 1, p. 114  
-**Última verificação:** 2026-10-02 (texto extraído da página oficial)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 **Ementa:** Dispõe sobre o processo de contratação de soluções de Tecnologia da Informação e Comunicação - TIC pelos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal.
 
@@ -20,7 +33,7 @@ Este documento integra o Model Context Protocol (MCP) como texto oficial de ato 
 
 ## Texto integral
 
-O SECRETÁRIO DE GOVERNO DIGITAL SUBSTITUTO DA SECRETARIA ESPECIAL DE DESBUROCRATIZAÇÃO, GESTÃO E GOVERNO DIGITAL DO MINISTÉRIO DA ECONOMIA , no uso das atribuições que lhe conferem o art. 132 do Anexo I ao Decreto nº 9.745, de 8 de abril de 2019, e o Decreto nº 7.579, de 11 de outubro de 2011, e tendo em vista o disposto na Lei nº 14.133, de 1º de abril de 2021,
+O SECRETÁRIO DE GOVERNO DIGITAL SUBSTITUTO DA SECRETARIA ESPECIAL DE DESBUROCRATIZAÇÃO, GESTÃO E GOVERNO DIGITAL DO MINISTÉRIO DA ECONOMIA, no uso das atribuições que lhe conferem o art. 132 do Anexo I ao Decreto nº 9.745, de 8 de abril de 2019, e o Decreto nº 7.579, de 11 de outubro de 2011, e tendo em vista o disposto na Lei nº 14.133, de 1º de abril de 2021,
 
 RESOLVE:
 
@@ -108,7 +121,7 @@ XXVI - Catálogo de Soluções de TIC com Condições Padronizadas: relação de
 
 XXVII - Preço Máximo de Compra de Item de TIC - PMC-TIC: valor máximo que os órgãos e as entidades integrantes do SISP adotarão nas contratações dos itens constantes nos Catálogos de Soluções de TIC com Condições Padronizadas, aplicável para contratações realizadas em todo o território nacional;
 
-XXVIII - Plano de Contratações Anual - PCA: documento que consolida as demandas que o órgão ou a entidade planeja contratar no exercício subsequente ao de sua elaboração , conforme disposto no Decreto nº 10.947, de 25 de janeiro de 2022 ;
+XXVIII - Plano de Contratações Anual - PCA: documento que consolida as demandas que o órgão ou a entidade planeja contratar no exercício subsequente ao de sua elaboração, conforme disposto no Decreto nº 10.947, de 25 de janeiro de 2022 ;
 
 XXIX - Matriz de Alocação de Riscos: cláusula contratual definidora de riscos e de responsabilidades entre as partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato, em termos de ônus financeiro decorrente de eventos supervenientes à contratação, contendo, no mínimo, as seguintes informações:
 
@@ -438,9 +451,9 @@ g) sociais, ambientais e culturais, que definem requisitos que a solução de TI
 
 II - ao Integrante Técnico especificar, quando aplicáveis, os seguintes requisitos tecnológicos:
 
-a) de arquitetura tecnológica, composta de hardware , software , padrões de interoperabilidade, linguagens de programação, interfaces, dentre outros;
+a) de arquitetura tecnológica, composta de hardware, software, padrões de interoperabilidade, linguagens de programação, interfaces, dentre outros;
 
-b) de projeto e de implementação, que estabelecem o processo de desenvolvimento de software , técnicas, métodos, forma de gestão, de documentação, dentre outros;
+b) de projeto e de implementação, que estabelecem o processo de desenvolvimento de software, técnicas, métodos, forma de gestão, de documentação, dentre outros;
 
 c) de implantação, que definem o processo de disponibilização da solução em ambiente de produção, dentre outros;
 
@@ -526,7 +539,7 @@ I - fixação das rotinas de execução, com a definição de processos e proced
 
 a) prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega, quando aplicáveis;
 
-b) documentação mínima exigida, observando modelos adotados pela contratante, padrões de qualidade e completude das informações, a exemplo de modelos de desenvolvimento de software , relatórios de execução de serviço e/ou fornecimento, controles por parte da contratada, ocorrências, etc.; e
+b) documentação mínima exigida, observando modelos adotados pela contratante, padrões de qualidade e completude das informações, a exemplo de modelos de desenvolvimento de software, relatórios de execução de serviço e/ou fornecimento, controles por parte da contratada, ocorrências, etc.; e
 
 c) papéis e responsabilidades, por parte da contratante e da contratada, quando couber;
 
@@ -952,9 +965,9 @@ DIRETRIZES ESPECÍFICAS DE PLANEJAMENTO DA CONTRATAÇÃO
 
 1. CONTRATAÇÃO DE LICENCIAMENTO DE SOFTWARE E SERVIÇOS AGREGADOS:
 
-1.1. O licenciamento de software consiste em qualquer forma de aquisição de direitos de uso de software , quer seja por tempo indeterminado (licença perpétua), quer seja por meio de cessão temporária de direito de uso (locação ou subscrição).
+1.1. O licenciamento de software consiste em qualquer forma de aquisição de direitos de uso de software, quer seja por tempo indeterminado (licença perpétua), quer seja por meio de cessão temporária de direito de uso (locação ou subscrição).
 
-1.2. Serviços agregados são aqueles relacionados ao licenciamento de software , tais como os serviços de atualização de versão, manutenção e suporte técnico.
+1.2. Serviços agregados são aqueles relacionados ao licenciamento de software, tais como os serviços de atualização de versão, manutenção e suporte técnico.
 
 1.3. Na especificação dos requisitos da contratação do licenciamento de software e serviços agregados, deve-se:
 
@@ -982,7 +995,7 @@ DIRETRIZES ESPECÍFICAS DE PLANEJAMENTO DA CONTRATAÇÃO
 
 1.5.2. Incluir cláusula que direta ou indiretamente permita a cobrança de valores para reativação de serviços agregados;
 
-1.5.3. Incluir cláusula que direta ou indiretamente permita a cobrança de valores relativos a serviço de correção de erros, inclusive retroativos, que devem ser corrigidos sem ônus à contratante, durante o prazo de validade técnica dos softwares , nos termos do Capítulo III da Lei nº 9.609, de 19 de fevereiro de 1998. Caso os erros venham a ser corrigidos em versão posterior do software , essa versão deverá ser fornecida sem ônus para a contratante;
+1.5.3. Incluir cláusula que direta ou indiretamente permita a cobrança de valores relativos a serviço de correção de erros, inclusive retroativos, que devem ser corrigidos sem ônus à contratante, durante o prazo de validade técnica dos softwares, nos termos do Capítulo III da Lei nº 9.609, de 19 de fevereiro de 1998. Caso os erros venham a ser corrigidos em versão posterior do software, essa versão deverá ser fornecida sem ônus para a contratante;
 
 1.5.4. Incluir cláusula que direta ou indiretamente exija a contratação conjugada de serviços de suporte técnico e de atualização de versões, quando não houver a necessidade de ambos.
 
@@ -1024,7 +1037,7 @@ DIRETRIZES ESPECÍFICAS DE PLANEJAMENTO DA CONTRATAÇÃO
 
 4.3. É vedada a contratação para criação ou ampliação de salas-cofre e salas seguras, salvo nos casos em que o órgão ou entidade tenha obtido autorização prévia do Órgão Central do SISP.
 
-4.3.1. Considera-se sala segura sistema modular composto por painéis remontáveis, formando um ambiente autoportante e estanque para proteção física de equipamentos de hardware , construído no interior da edificação existente, podendo ser ampliado ou removido e remontado em outro local, preservando suas características de proteção. Esse ambiente inclui sistemas de infraestrutura elétrica, de climatização, de monitoramento ambiental, de detecção e alarme de incêndio e demais subsistemas relacionados à proteção contra ameaças físicas.
+4.3.1. Considera-se sala segura sistema modular composto por painéis remontáveis, formando um ambiente autoportante e estanque para proteção física de equipamentos de hardware, construído no interior da edificação existente, podendo ser ampliado ou removido e remontado em outro local, preservando suas características de proteção. Esse ambiente inclui sistemas de infraestrutura elétrica, de climatização, de monitoramento ambiental, de detecção e alarme de incêndio e demais subsistemas relacionados à proteção contra ameaças físicas.
 
 4.3.2. Considera-se sala cofre ambiente que possui todas as características de uma sala segura, devendo ser certificado pela norma ABNT NBR 15.247 (Unidades de armazenagem segura - Salas-cofre e cofres para hardware - Classificação e métodos de ensaio de resistência ao fogo) ou certificado pela norma EN 1047-2 (Unidades de armazenamento seguro. Classificação e métodos de teste de resistência ao fogo Salas de dados e contêiner de dados) ou por normas similares reconhecidas por órgãos acreditadores internacionais.
 
@@ -1042,7 +1055,7 @@ DIRETRIZES ESPECÍFICAS DE PLANEJAMENTO DA CONTRATAÇÃO
 
 6.2. Para os efeitos desta norma, consideram-se portais na internet: portais institucionais de órgãos, entidades ou suas unidades administrativas (como www.cgu.gov.br, www.anatel.gov.br, www.tesouro.gov.br), portais de programas e projetos (como inova.gov.br), portais de notícias (como brasil.gov.br) e portais de serviços públicos.
 
-6.3. O disposto no item 6.1 não se aplica a sítios de sistemas (como www2.scdp.gov.br), portais de domínios mil.br (como www2.fab.mil.br) e portais das instituições de ensino (como unila.edu.br, unirio.br), nem a contratação de serviços de fornecimento de informações produzidas pela iniciativa privada (como serviço de mailing , produção de conteúdo de terceiros).
+6.3. O disposto no item 6.1 não se aplica a sítios de sistemas (como www2.scdp.gov.br), portais de domínios mil.br (como www2.fab.mil.br) e portais das instituições de ensino (como unila.edu.br, unirio.br), nem a contratação de serviços de fornecimento de informações produzidas pela iniciativa privada (como serviço de mailing, produção de conteúdo de terceiros).
 
 7. REQUISITOS E OBRIGAÇÕES QUANTO A SEGURANÇA DA INFORMAÇÃO E PRIVACIDADE
 
@@ -1096,9 +1109,9 @@ ANEXO II
 
 1.1. MATERIAIS E EQUIPAMENTOS DE TIC
 
-a) São considerados recursos de TIC equipamentos e dispositivos baseados em técnica digital, com funções de coleta, tratamento, estruturação, armazenamento, comutação, transmissão, recuperação ou apresentação da informação, a exemplo de: desktops , notebooks , coletores de dados do tipo personal digital assistant - PDA, equipamentos de coleta de dados satelitais, monitores de vídeo, impressoras, impressoras térmicas, scanners de documentos, tablets , incluindo-se serviços de manutenção e suporte desses equipamentos;
+a) São considerados recursos de TIC equipamentos e dispositivos baseados em técnica digital, com funções de coleta, tratamento, estruturação, armazenamento, comutação, transmissão, recuperação ou apresentação da informação, a exemplo de: desktops, notebooks, coletores de dados do tipo personal digital assistant - PDA, equipamentos de coleta de dados satelitais, monitores de vídeo, impressoras, impressoras térmicas, scanners de documentos, tablets, incluindo-se serviços de manutenção e suporte desses equipamentos;
 
-b) Excluem-se dessa categoria mouses , teclados, caixas de som, projetores, televisores em geral, dispositivos Radio Frequency Identification - RFID, impressoras 3D, aparelhos telefônicos (como fixos, celulares e smartphones ), relógio de ponto, rádio comunicadores e estações rádio base, câmeras fotográficas e webcam adquiridas isoladamente, cartuchos, toners e demais insumos de impressão, plotters , drones e veículos tripulados ou não tripulados, equipamentos de segmento médico, construção civil, tráfego aéreo, máquinas de produção industrial, equipamentos de raio-x (inclusive para controle de acesso), segmentos de áudio e vídeo, fechaduras eletrônicas, bloqueadores de sinais de celular e gravadores de áudio digital ou analógico.
+b) Excluem-se dessa categoria mouses, teclados, caixas de som, projetores, televisores em geral, dispositivos Radio Frequency Identification - RFID, impressoras 3D, aparelhos telefônicos (como fixos, celulares e smartphones ), relógio de ponto, rádio comunicadores e estações rádio base, câmeras fotográficas e webcam adquiridas isoladamente, cartuchos, toners e demais insumos de impressão, plotters, drones e veículos tripulados ou não tripulados, equipamentos de segmento médico, construção civil, tráfego aéreo, máquinas de produção industrial, equipamentos de raio-x (inclusive para controle de acesso), segmentos de áudio e vídeo, fechaduras eletrônicas, bloqueadores de sinais de celular e gravadores de áudio digital ou analógico.
 
 1.2. DESENVOLVIMENTO E SUSTENTAÇÃO DE SISTEMAS
 
@@ -1106,7 +1119,7 @@ a) São considerados recursos de TIC serviços de desenvolvimento, manutenção 
 
 1.3. HOSPEDAGEM DE SISTEMAS
 
-a) São considerados recursos de TIC a disponibilização de sistemas, aplicativos ou sítios eletrônicos em servidores próprios ou de terceiros por meio de modelo de hosting , co-location ou outros.
+a) São considerados recursos de TIC a disponibilização de sistemas, aplicativos ou sítios eletrônicos em servidores próprios ou de terceiros por meio de modelo de hosting, co-location ou outros.
 
 1.4. SUPORTE E ATENDIMENTO A USUÁRIO DE TIC
 
@@ -1116,7 +1129,7 @@ b) Excluem-se a contratação de call centers ou contact centers para serviços 
 
 1.5. INFRAESTRUTURA DE TIC
 
-a) São considerados recursos de TIC os serviços associados ao conjunto de componentes técnicos, hardware , software , bancos de dados implantados, procedimentos e documentação técnica usados para disponibilizar informações, incluindo serviços de segurança digital (controle lógico e biométrico), certificação digital, operação e suporte técnico;
+a) São considerados recursos de TIC os serviços associados ao conjunto de componentes técnicos, hardware, software, bancos de dados implantados, procedimentos e documentação técnica usados para disponibilizar informações, incluindo serviços de segurança digital (controle lógico e biométrico), certificação digital, operação e suporte técnico;
 
 b) Excluem-se dessa categoria materiais e serviços de vigilância patrimonial (a exemplo de soluções de Circuito Fechado de TV - CFTV, analógico ou digital, e seus componentes e serviços acessórios), serviços de engenharia civil ou manutenção predial, serviços financeiros ou bancários, controle de acesso físico (como portas, catracas e elevadores), soluções de cabeamento estruturado que permita conectividade à rede de telecomunicações (como fibra ótica, conectores, conduítes e cabos de rede de dados), infraestrutura elétrica (como nobreaks e geradores) e hidráulica (como sistema de refrigeração), ainda que venham a integrar sala de datacenter e sistema de combate a incêndio.
 
@@ -1154,12 +1167,12 @@ a) São considerados recursos de TIC apenas os dispositivos ou serviços que uti
 
 1.12. SEGURANÇA DA INFORMAÇÃO E PRIVACIDADE
 
-a) São considerados recursos de TIC os serviços de avaliação e testes de segurança (a exemplo de testes de intrusão, pentest , simulação de adversários), gestão de vulnerabilidades e tratamento de incidentes, Security as a Service - SECaaS, segurança de redes, Serviço de Monitoria de eventos de segurança - SOC e serviços técnicos de consultoria em segurança da informação e privacidade;
+a) São considerados recursos de TIC os serviços de avaliação e testes de segurança (a exemplo de testes de intrusão, pentest, simulação de adversários), gestão de vulnerabilidades e tratamento de incidentes, Security as a Service - SECaaS, segurança de redes, Serviço de Monitoria de eventos de segurança - SOC e serviços técnicos de consultoria em segurança da informação e privacidade;
 
 b) Excluem-se dessa categoria serviços e/ou equipamentos de segurança das informações que não estejam em suporte digital.
 
 1.13. ANÁLISE DE DADOS, APRENDIZADO DE MÁQUINA E INTELIGÊNCIA ARTIFICIAL
 
-a) São considerados recursos de TIC os serviços de Inteligência de Negócio ( Business Intelligence ), Inteligência Artificial, Aprendizado de Máquina, Big Data , governança de dados, arquitetura de dados e soluções de geoprocessamento.
+a) São considerados recursos de TIC os serviços de Inteligência de Negócio ( Business Intelligence ), Inteligência Artificial, Aprendizado de Máquina, Big Data, governança de dados, arquitetura de dados e soluções de geoprocessamento.
 
 Este texto não substitui o publicado no DOU de 29/12/2022, p. 114, seção 1

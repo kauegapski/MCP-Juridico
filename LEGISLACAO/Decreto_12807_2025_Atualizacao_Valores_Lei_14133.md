@@ -1,3 +1,16 @@
+---
+titulo: "Decreto nº 12.807, de 29 de dezembro de 2025"
+tipo: decreto_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [licitacoes]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12807.htm"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/Decreto_12807_2025_Atualizacao_Valores_Lei_14133.md
+---
+
 # Decreto nº 12.807, de 29 de dezembro de 2025
 ## Atualização dos valores da Lei nº 14.133/2021 — vigente a partir de 1º/01/2026
 
@@ -6,7 +19,7 @@
 **Publicação:** Diário Oficial da União de 30/12/2025  
 **Vigência:** 1º de janeiro de 2026 (art. 5º)  
 **Revoga:** Decreto nº 12.343, de 30 de dezembro de 2024 (valores de 2025)  
-**Última verificação:** 2026-09-24 (conferido com cópia impressa do Planalto de 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 **Aplicação no Poder Legislativo de Guarapuava:** os valores do Anexo são os limites vigentes em 2026 para os dispositivos da Lei nº 14.133/2021 indicados. Em especial:
 - dispensa por valor para outros serviços e compras (art. 75, II): **R$ 65.492,11**, regulamentada no âmbito municipal pelo Decreto nº 41/2022;

@@ -1,16 +1,33 @@
+---
+titulo: "MODELO DE TERMO DE REFERÊNCIA (TR)"
+tipo: modelo
+esfera: municipal
+natureza: modelo
+situacao: vigente
+area: [licitacoes]
+fonte: ""
+fonte_url: ""
+ultima_verificacao: 2026-10-02
+arquivo: TEMPLATES_OPERACIONAIS/Template_TR_Lei_14133.md
+---
+
 # MODELO DE TERMO DE REFERÊNCIA (TR)
+
+**Última revisão:** 2026-10-02 (mapa de decretos municipais conferido: 37 = governança/ETP; 38 = pesquisa de preços; 39 = TR; 40 = compra direta de pequena monta; 41 = dispensa eletrônica)  
 
 ## Base Normativa
 
 Este Termo de Referência é elaborado em conformidade com:
 - Lei nº 14.133/2021, especialmente art. 6º, XXIII;
-- Decreto Municipal nº 39/2022 (ETP e Termo de Referência);
+- Decreto Municipal nº 39/2022 (Termo de Referência);
 - Decreto Municipal nº 38/2022 (Pesquisa de Preços);
 - Demais decretos municipais aplicáveis;
 - Model Context Protocol (MCP);
 - PROTOCOLO_DE_USO_MCP.md.
 
-Este documento decorre diretamente do **Estudo Técnico Preliminar (ETP) previamente aprovado**, do qual constitui desdobramento natural da fase de planejamento da contratação.
+Este documento decorre diretamente do **Estudo Técnico Preliminar (ETP) previamente aprovado** (Decreto Municipal nº 37/2022), do qual constitui desdobramento natural da fase de planejamento da contratação.
+
+**Autoria:** nos termos do art. 1º, § 1º, do Decreto Municipal nº 39/2022, o TR é elaborado pelo Diretor de Gestão Administrativa. TR preparado pelo DTI deve prever a subscrição ou a ratificação pela DGA.
 
 ---
 

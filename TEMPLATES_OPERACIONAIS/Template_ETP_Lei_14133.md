@@ -1,11 +1,25 @@
+---
+titulo: "MODELO DE ESTUDO TÉCNICO PRELIMINAR (ETP)"
+tipo: modelo
+esfera: municipal
+natureza: modelo
+situacao: vigente
+area: [licitacoes]
+fonte: ""
+fonte_url: ""
+ultima_verificacao: 2026-10-02
+arquivo: TEMPLATES_OPERACIONAIS/Template_ETP_Lei_14133.md
+---
+
 # MODELO DE ESTUDO TÉCNICO PRELIMINAR (ETP)
+
+**Última revisão:** 2026-10-02 (mapa de decretos municipais conferido: 37 = governança/ETP; 38 = pesquisa de preços; 39 = TR; 40 = compra direta de pequena monta; 41 = dispensa eletrônica)  
 
 ## Base Normativa
 
 Este Estudo Técnico Preliminar é elaborado em conformidade com:
 - Lei nº 14.133/2021, especialmente art. 18, §1º;
-- Decreto Municipal nº 39/2022 (ETP e Termo de Referência);
-- Decreto Municipal nº 37/2022 (Governança e Gestão de Riscos);
+- Decreto Municipal nº 37/2022 (Governança, planejamento e gestão de riscos; ETP nos arts. 11 e 12);
 - Decreto Municipal nº 38/2022 (Pesquisa de Preços), quando aplicável;
 - Normas e orientações constantes no Model Context Protocol (MCP);
 - PROTOCOLO_DE_USO_MCP.md.
@@ -150,7 +164,7 @@ Identificar:
 ## 16. Posicionamento Conclusivo sobre a Viabilidade da Contratação
 *(art. 18, §1º, XIII, da Lei nº 14.133/2021)*
 
-Concluir quanto à viabilidade técnica, econômica e jurídica da contratação, indicando expressamente se a demanda deve prosseguir para a fase de elaboração do Termo de Referência.
+Concluir quanto à viabilidade técnica, econômica e jurídica da contratação, indicando expressamente se a demanda deve prosseguir para a fase de elaboração do Termo de Referência (Decreto Municipal nº 39/2022).
 
 ---
 
@@ -158,6 +172,6 @@ Concluir quanto à viabilidade técnica, econômica e jurídica da contratação
 
 - Este modelo deve ser utilizado como **estrutura orientativa**.
 - O conteúdo deve ser preenchido conforme o caso concreto.
-- Nos termos do art. 18, §2º, da Lei nº 14.133/2021, o ETP deverá conter **obrigatoriamente** ao menos os elementos dos incisos I, IV, VI, VIII e XIII. Os demais elementos, quando não contemplados, devem ser acompanhados das devidas justificativas.
+- Nos termos do art. 18, §2º, da Lei nº 14.133/2021 e do art. 12 do Decreto Municipal nº 37/2022, o ETP deverá conter **obrigatoriamente** ao menos os elementos dos incisos I, IV, VI, VIII e XIII. Os demais elementos, quando não contemplados, devem ser acompanhados das devidas justificativas.
 - É vedada a utilização automática sem análise técnica e jurídica.
 - Em caso de dúvida normativa, observar o **PROTOCOLO_DE_USO_MCP.md**.

@@ -1,3 +1,16 @@
+---
+titulo: "Súmulas do Supremo Tribunal Federal (STF)"
+tipo: sumulas
+esfera: federal
+natureza: jurisprudencia
+situacao: vigente
+area: [jurisprudencia]
+fonte: "Supremo Tribunal Federal – \"Aplicação das Súmulas no STF\", página de cada súmula"
+fonte_url: "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30"
+ultima_verificacao: 2026-10-02
+arquivo: JURISPRUDENCIA/STF_Sumulas.md
+---
+
 # Súmulas do Supremo Tribunal Federal (STF)
 ## Súmulas 1 a 736 (súmulas comuns, não vinculantes)
 

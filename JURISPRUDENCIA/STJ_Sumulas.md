@@ -1,3 +1,16 @@
+---
+titulo: "Súmulas do Superior Tribunal de Justiça (STJ)"
+tipo: sumulas
+esfera: federal
+natureza: jurisprudencia
+situacao: vigente
+area: [jurisprudencia]
+fonte: "Superior Tribunal de Justiça – \"Enunciados das Súmulas do STJ\" (PDF oficial gerado pelo SCON)"
+fonte_url: "https://www.stj.jus.br/docs_internet/VerbetesSTJ.pdf"
+ultima_verificacao: 2026-10-02
+arquivo: JURISPRUDENCIA/STJ_Sumulas.md
+---
+
 # Súmulas do Superior Tribunal de Justiça (STJ)
 ## Enunciados das Súmulas 1 a 676
 

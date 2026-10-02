@@ -1,12 +1,25 @@
+---
+titulo: "Portaria SGD/MGI nº 5.950, de 26 de outubro de 2023"
+tipo: portaria_federal
+esfera: federal
+natureza: norma_referencia
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Secretaria de Governo Digital (SGD) – Portal Governo Digital"
+fonte_url: "https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/modelo-de-contratacao-de-software-e-servicos-em-nuvem/vigentes/portaria-sgd-mgi-no-5-950-de-26-de-outubro-de-2023"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/Portaria_SGD_MGI_5950_2023_Software_Nuvem.md
+---
+
 # Portaria SGD/MGI nº 5.950, de 26 de outubro de 2023
 ## Modelo de contratação de software e de serviços de computação em nuvem
 
 **Fonte oficial:** Secretaria de Governo Digital (SGD) – Portal Governo Digital  
 **URL:** https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/modelo-de-contratacao-de-software-e-servicos-em-nuvem/vigentes/portaria-sgd-mgi-no-5-950-de-26-de-outubro-de-2023  
 **Publicação:** DOU de 31/10/2023, seção 1, p. 41  
-**Última verificação:** 2026-10-02 (texto extraído da página oficial, inclusive anexos e modelos)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
-**Ementa:** Estabelece modelo de contratação de software e de serviços de computação em nuvem, no âmbito dos órgãos e entidades integrantes do SISP do Poder Executivo Federal.
+**Ementa:** Estabelece modelo de contratação de software e de serviços de computação em nuvem, no âmbito dos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal.
 
 **Abrangência:** licenciamento permanente, cessão temporária de direitos de uso ("locação" de sistemas), subscrição/SaaS, IaaS, PaaS, suporte, operação, migração, integração e consultoria em nuvem.
 
@@ -22,7 +35,7 @@ Este documento integra o Model Context Protocol (MCP) como texto oficial de ato 
 
 ## Texto integral
 
-O SECRETÁRIO DE GOVERNO DIGITAL DO MINISTÉRIO DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS , no uso das atribuições que lhe confere o a rt. 22 do Decreto nº 11.437, de 17 de março de 2023 , e tendo em vista o disposto na Lei nº 14.133, de 1º de abril de 2021, no Decreto nº 7.579 , de 11 de outubro de 2011, no § 2º do art. 8º e nos arts. 39 e 41 da Instrução Normativa SGD/ME n º 94, de 23 de dezembro de 2022, resolve:
+O SECRETÁRIO DE GOVERNO DIGITAL DO MINISTÉRIO DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS, no uso das atribuições que lhe confere o art. 22 do Decreto nº 11.437, de 17 de março de 2023, e tendo em vista o disposto na Lei nº 14.133, de 1º de abril de 2021, no Decreto nº 7.579, de 11 de outubro de 2011, no § 2º do art. 8º e nos arts. 39 e 41 da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022, resolve:
 
 **Art. 1º** Esta Portaria tem por objetivo estabelecer o modelo de contratação de software e de serviços de computação em nuvem, no âmbito dos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal.
 
@@ -30,7 +43,7 @@ CAPÍTULO I
 
 DAS DISPOSIÇÕES PRELIMINARES
 
-**Art. 2º** As contratações de software e de serviços de computação em nuvem deverão ser realizadas observando-se o processo de contratação de soluções de tecnologia da informação e comunicação disposto pela Instrução Normativa SGD/ME n º 94, de 23 de dezembro de 2022, e o modelo de contratação descrito no Anexo I desta Portaria.
+**Art. 2º** As contratações de software e de serviços de computação em nuvem deverão ser realizadas observando-se o processo de contratação de soluções de tecnologia da informação e comunicação disposto pela Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022, e o modelo de contratação descrito no Anexo I desta Portaria.
 
 **Art. 3º** O modelo de contratação descrito no Anexo I desta Portaria é de utilização obrigatória pelos órgãos e entidades do SISP, a partir de 30 de abril de 2024.
 
@@ -78,7 +91,7 @@ IX - integração de serviços de computação em nuvem; e
 
 X - consultoria especializada em software e/ou serviços de computação em nuvem.
 
-**Art. 7º** A contratação dos serviços de que tratam os incisos I a III do art. 4 º pode ser realizada com empresas cujo ramo de atividade seja compatível com o objeto, mediante análise das habilitações jurídica, fiscal e social, nos termos da legislação pertinente, a exemplo da Classificação Nacional de Atividades Econômicas (CNAE), bem como da verificação do contrato social da empresa e do cadastro junto à Fazenda Pública.
+**Art. 7º** A contratação dos serviços de que tratam os incisos I a III do art. 4º pode ser realizada com empresas cujo ramo de atividade seja compatível com o objeto, mediante análise das habilitações jurídica, fiscal e social, nos termos da legislação pertinente, a exemplo da Classificação Nacional de Atividades Econômicas (CNAE), bem como da verificação do contrato social da empresa e do cadastro junto à Fazenda Pública.
 
 CAPÍTULO III
 
@@ -96,7 +109,7 @@ Parágrafo único. O disposto nesta Portaria não se aplica a contratos celebrad
 
 Vigência
 
-**Art. 10.** Esta Portaria entra em vigor em 1 º de novembro de 2023.
+**Art. 10.** Esta Portaria entra em vigor em 1º de novembro de 2023.
 
 ROGÉRIO SOUZA MASCARENHAS
 
@@ -772,7 +785,7 @@ d) fator da USN: definido individualmente para cada serviço, conforme as diretr
 
 e) quantidade mensal estimada: cálculo do consumo mensal estimado para cada serviço, que deve estar de acordo com a unidade de remuneração definida (por exemplo: se a unidade definida for instância/hora, deve-se multiplicar a quantidade de instâncias estimadas pela quantidade de horas previstas no período);
 
-f) volume mensal estimado de USNs: valor expresso em unidades de USN , calculado pelo produto da quantidade mensal pelo valor do fator da USN ; e
+f) volume mensal estimado de USNs: valor expresso em unidades de USN, calculado pelo produto da quantidade mensal pelo valor do fator da USN ; e
 
 g) justificativa: descrição das premissas que fundamentaram os cálculos, de acordo com as diretrizes estabelecidas na seção Dimensionamento do Volume de Serviços deste modelo.
 
@@ -1350,7 +1363,7 @@ e) prospecção de alternativas de atendimento aos requisitos junto a diferentes
 
 f) identificação da compatibilidade de produtos alternativos que viabilizem a utilização da solução, de modo a não aceitar que se condicione o fornecimento de produto ou de serviço ao fornecimento de solução específica, nos casos de indicação pelo fabricante da necessidade de produtos específicos para viabilizar a utilização da solução a ser contratada;
 
-11.2. Para realização da análise comparativa de soluções, deve-se considerar aspectos qualitativos e quantitativos (aquisição, implantação, manutenção, ampliação/redução, renovação/substituição, migração), conforme modelo de referência constante do ANEXO III , que poderá ser ajustado de acordo com a realidade do órgão ou projeto.
+11.2. Para realização da análise comparativa de soluções, deve-se considerar aspectos qualitativos e quantitativos (aquisição, implantação, manutenção, ampliação/redução, renovação/substituição, migração), conforme modelo de referência constante do ANEXO III, que poderá ser ajustado de acordo com a realidade do órgão ou projeto.
 
 11.3. Caso haja previsão do software ou serviços de computação em nuvem a serem contratados nos Catálogos de Soluções de TIC publicados pela SGD e houver a indicação pela SGD da forma de licenciamento ou comercialização mais adequada, o órgão ou entidade está dispensado de abordar a perspectiva descrita no subitem 11.1.d, salvo se a escolha da forma de comercialização ou de licenciamento diferenciar daquela recomendada pela SGD.
 
@@ -1408,7 +1421,7 @@ f) informações relacionadas ao padrão esperado de atividades do órgão ou en
 
 15.2. Dimensionamento do volume de serviços
 
-15.2.1. No Estudo Técnico Preliminar, o dimensionamento do volume de serviços a serem contratados deve ser precedido de memória de cálculo, conforme ANEXO V , que deve conter, no mínimo, os seguintes elementos:
+15.2.1. No Estudo Técnico Preliminar, o dimensionamento do volume de serviços a serem contratados deve ser precedido de memória de cálculo, conforme ANEXO V, que deve conter, no mínimo, os seguintes elementos:
 
 a) as premissas que fundamentam os cálculos, devidamente justificadas, que devem, sempre que possível, se basear em medidas de mercado, com a identificação de quem as estabeleceu e de como a equipe de planejamento da contratação teve ciência delas;
 
@@ -2124,7 +2137,7 @@ b) parcialmente gerenciado pelo cloud broker.
 
 25.4. Para se definir os limites dos modelos de compartilhamento de responsabilidades, deve-se estabelecer no Termo de Referência uma matriz de responsabilidades capaz de identificar, controlar e assegurar as responsabilidades na relação entre o cloud broker e o órgão ou entidade contratante, identificando-se o ator e o respectivo papel ou função.
 
-25.5. A matriz de responsabilidades, cujo modelo consta no ANEXO IV , deve incluir um registro formal sobre o uso de serviços de computação em nuvem no órgão ou entidade, contendo, a exemplo, as seguintes informações:
+25.5. A matriz de responsabilidades, cujo modelo consta no ANEXO IV, deve incluir um registro formal sobre o uso de serviços de computação em nuvem no órgão ou entidade, contendo, a exemplo, as seguintes informações:
 
 a) a função na prestação dos serviços;
 
@@ -2178,13 +2191,13 @@ e) Estabelecimento de uma política de governança: deve-se assegurar que a pol�
 
 f) Diretrizes de uso seguro de software e de serviços de computação em nuvem: o órgão ou entidade deve conhecer os normativos que versam sobre segurança da informação e sobre o tratamento de informações em nuvem, bem como identificar, sob essa perspectiva, quais os sistemas ou workloads que podem ser migrados, assim como as medidas de gerenciamento de risco a serem adotadas para resguardar as informações sigilosas que eventualmente serão tratadas em ambiente de nuvem;
 
-g) Avaliação quanto às condições mínimas de infraestrutura de TIC do órgão ou entidade para utilizar serviços de computação em nuvem , a exemplo de conexão estável com a Internet e com banda suficiente;
+g) Avaliação quanto às condições mínimas de infraestrutura de TIC do órgão ou entidade para utilizar serviços de computação em nuvem, a exemplo de conexão estável com a Internet e com banda suficiente;
 
-h) Definição de diretrizes de governança para o uso da nuvem , com papéis e responsabilidades dos atores organizacionais (da TI, das áreas de negócio e da nuvem);
+h) Definição de diretrizes de governança para o uso da nuvem, com papéis e responsabilidades dos atores organizacionais (da TI, das áreas de negócio e da nuvem);
 
 i) Estabelecimento dos princípios norteadores da estratégia (ex.: cloud first, lift-and-shift como último recurso, uso de broker multicloud etc.);
 
-j) Alinhamento com outros planos estratégicos , a exemplo do Plano Estratégico Institucional (PEI), Plano Estratégico de TI (PETI), Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC), Plano de Contratações Anual (PCA), Planos de Segurança da Informação, etc.;
+j) Alinhamento com outros planos estratégicos, a exemplo do Plano Estratégico Institucional (PEI), Plano Estratégico de TI (PETI), Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC), Plano de Contratações Anual (PCA), Planos de Segurança da Informação, etc.;
 
 k) Estabelecimento de linhas de base e metas de benefícios/resultados esperados, a exemplo de mapeamento “AS IS” e “TO BE”, objetivando maior agilidade, redução de custos, resiliência, mais segurança etc.);
 
@@ -2720,7 +2733,7 @@ hora
 
 7.647
 
-Máquinas destinadas às cargas de trabalho dos sistemas X, Y , ...N; Máquinas destinadas a banco de dados dos sistemas X, Y, ...N ;
+Máquinas destinadas às cargas de trabalho dos sistemas X, Y, ...N; Máquinas destinadas a banco de dados dos sistemas X, Y, ...N ;
 
 Nº mensal de máquinas = (qtd. Máq. Sistema X * % de crescimento do sistema X) + (qtd. Máq. Sistema Y * % de crescimento do sistema Y) + (qtd. Máq. Sistema ...N * % de crescimento do sistema ...N)
 

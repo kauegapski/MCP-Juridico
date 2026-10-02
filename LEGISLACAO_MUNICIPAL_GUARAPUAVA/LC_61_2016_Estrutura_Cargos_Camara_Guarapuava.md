@@ -1,3 +1,16 @@
+---
+titulo: "Lei Complementar nº 61/2016 – Poder Legislativo de Guarapuava"
+tipo: lei_complementar_municipal
+esfera: municipal
+natureza: norma_vinculante
+situacao: vigente
+area: [administracao_camara, pessoal]
+fonte: "Sistema Legislativo da Câmara Municipal de Guarapuava, texto consolidado (https://pr-guarapuava-camara.sistemalegislativo.com.br/documento/lei-complementar-no-61-2016-7007/texto:compilado), extraído em 24/09/2026"
+fonte_url: "https://pr-guarapuava-camara.sistemalegislativo.com.br/documento/lei-complementar-no-61-2016-7007/texto:compilado"
+ultima_verificacao: 2026-09-24
+arquivo: LEGISLACAO_MUNICIPAL_GUARAPUAVA/LC_61_2016_Estrutura_Cargos_Camara_Guarapuava.md
+---
+
 # Lei Complementar nº 61/2016 – Poder Legislativo de Guarapuava
 
 ## Quadro de Pessoal, Estrutura Administrativa, Plano de Cargos, Salários e Carreira e Atribuições dos Servidores da Câmara Municipal de Guarapuava

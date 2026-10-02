@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 8.072, de 25 de julho de 1990"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [penal]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/leis/l8072.htm"
+ultima_verificacao: 2026-10-02
+arquivo: PENAL/Lei_8072_1990_Crimes_Hediondos.md
+---
+
 # Lei nº 8.072, de 25 de julho de 1990
 ## Crimes Hediondos
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/leis/l8072.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 
@@ -24,7 +37,7 @@ Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso XLIII, da Cons
 
 O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:
 
-Art. 1º São considerados hediondos os seguintes crimes, todos tipificados no Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal, consumados ou tentados: (Redação dada pela Lei nº 8.930, de 1994) (Vide Lei nº 7.210, de 1984)
+Art. 1º São considerados hediondos os seguintes crimes, todos tipificados no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, consumados ou tentados: (Redação dada pela Lei nº 8.930, de 1994) (Vide Lei nº 7.210, de 1984)
 
 I - homicídio (art. 121), quando praticado em atividade típica de grupo de extermínio, ainda que cometido por 1 (um) só agente, e homicídio qualificado (art. 121, § 2º); (Redação dada pela Lei nº 15.159, de 2025)
 
@@ -60,7 +73,7 @@ VII - epidemia com resultado morte (art. 267, § 1º). (Inciso incluído pela Le
 
 VII-A – (VETADO) (Inciso incluído pela Lei nº 9.695, de 1998)
 
-VII-B - falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e § 1º, § 1º-A e § 1º-B, com a redação dada pela Lei n o 9.677, de 2 de julho de 1998). (Inciso incluído pela Lei nº 9.695, de 1998)
+VII-B - falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e § 1º, § 1º-A e § 1º-B, com a redação dada pela Lei nº 9.677, de 2 de julho de 1998). (Inciso incluído pela Lei nº 9.695, de 1998)
 
 VIII - favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável (art. 218-B, caput, e §§ 1º e 2º). (Incluído pela Lei nº 12.978, de 2014)
 
@@ -102,7 +115,7 @@ II - fiança. (Redação dada pela Lei nº 11.464, de 2007)
 
 § 3º Em caso de sentença condenatória, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade. (Redação dada pela Lei nº 11.464, de 2007)
 
-§ 4º A prisão temporária, sobre a qual dispõe a Lei n o 7.960, de 21 de dezembro de 1989, nos crimes previstos neste artigo, terá o prazo de 30 (trinta) dias, prorrogável por igual período em caso de extrema e comprovada necessidade. (Incluído pela Lei nº 11.464, de 2007)
+§ 4º A prisão temporária, sobre a qual dispõe a Lei nº 7.960, de 21 de dezembro de 1989, nos crimes previstos neste artigo, terá o prazo de 30 (trinta) dias, prorrogável por igual período em caso de extrema e comprovada necessidade. (Incluído pela Lei nº 11.464, de 2007)
 
 Art. 3º A União manterá estabelecimentos penais, de segurança máxima, destinados ao cumprimento de penas impostas a condenados de alta periculosidade, cuja permanência em presídios estaduais ponha em risco a ordem ou incolumidade pública.
 

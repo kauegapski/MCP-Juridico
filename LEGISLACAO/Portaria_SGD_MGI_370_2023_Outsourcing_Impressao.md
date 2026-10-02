@@ -1,3 +1,16 @@
+---
+titulo: "Portaria SGD/MGI nº 370, de 8 de março de 2023"
+tipo: portaria_federal
+esfera: federal
+natureza: norma_referencia
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Secretaria de Governo Digital (SGD) – Portal Governo Digital"
+fonte_url: "https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/modelo-de-contratacao-de-servicos-de-outsourcing-de-impressao/anexos/portaria-sgd-mgi-no-370-de-8-de-marco-de-2023"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/Portaria_SGD_MGI_370_2023_Outsourcing_Impressao.md
+---
+
 # Portaria SGD/MGI nº 370, de 8 de março de 2023
 ## Modelo de contratação de serviços de outsourcing de impressão
 
@@ -6,7 +19,7 @@
 **Publicação:** DOU de 14/03/2023, seção 1, p. 18  
 **Vigência:** 1º de abril de 2023 (art. 6º). Revogou a Portaria SGD/ME nº 844/2022.  
 **Planilha-modelo de compensação de franquia:** https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/modelo-de-contratacao-de-servicos-de-outsourcing-de-impressao/anexos/anexoorientacoesoutsourcingdeimpressao_planilhamodelo_com.xlsx  
-**Última verificação:** 2026-10-02 (texto extraído da página oficial)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 **Relação com a norma municipal:** esta norma é federal e vincula diretamente apenas os órgãos e entidades do SISP do Poder Executivo Federal. No Poder Legislativo de Guarapuava, a fase preparatória é regida pela Lei nº 14.133/2021 e pelos Decretos Municipais nº 37 a 41/2022. Para a Câmara, este texto serve como **referência técnica correlata** (art. 187 da Lei nº 14.133/2021 faculta aos Municípios aplicar regulamentos da União), não podendo ser citado como fundamento obrigatório, salvo adoção expressa por ato local ou execução de recursos federais que a exijam.
 
@@ -26,7 +39,7 @@ PORTARIA SGD/MGI Nº 370, DE 8 DE MARÇO DE 2023
 
 Institui o Modelo de Contratação de Serviços de outsourcing de impressão, no âmbito dos órgãos e das entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal.
 
-O SECRETÁRIO DE GOVERNO DIGITAL DO MINISTÉRIO DA GESTÃO E INOVAÇÃO EM SERVIÇOS PÚBLICOS , no uso das atribuições que lhe conferem o art. 29 do Decreto nº 11.345, de 1º de janeiro de 2023, e tendo em vista o disposto no Decreto n º 7.579, de 11 de outubro de 2011, e no art. 39 da Instrução Normativa SGD-ME nº 94, de 23 de dezembro de 2022, e o disposto na Lei nº 14.133, de 1º de abril de 2021, resolve:
+O SECRETÁRIO DE GOVERNO DIGITAL DO MINISTÉRIO DA GESTÃO E INOVAÇÃO EM SERVIÇOS PÚBLICOS, no uso das atribuições que lhe conferem o art. 29 do Decreto nº 11.345, de 1º de janeiro de 2023, e tendo em vista o disposto no Decreto nº 7.579, de 11 de outubro de 2011, e no art. 39 da Instrução Normativa SGD-ME nº 94, de 23 de dezembro de 2022, e o disposto na Lei nº 14.133, de 1º de abril de 2021, resolve:
 
 **Art. 1º** Estabelecer o modelo de contratação de serviços de outsourcing de impressão, no âmbito dos órgãos e das entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal.
 
@@ -34,7 +47,7 @@ CAPÍTULO I
 
 DAS DISPOSIÇÕES PRELIMINARES
 
-**Art. 2º** A contratação de serviços de outsourcing de impressão deverá ser realizada observando-se o processo de contratação de solução de tecnologia da informação e comunicação disposto na Instrução Normativa SGD-ME nº 94, de 23 de dezembro de 2022 , e o modelo de contratação descrito no Anexo a esta Portaria.
+**Art. 2º** A contratação de serviços de outsourcing de impressão deverá ser realizada observando-se o processo de contratação de solução de tecnologia da informação e comunicação disposto na Instrução Normativa SGD-ME nº 94, de 23 de dezembro de 2022, e o modelo de contratação descrito no Anexo a esta Portaria.
 
 **Art. 3º** O modelo de contratação de serviços de outsourcing de impressão é de utilização obrigatória.
 
@@ -46,7 +59,7 @@ DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Orientações Gerais
 
-**Art. 4º** Os casos omissos decorrentes da aplicação desta Portaria serão dirimidos pela Secretaria de Governo Digital do Ministério da Gestão e Inovação em Serviços Públicos , que poderá expedir normas complementares, bem como disponibilizar em meio eletrônico informações e recursos adicionais.
+**Art. 4º** Os casos omissos decorrentes da aplicação desta Portaria serão dirimidos pela Secretaria de Governo Digital do Ministério da Gestão e Inovação em Serviços Públicos, que poderá expedir normas complementares, bem como disponibilizar em meio eletrônico informações e recursos adicionais.
 
 Disposições Transitórias
 
@@ -84,13 +97,13 @@ d) Melhoria dos instrumentos de fiscalização e gestão contratual.
 
 1.5. Por fim, independentemente das disposições deste modelo e da modalidade a ser adotada, é dever do órgão criar e institucionalizar uma Política de Impressão que instrua os usuários quanto à correta utilização dos equipamentos de impressão e digitalização, sejam eles próprios ou cedidos via terceirização de serviços.
 
-1.6. A Política de Impressão pode variar conforme as necessidades e particularidades de cada órgão ou entidade, todavia deve tratar e orientar sobre assuntos como: uso consciente de impressões monocromáticas e policromáticas, combate ao desperdício, uso da impressão frente e verso (duplex), evitar a impressão de e-mails , diretrizes sobre monitoramento ou auditoria, controle de tarifação e cotas de impressão, entre outras.
+1.6. A Política de Impressão pode variar conforme as necessidades e particularidades de cada órgão ou entidade, todavia deve tratar e orientar sobre assuntos como: uso consciente de impressões monocromáticas e policromáticas, combate ao desperdício, uso da impressão frente e verso (duplex), evitar a impressão de e-mails, diretrizes sobre monitoramento ou auditoria, controle de tarifação e cotas de impressão, entre outras.
 
 2. TERMOS E DEFINIÇÕES
 
 2.1. Para os efeitos deste documento, aplicam-se os seguintes termos e definições:
 
-2.1.1. Custo total de propriedade (do inglês Total Cost of Ownership - TCO): é uma técnica de análise de custos que considera os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos diretos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção, licenças de software , serviços de instalação, configuração, suporte, treinamento, apoio para a colocação da solução em produção, execução de rotinas de produção pelo órgão ou pela contratada, bem como outros consumíveis.
+2.1.1. Custo total de propriedade (do inglês Total Cost of Ownership - TCO): é uma técnica de análise de custos que considera os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos diretos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção, licenças de software, serviços de instalação, configuração, suporte, treinamento, apoio para a colocação da solução em produção, execução de rotinas de produção pelo órgão ou pela contratada, bem como outros consumíveis.
 
 2.1.2. Franquia: Na cobrança com franquia é definido um valor mínimo a ser cobrado, junto com um limite de cópias mensal para o cliente. Caso o cliente ultrapasse esse número de impressões/cópias estipulado, será feito o pagamento da franquia somado com o valor das páginas excedentes.
 
@@ -438,7 +451,7 @@ a) Especificar no Termo de Referência e edital que são de responsabilidade da 
 
 b) Devem estar claramente estabelecidos os valores fixos de remuneração dos equipamentos e os valores cobrados por página a ser impressa, detalhados por tamanho de papel e por tipo de impressão, tanto no Termo de Referência quanto nas propostas dos fornecedores.
 
-c) Faz-se necessária a análise do Custo Total de Propriedade através do cálculo do Custo Unitário Total (CUT) por página, para se comparar com as demais modalidades de outsourcing , haja vista não ser possível a comparação direta do custo unitário por página especificado na modalidade remuneração por equipamento mais páginas impressas. O CUT por página pode ser obtido através da soma do valor total da remuneração pelo equipamento (VE) com o valor total das impressões/cópias (VI) dividida pela quantidade estimada de impressões/cópias (QI): CUT = (VE+VI)/QI, separando-se por tamanho de papel e tipo de impressão.
+c) Faz-se necessária a análise do Custo Total de Propriedade através do cálculo do Custo Unitário Total (CUT) por página, para se comparar com as demais modalidades de outsourcing, haja vista não ser possível a comparação direta do custo unitário por página especificado na modalidade remuneração por equipamento mais páginas impressas. O CUT por página pode ser obtido através da soma do valor total da remuneração pelo equipamento (VE) com o valor total das impressões/cópias (VI) dividida pela quantidade estimada de impressões/cópias (QI): CUT = (VE+VI)/QI, separando-se por tamanho de papel e tipo de impressão.
 
 d) Não se deve estabelecer uma franquia de páginas quando o objeto da contratação envolver a presente modalidade. Entretanto, deve ser estabelecida no Termo de Referência uma estimativa mensal ou anual de páginas por equipamento para composição do preço unitário da página impressa.
 
@@ -604,7 +617,7 @@ b) Uso do crachá funcional para autorização das impressões junto ao leitor d
 
 9. REQUISITOS TÉCNICOS DOS EQUIPAMENTOS
 
-9.1. Recomenda-se a especificação de equipamentos de impressão policromática apenas para os casos em que seja necessária a utilização de cores em volume que justifique sua contratação, assim como a especificação de equipamentos de impressão de papel em formato A3, em atendimento ao princípio da motivação dos atos administrativos, conforme disposto na Lei nº 9.784 , de 29 de janeiro de 1999, art. 2º, caput .
+9.1. Recomenda-se a especificação de equipamentos de impressão policromática apenas para os casos em que seja necessária a utilização de cores em volume que justifique sua contratação, assim como a especificação de equipamentos de impressão de papel em formato A3, em atendimento ao princípio da motivação dos atos administrativos, conforme disposto na Lei nº 9.784, de 29 de janeiro de 1999, art. 2º, caput .
 
 9.2. Embora recomende-se que as impressoras contemplem uma quantidade maior de usuários por equipamento, podem existir situações excepcionais que requeiram especificações de equipamentos de uso individual ou de conveniência. Entretanto, tais situações devem ser devidamente justificadas.
 
@@ -612,7 +625,7 @@ b) Uso do crachá funcional para autorização das impressões junto ao leitor d
 
 a) Classificação do equipamento: impressora, multifuncional;
 
-b) Tecnologia da impressão: tecnologia laser , LED, jato de tinta ou equivalente; ( vide subitem 9.9);
+b) Tecnologia da impressão: tecnologia laser, LED, jato de tinta ou equivalente; ( vide subitem 9.9);
 
 c) Tamanhos de papel e suas respectivas gramaturas (vide item 10);
 
@@ -626,7 +639,7 @@ g) Não deve haver restrições para as propostas de fornecedores, que poderão 
 
 h) Compatibilidade dos equipamentos com sistemas operacionais e padrões/protocolos de rede utilizados no órgão; e
 
-i) Quando o equipamento for multifuncional com scanner , recomenda-se especificar:
+i) Quando o equipamento for multifuncional com scanner, recomenda-se especificar:
 
 I - Tamanho do documento a ser digitalizado, tanto a partir do vidro de exposição quanto do alimentador automático de documentos - ADF (quando houver): A3, A4, Carta, Ofício, etc.;
 
@@ -712,17 +725,17 @@ f) Temperatura (faixa de operação) do equipamento durante a impressão.
 
 9.8.1. Caso haja justificativa que saliente a necessidade de fac-símile (fax), o termo de referência deve trazer também cláusula exigindo que o equipamento ofertado esteja de acordo com o regulamento para certificação e homologação de produtos para telecomunicações, anexo à Resolução nº 715, de 23 de outubro de 2019, da Agência Nacional de Telecomunicações (Anatel).
 
-9.9. Com os recentes avanços da tecnologia a jato de tinta, no mercado corporativo, os resultados das páginas impressas entre um equipamento laser , led ou jato de tinta ( inkjet ) são comparáveis e equivalentes.
+9.9. Com os recentes avanços da tecnologia a jato de tinta, no mercado corporativo, os resultados das páginas impressas entre um equipamento laser, led ou jato de tinta ( inkjet ) são comparáveis e equivalentes.
 
 9.10. De modo a ampliar a competitividade no setor de outsourcing de impressão, considera-se também que as impressoras a jato de tinta, voltadas ao mercado corporativo, podem ser utilizadas nas contratações de outsourcing de impressão (referência: Acórdão TCU nº 2.175/2021- Plenário).
 
-9.11. Sendo assim, recomenda-se que no termo de referência, em contratações de outsourcing de impressão, seja utilizada a nomenclatura: “tecnologia laser , LED, jato de tinta ou equivalente”.
+9.11. Sendo assim, recomenda-se que no termo de referência, em contratações de outsourcing de impressão, seja utilizada a nomenclatura: “tecnologia laser, LED, jato de tinta ou equivalente”.
 
-9.12. Independentemente da tecnologia da impressão ( laser , led ou jato de tinta), devem ser evitados aqueles equipamentos voltados ao público residencial.
+9.12. Independentemente da tecnologia da impressão ( laser, led ou jato de tinta), devem ser evitados aqueles equipamentos voltados ao público residencial.
 
-9.13. Em equipamentos multifuncionais com recurso de scanner , é desejável que a solução ofertada permita que, após sua digitalização, o arquivo possa ser encaminhado via correio eletrônico, caminho de rede (SMB) ou servidor FTP. Os equipamentos que possuam saída USB devem permitir salvamento do arquivo gerado em um dispositivo do tipo USB flash drive (pendrive) .
+9.13. Em equipamentos multifuncionais com recurso de scanner, é desejável que a solução ofertada permita que, após sua digitalização, o arquivo possa ser encaminhado via correio eletrônico, caminho de rede (SMB) ou servidor FTP. Os equipamentos que possuam saída USB devem permitir salvamento do arquivo gerado em um dispositivo do tipo USB flash drive (pendrive) .
 
-9.14. Outras exigências como: impressão a partir de dispositivos móveis, conectividade wireless , leitor de cartões RFID ou smartcards devem ser justificadas, demonstrando a existência de demanda e sua imprescindibilidade para a prestação dos serviços, de modo a restringir tais recursos apenas aos locais onde efetivamente serão necessários.
+9.14. Outras exigências como: impressão a partir de dispositivos móveis, conectividade wireless, leitor de cartões RFID ou smartcards devem ser justificadas, demonstrando a existência de demanda e sua imprescindibilidade para a prestação dos serviços, de modo a restringir tais recursos apenas aos locais onde efetivamente serão necessários.
 
 9.15. Após identificar as especificações mínimas requeridas, é importante pesquisar um conjunto representativo de marcas e modelos de equipamentos que atendam às especificações mínimas. Esta ação amplia a competitividade e mitiga os riscos de possível direcionamento a uma marca ou fornecedor específico.
 
@@ -776,7 +789,7 @@ h) Por sigilo de documento: quantidade de impressões classificadas como sigilos
 
 11.11.1. Documentos classificados como confidenciais, a critério de cada solicitante, não devem ser armazenados, mas continuam sendo tarifados normalmente. Todavia, a quantidade de documentos confidenciais impressos pelos usuários deve ser auditada, de modo a restringir eventuais abusos.
 
-11.12. É desejável que o software possua recursos de redirecionamento dos trabalhos de impressão de uma impressora off-line para uma impressora on-line , mantendo-se a contabilização para o usuário que solicitou a impressão. É desejável que o usuário seja notificado em tela, inclusive com possibilidade de optar para qual equipamento o trabalho deva ser encaminhado.
+11.12. É desejável que o software possua recursos de redirecionamento dos trabalhos de impressão de uma impressora off-line para uma impressora on-line, mantendo-se a contabilização para o usuário que solicitou a impressão. É desejável que o usuário seja notificado em tela, inclusive com possibilidade de optar para qual equipamento o trabalho deva ser encaminhado.
 
 12. RECOMENDAÇÕES SOBRE O GERENCIAMENTO DE NÍVEIS MÍNIMOS DE SERVIÇOS
 
@@ -946,9 +959,9 @@ O Termo de Referência deve descrever claramente, o número de reincidências de
 
 17. RECOMENDAÇÕES SOBRE LOGÍSTICA REVERSA E SUSTENTABILIDADE AMBIENTAL
 
-17.1. Deve-se prever no Termo de Referência cláusula relacionado ao dever da contratada em fornecer equipamentos sustentáveis, comprovados por documento de certificação (ou na sua falta, por meio de diligências do órgão), em atenção ao Decreto n º 10.240, de 12 de fevereiro de 2020, que estabelece a implementação de sistema de logística reversa de produtos eletroeletrônicos e seus componentes de uso doméstico.
+17.1. Deve-se prever no Termo de Referência cláusula relacionado ao dever da contratada em fornecer equipamentos sustentáveis, comprovados por documento de certificação (ou na sua falta, por meio de diligências do órgão), em atenção ao Decreto nº 10.240, de 12 de fevereiro de 2020, que estabelece a implementação de sistema de logística reversa de produtos eletroeletrônicos e seus componentes de uso doméstico.
 
-17.2. É necessário especificar que a logística reversa deve ser de responsabilidade da contratada, que deverá obedecer a todas as normas específicas vigentes para a destinação final, inclusive de restos de toner , cartuchos e embalagens dos produtos utilizados, em conformidade com a legislação vigente, como a Lei nº 12.305, de 2 de agosto de 2010 (Política Nacional de Resíduos Sólidos), e os preceitos de preservação ambiental.
+17.2. É necessário especificar que a logística reversa deve ser de responsabilidade da contratada, que deverá obedecer a todas as normas específicas vigentes para a destinação final, inclusive de restos de toner, cartuchos e embalagens dos produtos utilizados, em conformidade com a legislação vigente, como a Lei nº 12.305, de 2 de agosto de 2010 (Política Nacional de Resíduos Sólidos), e os preceitos de preservação ambiental.
 
 17.3. De modo a atender essas disposições, deve ser exigido no Termo de Referência e Edital que a empresa forneça o Plano de Gerenciamento de Resíduos Sólidos ou Declaração de Sustentabilidade Ambiental, comprovando a correta destinação dos cartuchos/ toners usados e o pleno atendimento à legislação supracitada.
 
@@ -960,7 +973,7 @@ O Termo de Referência deve descrever claramente, o número de reincidências de
 
 18.1. Deve-se observar as vedações, independentemente da modalidade de contratação, a seguir:
 
-a) Aglutinações de serviços de naturezas distintas que possam diminuir a competitividade e criar dependência excessiva da contratada, como por exemplo: serviços de outsourcing de impressão com contratação de serviços de plotagem sob demanda ou de impressoras térmicas; serviços de outsourcing de impressão com serviços de GED ou, ainda, serviços de outsourcing de impressão com contratação de serviços gráficos/serigrafia ou grandes formatos em um mesmo contrato. Mesmo que existam justificativas para que as contratações ocorram juntamente, deve-se desmembrá-las em lotes, para adjudicação separada, conforme determinam o inciso II do art. 47 da Lei nº 14.133, de 2021 , a Súmula 247 do TCU e art. 12, § 2º, I, da Instrução Normativa SGD/ME nº 94, de 2022.
+a) Aglutinações de serviços de naturezas distintas que possam diminuir a competitividade e criar dependência excessiva da contratada, como por exemplo: serviços de outsourcing de impressão com contratação de serviços de plotagem sob demanda ou de impressoras térmicas; serviços de outsourcing de impressão com serviços de GED ou, ainda, serviços de outsourcing de impressão com contratação de serviços gráficos/serigrafia ou grandes formatos em um mesmo contrato. Mesmo que existam justificativas para que as contratações ocorram juntamente, deve-se desmembrá-las em lotes, para adjudicação separada, conforme determinam o inciso II do art. 47 da Lei nº 14.133, de 2021, a Súmula 247 do TCU e art. 12, § 2º, I, da Instrução Normativa SGD/ME nº 94, de 2022.
 
 b) Exigência de apresentação de atestado, declaração do fabricante, carta de solidariedade ou credenciamento junto ao fabricante do equipamento, como condição para habilitação. Tais exigências extrapolam o que determinam os art. 62 a 70, da Lei nº 14.133, de 2021.
 

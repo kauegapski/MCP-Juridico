@@ -1,3 +1,16 @@
+---
+titulo: "Súmulas Vinculantes do Supremo Tribunal Federal (STF)"
+tipo: sumulas
+esfera: federal
+natureza: jurisprudencia
+situacao: vigente
+area: [jurisprudencia]
+fonte: "Supremo Tribunal Federal – \"Aplicação das Súmulas no STF\", página de cada súmula vinculante"
+fonte_url: "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26"
+ultima_verificacao: 2026-10-02
+arquivo: JURISPRUDENCIA/STF_Sumulas_Vinculantes.md
+---
+
 # Súmulas Vinculantes do Supremo Tribunal Federal (STF)
 ## Súmulas Vinculantes 1 a 63 (CF, art. 103-A)
 

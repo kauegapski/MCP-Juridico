@@ -1,6 +1,21 @@
+---
+titulo: "Tribunal de Contas do Estado do Paraná (TCE-PR)"
+tipo: orientacao
+esfera: estadual
+natureza: orientacao
+situacao: historico
+area: [licitacoes]
+fonte: "Portal do TCE-PR"
+fonte_url: "https://www1.tce.pr.gov.br/conteudo/manual-de-licitacoes/305196/area/251"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCE_PR_Manual_Licitacoes.md
+---
+
 # Tribunal de Contas do Estado do Paraná (TCE-PR)
 
 ## Manual de Licitações – TCE-PR
+
+> ⚠️ **MATERIAL HISTÓRICO — 3ª edição (2021), que tem entre suas bases normativas a Lei nº 10.520/2002 (Pregão), revogada em 30/12/2023 pelo art. 193, II, "b", da Lei nº 14.133/2021.** Usar apenas para compreensão de institutos que permaneceram (ex.: tratamento diferenciado da LC nº 123/2006). Para contratações atuais, prevalecem a Lei nº 14.133/2021, os Decretos Municipais nº 37 a 41/2022 e as fichas atualizadas desta pasta (TCE-PR Prejulgados/Consultas, TCU 5ª ed. 2024).
 
 **Edição:** 3ª edição – revista, atualizada e ampliada  
 **Ano:** 2021  
@@ -24,10 +39,10 @@ Licitações e contratos administrativos, com foco em:
 
 **Base normativa relacionada:**  
 - Lei nº 14.133/2021  
-- Lei nº 10.520/2002  
+- Lei nº 10.520/2002 (revogada em 30/12/2023 — art. 193, II, "b", da Lei nº 14.133/2021)  
 - Lei Complementar nº 123/2006  
 
-**Última verificação da fonte:** 2025-01-01
+**Última verificação da fonte:** 2026-10-02 (URL ativa; classificado como material histórico)
 
 ---
 

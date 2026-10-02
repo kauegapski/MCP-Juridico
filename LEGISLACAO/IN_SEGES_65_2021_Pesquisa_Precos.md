@@ -1,10 +1,25 @@
+---
+titulo: "Instrução Normativa SEGES/ME nº 65, de 7 de julho de 2021"
+tipo: instrucao_normativa_federal
+esfera: federal
+natureza: norma_referencia
+situacao: vigente
+area: [licitacoes]
+fonte: "Ministério da Economia – Secretaria de Gestão (SEGES)"
+fonte_url: "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/IN_SEGES_65_2021_Pesquisa_Precos.md
+---
+
 # Instrução Normativa SEGES/ME nº 65, de 7 de julho de 2021
 ## Pesquisa de Preços
 
 **Fonte oficial:** Ministério da Economia – Secretaria de Gestão (SEGES)  
 **URL:** https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021  
 **Versão:** Texto consolidado  
-**Última verificação:** 2026-09-24 (texto conferido, sem divergências, com a versão do Portal de Compras obtida em 17/06/2025)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
+
+**Relação com a norma municipal:** no âmbito do Poder Legislativo de Guarapuava, a pesquisa de preços é disciplinada pelo **Decreto Municipal nº 38/2022**, que prevalece como regulamento local. Esta Instrução Normativa vincula a administração pública federal e, nos termos do § 2º do seu art. 1º, os entes que executem recursos da União decorrentes de transferências voluntárias; fora dessa hipótese, serve à Câmara apenas como referência técnica (art. 187 da Lei nº 14.133/2021).  
 
 ---
 

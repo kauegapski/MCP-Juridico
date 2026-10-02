@@ -1,3 +1,16 @@
+---
+titulo: "Lei Complementar nº 120/2020 – Município de Guarapuava"
+tipo: lei_complementar_municipal
+esfera: municipal
+natureza: norma_vinculante
+situacao: vigente
+area: [administracao_camara, pessoal]
+fonte: "Sistema Legislativo da Câmara Municipal de Guarapuava, texto consolidado (https://pr-guarapuava-camara.sistemalegislativo.com.br/documento/lei-complementar-no-120-2020-126163), extraído em 21/05/2026"
+fonte_url: "https://pr-guarapuava-camara.sistemalegislativo.com.br/documento/lei-complementar-no-120-2020-126163"
+ultima_verificacao: 2026-09-24
+arquivo: LEGISLACAO_MUNICIPAL_GUARAPUAVA/LC_120_2020_Estatuto_Servidores_Guarapuava.md
+---
+
 # Lei Complementar nº 120/2020 – Município de Guarapuava
 
 ## Regime Jurídico dos Servidores Públicos do Município de Guarapuava (Estatuto dos Servidores)

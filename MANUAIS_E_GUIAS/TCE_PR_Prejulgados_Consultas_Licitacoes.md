@@ -1,3 +1,16 @@
+---
+titulo: "TCE-PR — Prejulgados e respostas a consultas sobre licitações"
+tipo: orientacao
+esfera: estadual
+natureza: orientacao
+situacao: vigente
+area: [licitacoes]
+fonte: "Tribunal de Contas do Estado do Paraná (TCE-PR)"
+fonte_url: "https://www.tce.pr.gov.br/conteudo/licitacoes.htm"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCE_PR_Prejulgados_Consultas_Licitacoes.md
+---
+
 # TCE-PR — Prejulgados e respostas a consultas sobre licitações
 
 **Órgão emissor:** Tribunal de Contas do Estado do Paraná (TCE-PR)  

@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 9.503, de 23 de setembro de 1997"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [penal]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+ultima_verificacao: 2026-10-02
+arquivo: PENAL/Lei_9503_1997_Codigo_Transito.md
+---
+
 # Lei nº 9.503, de 23 de setembro de 1997
 ## Código de Trânsito Brasileiro (crimes: arts. 291 a 312-B)
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 
@@ -1768,7 +1781,7 @@ I - (VETADO); e (Incluído pela Lei nº 14.599, de 2023)
 
 II - a suspensão do direito de dirigir pelo período de 3 (três) meses, condicionado o levantamento da suspensão à inclusão no Renach de resultado negativo em novo exame, vedada a aplicação de outras penalidades, ainda que acessórias. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 6º O resultado do exame somente será divulgado para o interessado e não poderá ser utilizado para fins estranhos ao disposto neste artigo ou no § 6º do art. 168 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n o 5.452, de 1º de maio de 1943. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
+§ 6º O resultado do exame somente será divulgado para o interessado e não poderá ser utilizado para fins estranhos ao disposto neste artigo ou no § 6º do art. 168 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
 § 7º O exame será realizado, em regime de livre concorrência, pelos laboratórios credenciados pelo órgão máximo executivo de trânsito da União, nos termos das normas do Contran, vedado aos entes públicos: (Redação dada pela Lei nº 14.440, de 2022)
 
@@ -1962,7 +1975,7 @@ Infração - gravíssima; (Redação dada pela Lei nº 11.705, de 2008)
 
 Penalidade - multa (dez vezes) e suspensão do direito de dirigir por 12 (doze) meses. (Redação dada pela Lei nº 12.760, de 2012)
 
-Medida administrativa - recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270 da Lei n o 9.503, de 23 de setembro de 1997 - do Código de Trânsito Brasileiro. (Redação dada pela Lei nº 12.760, de 2012)
+Medida administrativa - recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270 da Lei nº 9.503, de 23 de setembro de 1997 - do Código de Trânsito Brasileiro. (Redação dada pela Lei nº 12.760, de 2012)
 
 Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses. (Redação dada pela Lei nº 12.760, de 2012)
 
@@ -3848,7 +3861,7 @@ Seção I Disposições Gerais
 
 Art. 291. Aos crimes cometidos na direção de veículos automotores, previstos neste Código, aplicam-se as normas gerais do Código Penal e do Código de Processo Penal, se este Capítulo não dispuser de modo diverso, bem como a Lei nº 9.099, de 26 de setembro de 1995, no que couber.
 
-§ 1º Aplica-se aos crimes de trânsito de lesão corporal culposa o disposto nos arts. 74, 76 e 88 da Lei n o 9.099, de 26 de setembro de 1995, exceto se o agente estiver: (Renumerado do parágrafo único pela Lei nº 11.705, de 2008)
+§ 1º Aplica-se aos crimes de trânsito de lesão corporal culposa o disposto nos arts. 74, 76 e 88 da Lei nº 9.099, de 26 de setembro de 1995, exceto se o agente estiver: (Renumerado do parágrafo único pela Lei nº 11.705, de 2008)
 
 I - sob a influência de álcool ou qualquer outra substância psicoativa que determine dependência; (Incluído pela Lei nº 11.705, de 2008)
 
@@ -4140,7 +4153,7 @@ I – as despesas com remoção e estada; (Incluído pela Lei nº 13.160, de 201
 
 II – os tributos vinculados ao veículo, na forma do § 10; (Incluído pela Lei nº 13.160, de 2015)
 
-III – os credores trabalhistas, tributários e titulares de crédito com garantia real, segundo a ordem de preferência estabelecida no art. 186 da Lei n o 5.172, de 25 de outubro de 1966 (Código Tributário Nacional); (Incluído pela Lei nº 13.160, de 2015)
+III – os credores trabalhistas, tributários e titulares de crédito com garantia real, segundo a ordem de preferência estabelecida no art. 186 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional); (Incluído pela Lei nº 13.160, de 2015)
 
 IV – as multas devidas ao órgão ou à entidade responsável pelo leilão; (Incluído pela Lei nº 13.160, de 2015)
 

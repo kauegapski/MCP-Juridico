@@ -1,6 +1,20 @@
+---
+titulo: "Requisitos de segurança da informação, privacidade e LGPD em contratações de TIC"
+tipo: orientacao
+esfera: federal
+natureza: orientacao
+situacao: vigente
+area: [lgpd, ti]
+fonte: "item 7 do Anexo da IN SGD/ME nº 94/2022 (texto integral em LEGISLACAO/IN_SGD_94_2022_Contratacao_TIC.md)"
+fonte_url: "https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/processo-de-contratacao-de-solucoes-de-tic-regido-pela-lei-ndeg-14-133-de-2021"
+ultima_verificacao: 2026-10-02
+arquivo: TI_E_SEGURANCA/SGD_Requisitos_Seguranca_Privacidade_Contratacoes_TIC.md
+---
+
 # Requisitos de segurança da informação, privacidade e LGPD em contratações de TIC
 
 **Fonte normativa federal:** item 7 do Anexo da IN SGD/ME nº 94/2022 (texto integral em LEGISLACAO/IN_SGD_94_2022_Contratacao_TIC.md)  
+**URL (IN SGD/ME nº 94/2022):** https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao/processo-de-contratacao-de-solucoes-de-tic-regido-pela-lei-ndeg-14-133-de-2021  
 **Fonte orientativa:** Parecer nº 04/2022 da Câmara Nacional de Modelos de Licitações e Contratos (CNMLC/AGU), sobre a repercussão da LGPD nas minutas de editais e contratos  
 **Localização do parecer:** cópia de terceiro em https://ronnycharles.com.br/wp-content/uploads/2022/08/Parecer-CNMLC-04-2022-Trata-sobre-repercussao-da-LGPD-nas-minutas-de-editais-e-contratos.pdf — obter a cópia oficial no portal da AGU antes de citar  
 **Norma de referência:** Lei nº 13.709/2018 (LGPD) — texto integral em LEGISLACAO/Lei_13709_2018_LGPD.md  

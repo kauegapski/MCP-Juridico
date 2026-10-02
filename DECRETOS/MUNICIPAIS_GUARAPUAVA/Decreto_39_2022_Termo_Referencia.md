@@ -1,3 +1,16 @@
+---
+titulo: "Decreto nº 39/2022 – Poder Legislativo de Guarapuava"
+tipo: decreto_municipal
+esfera: municipal
+natureza: norma_vinculante
+situacao: vigente
+area: [licitacoes]
+fonte: "Boletim Oficial do Município de Guarapuava, Ano XXVIII, nº 2521, veiculação em 15/12/2022, págs. 72 a 76"
+fonte_url: ""
+ultima_verificacao: 2026-09-24
+arquivo: DECRETOS/MUNICIPAIS_GUARAPUAVA/Decreto_39_2022_Termo_Referencia.md
+---
+
 # Decreto nº 39/2022 – Poder Legislativo de Guarapuava
 
 ## Procedimento para a elaboração de Termo de Referência

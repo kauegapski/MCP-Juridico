@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 13.869, de 5 de setembro de 2019"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [penal]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm"
+ultima_verificacao: 2026-10-02
+arquivo: PENAL/Lei_13869_2019_Abuso_Autoridade.md
+---
+
 # Lei nº 13.869, de 5 de setembro de 2019
 ## Abuso de Autoridade
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 
@@ -368,7 +381,7 @@ LEI Nº 13.869, DE 5 DE SETEMBRO DE 2019
 
 Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).
 
-O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei n o 13.869, de 5 de setembro de 2019:
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei nº 13.869, de 5 de setembro de 2019:
 
 “CAPÍTULO III DA AÇÃO PENAL
 

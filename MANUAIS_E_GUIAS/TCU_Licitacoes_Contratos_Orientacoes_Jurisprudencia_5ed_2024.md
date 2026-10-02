@@ -1,3 +1,16 @@
+---
+titulo: "Tribunal de Contas da União (TCU)"
+tipo: orientacao
+esfera: federal
+natureza: orientacao
+situacao: vigente
+area: [licitacoes]
+fonte: "Portal Licitações e Contratos – TCU"
+fonte_url: "https://licitacoesecontratos.tcu.gov.br/wp-content/uploads/sites/11/2024/09/Licitacoes-e-Contratos-Orientacoes-e-Jurisprudencia-do-TCU-5a-Edicao-29-08-2024.pdf"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCU_Licitacoes_Contratos_Orientacoes_Jurisprudencia_5ed_2024.md
+---
+
 # Tribunal de Contas da União (TCU)
 ## Licitações e Contratos – Orientações e Jurisprudência do TCU
 ### 5ª edição – agosto de 2024

@@ -1,3 +1,16 @@
+---
+titulo: "Instrução Normativa SEGES/ME nº 81, de 25 de novembro de 2022"
+tipo: instrucao_normativa_federal
+esfera: federal
+natureza: norma_referencia
+situacao: vigente
+area: [licitacoes]
+fonte: "Ministério da Economia – Secretaria de Gestão (SEGES) / Portal de Compras do Governo Federal"
+fonte_url: "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-81-de-25-de-novembro-de-2022"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/IN_SEGES_81_2022_Termo_Referencia.md
+---
+
 # Instrução Normativa SEGES/ME nº 81, de 25 de novembro de 2022
 ## Termo de Referência (TR)
 
@@ -5,7 +18,7 @@
 **URL:** https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-81-de-25-de-novembro-de-2022  
 **Versão:** Texto conforme o Portal de Compras (publicado em 28/11/2022; atualizado em 29/11/2022, com retificação do DOU)  
 **Vigência:** 1º de dezembro de 2022 (art. 16)  
-**Última verificação:** 2026-09-24 (a partir da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 **Ementa:** Dispõe sobre a elaboração do Termo de Referência – TR, para a aquisição de bens e a contratação de serviços, no âmbito da administração pública federal direta, autárquica e fundacional, e sobre o Sistema TR digital.
 

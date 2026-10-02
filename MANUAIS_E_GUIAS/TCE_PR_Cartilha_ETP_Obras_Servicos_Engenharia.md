@@ -1,3 +1,16 @@
+---
+titulo: "TCE-PR — Cartilha de Obras e Serviços de Engenharia: Estudo Técnico Preliminar (2ª edição)"
+tipo: orientacao
+esfera: estadual
+natureza: orientacao
+situacao: vigente
+area: [licitacoes]
+fonte: "TCE-PR — Coordenadoria de Obras Públicas (COP), com apoio do Crea-PR"
+fonte_url: "https://www.tce.pr.gov.br/noticias/obras-publicas-novas-cartilhas-orientam-etp-de-licitacoes-e-manutencao-de-escolas.htm"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCE_PR_Cartilha_ETP_Obras_Servicos_Engenharia.md
+---
+
 # TCE-PR — Cartilha de Obras e Serviços de Engenharia: Estudo Técnico Preliminar (2ª edição)
 
 **Órgão emissor:** TCE-PR — Coordenadoria de Obras Públicas (COP), com apoio do Crea-PR  

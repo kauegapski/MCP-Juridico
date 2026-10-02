@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 10.826, de 22 de dezembro de 2003"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [penal]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm"
+ultima_verificacao: 2026-10-02
+arquivo: PENAL/Lei_10826_2003_Estatuto_Desarmamento.md
+---
+
 # Lei nº 10.826, de 22 de dezembro de 2003
 ## Estatuto do Desarmamento
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 
@@ -410,7 +423,7 @@ Art. 35. É proibida a comercialização de arma de fogo e munição em todo o t
 
 § 2º Em caso de aprovação do referendo popular, o disposto neste artigo entrará em vigor na data de publicação de seu resultado pelo Tribunal Superior Eleitoral.
 
-Art. 36. É revogada a Lei n o 9.437, de 20 de fevereiro de 1997.
+Art. 36. É revogada a Lei nº 9.437, de 20 de fevereiro de 1997.
 
 Art. 37. Esta Lei entra em vigor na data de sua publicação.
 

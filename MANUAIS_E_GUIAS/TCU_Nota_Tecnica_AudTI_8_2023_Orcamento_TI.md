@@ -1,3 +1,16 @@
+---
+titulo: "TCU — Nota Técnica AudTI/TCU 8/2023: Elaboração do orçamento estimado de contratações públicas de bens e serviços de TI"
+tipo: orientacao
+esfera: federal
+natureza: orientacao
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Unidade de Auditoria Especializada em Tecnologia da Informação (AudTI/TCU)"
+fonte_url: "https://portal.tcu.gov.br/elaboracao-do-orcamento-estimado-de-contratacoes-publicas-de-bens-e-servicos-de-ti-nota-tecnica-audti-tcu-8-2023.htm"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCU_Nota_Tecnica_AudTI_8_2023_Orcamento_TI.md
+---
+
 # TCU — Nota Técnica AudTI/TCU 8/2023: Elaboração do orçamento estimado de contratações públicas de bens e serviços de TI
 
 **Órgão emissor:** Unidade de Auditoria Especializada em Tecnologia da Informação (AudTI/TCU)  

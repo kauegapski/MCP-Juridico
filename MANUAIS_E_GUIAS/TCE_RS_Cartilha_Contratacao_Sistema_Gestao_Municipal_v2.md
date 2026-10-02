@@ -1,3 +1,16 @@
+---
+titulo: "TCE-RS — Cartilha de Orientações Técnicas: Contratação de Sistema de Gestão Municipal (versão 2.0)"
+tipo: orientacao
+esfera: estadual
+natureza: orientacao
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Tribunal de Contas do Estado do Rio Grande do Sul (TCE-RS)"
+fonte_url: "https://tcers.tc.br/repo/orientacoes_gestores/Cartilha%20SGM%20v2.pdf"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCE_RS_Cartilha_Contratacao_Sistema_Gestao_Municipal_v2.md
+---
+
 # TCE-RS — Cartilha de Orientações Técnicas: Contratação de Sistema de Gestão Municipal (versão 2.0)
 
 **Órgão emissor:** Tribunal de Contas do Estado do Rio Grande do Sul (TCE-RS)  

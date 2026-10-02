@@ -1,10 +1,23 @@
+---
+titulo: "Decreto-Lei nº 3.689, de 3 de outubro de 1941"
+tipo: decreto_lei
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [penal]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+ultima_verificacao: 2026-10-02
+arquivo: PENAL/Codigo_Processo_Penal_DL_3689_1941.md
+---
+
 # Decreto-Lei nº 3.689, de 3 de outubro de 1941
 ## Código de Processo Penal
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 
@@ -40,11 +53,11 @@ II - as prerrogativas constitucionais do Presidente da República, dos ministros
 
 III - os processos da competência da Justiça Militar;
 
-IV - os processos da competência do tribunal especial (Constituição, art. 122, n o 17);
+IV - os processos da competência do tribunal especial (Constituição, art. 122, nº 17);
 
 V - os processos por crimes de imprensa. (Vide ADPF nº 130)
 
-Parágrafo único. Aplicar-se-á, entretanto, este Código aos processos referidos nos n o s. IV e V, quando as leis especiais que os regulam não dispuserem de modo diverso.
+Parágrafo único. Aplicar-se-á, entretanto, este Código aos processos referidos nos nos. IV e V, quando as leis especiais que os regulam não dispuserem de modo diverso.
 
 Art. 2º A lei processual penal aplicar-se-á desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.
 
@@ -142,7 +155,7 @@ I - de ofício;
 
 II - mediante requisição da autoridade judiciária ou do Ministério Público, ou a requerimento do ofendido ou de quem tiver qualidade para representá-lo.
 
-§ 1º O requerimento a que se refere o n o II conterá sempre que possível:
+§ 1º O requerimento a que se refere o nº II conterá sempre que possível:
 
 a) a narração do fato, com todas as circunstâncias;
 
@@ -208,7 +221,7 @@ III - cumprir os mandados de prisão expedidos pelas autoridades judiciárias;
 
 IV - representar acerca da prisão preventiva.
 
-Art. 13-A. Nos crimes previstos nos arts. 148, 149 e 149-A, no § 3º do art. 158 e no art. 159 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 (Código Penal), e no art. 239 da Lei n o 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), o membro do Ministério Público ou o delegado de polícia poderá requisitar, de quaisquer órgãos do poder público ou de empresas da iniciativa privada, dados e informações cadastrais da vítima ou de suspeitos. (Incluído pela Lei nº 13.344, de 2016) (Vigência)
+Art. 13-A. Nos crimes previstos nos arts. 148, 149 e 149-A, no § 3º do art. 158 e no art. 159 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 (Código Penal), e no art. 239 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), o membro do Ministério Público ou o delegado de polícia poderá requisitar, de quaisquer órgãos do poder público ou de empresas da iniciativa privada, dados e informações cadastrais da vítima ou de suspeitos. (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
 Parágrafo único. A requisição, que será atendida no prazo de 24 (vinte e quatro) horas, conterá: (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
@@ -1372,7 +1385,7 @@ III - se houver razão para recear que a pessoa chamada para o reconhecimento, p
 
 IV - do ato de reconhecimento lavrar-se-á auto pormenorizado, subscrito pela autoridade, pela pessoa chamada para proceder ao reconhecimento e por duas testemunhas presenciais.
 
-Parágrafo único. O disposto no n o III deste artigo não terá aplicação na fase da instrução criminal ou em plenário de julgamento.
+Parágrafo único. O disposto no nº III deste artigo não terá aplicação na fase da instrução criminal ou em plenário de julgamento.
 
 Art. 227. No reconhecimento de objeto, proceder-se-á com as cautelas estabelecidas no artigo anterior, no que for aplicável.
 
@@ -1912,7 +1925,7 @@ Art. 313. Nos termos do art. 312 deste Código, será admitida a decretação da
 
 I - nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos; (Redação dada pela Lei nº 12.403, de 2011).
 
-II - se tiver sido condenado por outro crime doloso, em sentença transitada em julgado, ressalvado o disposto no inciso I do caput do art. 64 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal; (Redação dada pela Lei nº 12.403, de 2011).
+II - se tiver sido condenado por outro crime doloso, em sentença transitada em julgado, ressalvado o disposto no inciso I do caput do art. 64 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal; (Redação dada pela Lei nº 12.403, de 2011).
 
 III - se o crime envolver violência doméstica e familiar contra a mulher, criança, adolescente, idoso, enfermo ou pessoa com deficiência, para garantir a execução das medidas protetivas de urgência; (Redação dada pela Lei nº 12.403, de 2011).
 
@@ -1926,7 +1939,7 @@ VI - nos crimes contra a dignidade sexual praticados contra criança ou adolesce
 
 § 2º Não será admitida a decretação da prisão preventiva com a finalidade de antecipação de cumprimento de pena ou como decorrência imediata de investigação criminal ou da apresentação ou recebimento de denúncia. (Incluído pela Lei nº 13.964, de 2019)
 
-Art. 314. A prisão preventiva em nenhum caso será decretada se o juiz verificar pelas provas constantes dos autos ter o agente praticado o fato nas condições previstas nos incisos I, II e III do caput do art. 23 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal. (Redação dada pela Lei nº 12.403, de 2011).
+Art. 314. A prisão preventiva em nenhum caso será decretada se o juiz verificar pelas provas constantes dos autos ter o agente praticado o fato nas condições previstas nos incisos I, II e III do caput do art. 23 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal. (Redação dada pela Lei nº 12.403, de 2011).
 
 Art. 315. A decisão que decretar, substituir ou denegar a prisão preventiva será sempre motivada e fundamentada. (Redação dada pela Lei nº 13.964, de 2019)
 
@@ -2260,7 +2273,7 @@ Art. 360. Se o réu estiver preso, será pessoalmente citado. (Redação dada pe
 
 Art. 361. Se o réu não for encontrado, será citado por edital, com o prazo de 15 (quinze) dias.
 
-Art. 362. Verificando que o réu se oculta para não ser citado, o oficial de justiça certificará a ocorrência e procederá à citação com hora certa, na forma estabelecida nos arts. 227 a 229 da Lei n o 5.869, de 11 de janeiro de 1973 - Código de Processo Civil. (Redação dada pela Lei nº 11.719, de 2008).
+Art. 362. Verificando que o réu se oculta para não ser citado, o oficial de justiça certificará a ocorrência e procederá à citação com hora certa, na forma estabelecida nos arts. 227 a 229 da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil. (Redação dada pela Lei nº 11.719, de 2008).
 
 Parágrafo único. Completada a citação com hora certa, se o acusado não comparecer, ser-lhe-á nomeado defensor dativo. (Incluído pela Lei nº 11.719, de 2008).
 
@@ -2278,7 +2291,7 @@ II - (revogado). (Redação dada pela Lei nº 11.719, de 2008).
 
 § 4º Comparecendo o acusado citado por edital, em qualquer tempo, o processo observará o disposto nos arts. 394 e seguintes deste Código. (Incluído pela Lei nº 11.719, de 2008).
 
-Art. 364. No caso do artigo anterior, n o I, o prazo será fixado pelo juiz entre 15 (quinze) e 90 (noventa) dias, de acordo com as circunstâncias, e, no caso de n o II, o prazo será de trinta dias.
+Art. 364. No caso do artigo anterior, nº I, o prazo será fixado pelo juiz entre 15 (quinze) e 90 (noventa) dias, de acordo com as circunstâncias, e, no caso de nº II, o prazo será de trinta dias.
 
 Art. 365. O edital de citação indicará:
 
@@ -2340,7 +2353,7 @@ III - na decisão confirmatória da pronúncia ou na que, em grau de recurso, pr
 
 IV - na sentença condenatória recorrível.
 
-§ 1º No caso do n o I, havendo requerimento de aplicação da medida, o réu ou seu defensor será ouvido no prazo de 2 (dois) dias.
+§ 1º No caso do nº I, havendo requerimento de aplicação da medida, o réu ou seu defensor será ouvido no prazo de 2 (dois) dias.
 
 § 2º Decretada a medida, serão feitas as comunicações necessárias para a sua execução, na forma do disposto no Capítulo III do Título II do Livro IV.
 
@@ -2350,7 +2363,7 @@ I - se aplicadas no curso da instrução criminal, durante esta ou pelas senten�
 
 II - se aplicadas na sentença de pronúncia, pela decisão que, em grau de recurso, a confirmar, total ou parcialmente, ou pela sentença condenatória recorrível;
 
-III - se aplicadas na decisão a que se refere o n o III do artigo anterior, pela sentença condenatória recorrível.
+III - se aplicadas na decisão a que se refere o nº III do artigo anterior, pela sentença condenatória recorrível.
 
 Art. 375. O despacho que aplicar, provisoriamente, substituir ou revogar interdição de direito, será fundamentado.
 
@@ -2440,7 +2453,7 @@ Art. 387. O juiz, ao proferir sentença condenatória: (Vide Lei nº 11.719, de 
 
 I - mencionará as circunstâncias agravantes ou atenuantes definidas no Código Penal, e cuja existência reconhecer;
 
-II - mencionará as outras circunstâncias apuradas e tudo o mais que deva ser levado em conta na aplicação da pena, de acordo com o disposto nos arts. 59 e 60 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 - Código Penal; (Redação dada pela Lei nº 11.719, de 2008).
+II - mencionará as outras circunstâncias apuradas e tudo o mais que deva ser levado em conta na aplicação da pena, de acordo com o disposto nos arts. 59 e 60 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal; (Redação dada pela Lei nº 11.719, de 2008).
 
 III - aplicará as penas de acordo com essas conclusões; (Redação dada pela Lei nº 11.719, de 2008).
 
@@ -2470,9 +2483,9 @@ II - ao réu, pessoalmente, ou ao defensor por ele constituído, quando se livra
 
 III - ao defensor constituído pelo réu, se este, afiançável, ou não, a infração, expedido o mandado de prisão, não tiver sido encontrado, e assim o certificar o oficial de justiça;
 
-IV - mediante edital, nos casos do n o II, se o réu e o defensor que houver constituído não forem encontrados, e assim o certificar o oficial de justiça;
+IV - mediante edital, nos casos do nº II, se o réu e o defensor que houver constituído não forem encontrados, e assim o certificar o oficial de justiça;
 
-V - mediante edital, nos casos do n o III, se o defensor que o réu houver constituído também não for encontrado, e assim o certificar o oficial de justiça;
+V - mediante edital, nos casos do nº III, se o defensor que o réu houver constituído também não for encontrado, e assim o certificar o oficial de justiça;
 
 VI - mediante edital, se o réu, não tendo constituído defensor, não for encontrado, e assim o certificar o oficial de justiça.
 
@@ -2668,7 +2681,7 @@ III – o fato não constituir infração penal; (Redação dada pela Lei nº 11
 
 IV – demonstrada causa de isenção de pena ou de exclusão do crime. (Redação dada pela Lei nº 11.689, de 2008)
 
-Parágrafo único. Não se aplica o disposto no inciso IV do caput deste artigo ao caso de inimputabilidade prevista no caput do art. 26 do Decreto-Lei n o 2.848, de 7 de dezembro de 1940 – Código Penal, salvo quando esta for a única tese defensiva. (Incluído pela Lei nº 11.689, de 2008)
+Parágrafo único. Não se aplica o disposto no inciso IV do caput deste artigo ao caso de inimputabilidade prevista no caput do art. 26 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, salvo quando esta for a única tese defensiva. (Incluído pela Lei nº 11.689, de 2008)
 
 Art. 416. Contra a sentença de impronúncia ou de absolvição sumária caberá apelação. (Redação dada pela Lei nº 11.689, de 2008)
 
@@ -3152,7 +3165,7 @@ b) revogará as medidas restritivas provisoriamente decretadas; (Redação dada 
 
 c) imporá, se for o caso, a medida de segurança cabível. (Redação dada pela Lei nº 11.689, de 2008)
 
-§ 1º Se houver desclassificação da infração para outra, de competência do juiz singular, ao presidente do Tribunal do Júri caberá proferir sentença em seguida, aplicando-se, quando o delito resultante da nova tipificação for considerado pela lei como infração penal de menor potencial ofensivo, o disposto nos arts. 69 e seguintes da Lei n o 9.099, de 26 de setembro de 1995. (Redação dada pela Lei nº 11.689, de 2008)
+§ 1º Se houver desclassificação da infração para outra, de competência do juiz singular, ao presidente do Tribunal do Júri caberá proferir sentença em seguida, aplicando-se, quando o delito resultante da nova tipificação for considerado pela lei como infração penal de menor potencial ofensivo, o disposto nos arts. 69 e seguintes da Lei nº 9.099, de 26 de setembro de 1995. (Redação dada pela Lei nº 11.689, de 2008)
 
 § 2º Em caso de desclassificação, o crime conexo que não seja doloso contra a vida será julgado pelo juiz presidente do Tribunal do Júri, aplicando-se, no que couber, o disposto no § 1º deste artigo. (Redação dada pela Lei nº 11.689, de 2008)
 
@@ -3706,7 +3719,7 @@ XXV - que recusar homologação à proposta de acordo de não persecução penal
 
 Art. 582 - Os recursos serão sempre para o Tribunal de Apelação, salvo nos casos dos ns. V, X e XIV.
 
-Parágrafo único. O recurso, no caso do n o XIV, será para o presidente do Tribunal de Apelação.
+Parágrafo único. O recurso, no caso do nº XIV, será para o presidente do Tribunal de Apelação.
 
 Art. 583. Subirão nos próprios autos os recursos:
 
@@ -3774,9 +3787,9 @@ d) for a decisão dos jurados manifestamente contrária à prova dos autos. (Inc
 
 § 1º Se a sentença do juiz-presidente for contrária à lei expressa ou divergir das respostas dos jurados aos quesitos, o tribunal ad quem fará a devida retificação. (Incluído pela Lei nº 263, de 23.2.1948)
 
-§ 2º Interposta a apelação com fundamento no n o III, c, deste artigo, o tribunal ad quem, se Ihe der provimento, retificará a aplicação da pena ou da medida de segurança. (Incluído pela Lei nº 263, de 23.2.1948)
+§ 2º Interposta a apelação com fundamento no nº III, c, deste artigo, o tribunal ad quem, se Ihe der provimento, retificará a aplicação da pena ou da medida de segurança. (Incluído pela Lei nº 263, de 23.2.1948)
 
-§ 3º Se a apelação se fundar no n o III, d, deste artigo, e o tribunal ad quem se convencer de que a decisão dos jurados é manifestamente contrária à prova dos autos, dar-lhe-á provimento para sujeitar o réu a novo julgamento; não se admite, porém, pelo mesmo motivo, segunda apelação. (Incluído pela Lei nº 263, de 23.2.1948)
+§ 3º Se a apelação se fundar no nº III, d, deste artigo, e o tribunal ad quem se convencer de que a decisão dos jurados é manifestamente contrária à prova dos autos, dar-lhe-á provimento para sujeitar o réu a novo julgamento; não se admite, porém, pelo mesmo motivo, segunda apelação. (Incluído pela Lei nº 263, de 23.2.1948)
 
 § 4º Quando cabível a apelação, não poderá ser usado o recurso em sentido estrito, ainda que somente de parte da decisão se recorra. (Parágrafo único renumerado pela Lei nº 263, de 23.2.1948)
 
@@ -4198,7 +4211,7 @@ I - prorrogar o prazo do pagamento da multa até três meses, se as circunstânc
 
 II - permitir, nas mesmas circunstâncias, que o pagamento se faça em parcelas mensais, no prazo que fixar, mediante caução real ou fidejussória, quando necessário. (Redação dada pela Lei nº 6.416, de 24.5.1977)
 
-§ 1º O requerimento, tanto no caso do n o I, como no do n o II, será feito dentro do decêndio concedido para o pagamento da multa.
+§ 1º O requerimento, tanto no caso do nº I, como no do nº II, será feito dentro do decêndio concedido para o pagamento da multa.
 
 § 2º A permissão para o pagamento em parcelas será revogada, se o juiz verificar que o condenado dela se vale para fraudar a execução da pena. Nesse caso, a caução resolver-se-á em valor monetário, devolvendo-se ao condenado o que exceder à satisfação da multa e das custas processuais. (Redação dada pela Lei nº 6.416, de 24.5.1977)
 
@@ -4240,7 +4253,7 @@ I - pagar a multa;
 
 II - prestar caução real ou fidejussória que Ihe assegure o pagamento.
 
-Parágrafo único. No caso do n o II, antes de homologada a caução, será ouvido o Ministério Público dentro do prazo de dois dias.
+Parágrafo único. No caso do nº II, antes de homologada a caução, será ouvido o Ministério Público dentro do prazo de dois dias.
 
 CAPÍTULO III
 
@@ -4524,9 +4537,9 @@ II - tendo sido, expressamente, excluída na sentença a periculosidade do conde
 
 Art. 752. Poderá ser imposta medida de segurança, depois de transitar em julgado a sentença, ainda quando não iniciada a execução da pena, por motivo diverso de fuga ou ocultação do condenado:
 
-I - no caso da letra a do n o I do artigo anterior, bem como no da letra b, se tiver sido alegada a periculosidade;
+I - no caso da letra a do nº I do artigo anterior, bem como no da letra b, se tiver sido alegada a periculosidade;
 
-II - no caso da letra c do n o I do mesmo artigo.
+II - no caso da letra c do nº I do mesmo artigo.
 
 Art. 753. Ainda depois de transitar em julgado a sentença absolutória, poderá ser imposta a medida de segurança, enquanto não decorrido tempo equivalente ao da sua duração mínima, a indivíduo que a lei presuma perigoso.
 
@@ -4536,7 +4549,7 @@ Art. 755. A imposição da medida de segurança, nos casos dos arts. 751 a 753, 
 
 Parágrafo único. O diretor do estabelecimento penal, que tiver conhecimento de fatos indicativos da periculosidade do condenado a quem não tenha sido imposta medida de segurança, deverá logo comunicá-los ao juiz.
 
-Art. 756. Nos casos do no I, a e b, do art. 751, e n o I do art. 752, poderá ser dispensada nova audiência do condenado.
+Art. 756. Nos casos do no I, a e b, do art. 751, e nº I do art. 752, poderá ser dispensada nova audiência do condenado.
 
 Art. 757. Nos casos do no I, c, e no II do art. 751 e no II do art. 752, o juiz, depois de proceder às diligências que julgar convenientes, ouvirá o Ministério Público e concederá ao condenado o prazo de três dias para alegações, devendo a prova requerida ou reputada necessária pelo juiz ser produzida dentro em dez dias.
 

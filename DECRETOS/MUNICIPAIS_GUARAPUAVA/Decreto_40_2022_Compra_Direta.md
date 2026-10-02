@@ -1,3 +1,16 @@
+---
+titulo: "Decreto nº 40/2022 – Poder Legislativo de Guarapuava"
+tipo: decreto_municipal
+esfera: municipal
+natureza: norma_vinculante
+situacao: vigente
+area: [licitacoes]
+fonte: "Boletim Oficial do Município de Guarapuava, Ano XXVIII, nº 2521, veiculação em 15/12/2022, págs. 77"
+fonte_url: ""
+ultima_verificacao: 2026-09-24
+arquivo: DECRETOS/MUNICIPAIS_GUARAPUAVA/Decreto_40_2022_Compra_Direta.md
+---
+
 # Decreto nº 40/2022 – Poder Legislativo de Guarapuava
 
 ## Compra direta de pequena monta e de pronto pagamento (art. 95, § 2º, da Lei nº 14.133/2021)

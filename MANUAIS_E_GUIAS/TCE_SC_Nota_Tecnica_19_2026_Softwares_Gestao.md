@@ -1,3 +1,16 @@
+---
+titulo: "TCE-SC — Nota Técnica nº TC-19/2026: elaboração de editais para contratação de softwares de gestão"
+tipo: orientacao
+esfera: estadual
+natureza: orientacao
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Tribunal de Contas do Estado de Santa Catarina — Diretorias de Licitações e Contratações (DLC) e de Informações Estratégicas (DIE)"
+fonte_url: "https://www.tcesc.tc.br/tcesc-publica-nota-tecnica-sobre-contratacao-de-sistemas-de-gestao-publica"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCE_SC_Nota_Tecnica_19_2026_Softwares_Gestao.md
+---
+
 # TCE-SC — Nota Técnica nº TC-19/2026: elaboração de editais para contratação de softwares de gestão
 
 **Órgão emissor:** Tribunal de Contas do Estado de Santa Catarina — Diretorias de Licitações e Contratações (DLC) e de Informações Estratégicas (DIE)  

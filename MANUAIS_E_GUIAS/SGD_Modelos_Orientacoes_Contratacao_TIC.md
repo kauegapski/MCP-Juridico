@@ -1,3 +1,16 @@
+---
+titulo: "SGD/MGI — Demais modelos, diretrizes e orientações para contratação de soluções de TIC"
+tipo: orientacao
+esfera: federal
+natureza: orientacao
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Secretaria de Governo Digital (SGD/MGI) — órgão central do SISP"
+fonte_url: "https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/legislacao"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/SGD_Modelos_Orientacoes_Contratacao_TIC.md
+---
+
 # SGD/MGI — Demais modelos, diretrizes e orientações para contratação de soluções de TIC
 
 **Órgão emissor:** Secretaria de Governo Digital (SGD/MGI) — órgão central do SISP  

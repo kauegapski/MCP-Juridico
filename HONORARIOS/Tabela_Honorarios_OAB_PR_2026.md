@@ -1,3 +1,16 @@
+---
+titulo: "Tabela de Honorários Advocatícios do Estado do Paraná — OAB/PR (vigência 2026)"
+tipo: tabela_oab
+esfera: estadual
+natureza: tabela
+situacao: vigente
+area: [honorarios]
+fonte: "Ordem dos Advogados do Brasil – Seção do Paraná (Diário Eletrônico da OAB, Ano VIII, nº 1841, 17/04/2026, págs. 233 e seguintes)"
+fonte_url: "https://www.oabpr.org.br/wp-content/uploads/2026/04/Tabela-de-Honorarios-2026-1.pdf"
+ultima_verificacao: 2026-10-02
+arquivo: HONORARIOS/Tabela_Honorarios_OAB_PR_2026.md
+---
+
 # Tabela de Honorários Advocatícios do Estado do Paraná — OAB/PR (vigência 2026)
 ## Resolução do Conselho Seccional da OAB/PR nº 13/2026
 

@@ -1,10 +1,23 @@
+---
+titulo: "Decreto-Lei nº 2.848, de 7 de dezembro de 1940"
+tipo: decreto_lei
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [penal]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+ultima_verificacao: 2026-10-02
+arquivo: PENAL/Codigo_Penal_DL_2848_1940.md
+---
+
 # Decreto-Lei nº 2.848, de 7 de dezembro de 1940
 ## Código Penal
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 

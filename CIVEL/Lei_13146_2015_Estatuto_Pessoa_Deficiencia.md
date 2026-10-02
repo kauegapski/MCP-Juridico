@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 13.146, de 6 de julho de 2015"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [civel]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+ultima_verificacao: 2026-10-02
+arquivo: CIVEL/Lei_13146_2015_Estatuto_Pessoa_Deficiencia.md
+---
+
 # Lei nº 13.146, de 6 de julho de 2015
 ## Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-10-02 (extraído da página oficial em 02/10/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 **Conferência:** texto confrontado, dispositivo por dispositivo, com a cópia da página salva pelo Dr. Kaue em 02/10/2026; sem divergência de conteúdo (a cópia salva perdeu a acentuação na gravação, por isso a base mantém o texto baixado diretamente do Planalto).  
 
 ---

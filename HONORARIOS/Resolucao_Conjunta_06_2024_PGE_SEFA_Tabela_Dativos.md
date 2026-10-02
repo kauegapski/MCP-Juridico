@@ -1,3 +1,16 @@
+---
+titulo: "Tabela de Honorários da Advocacia Dativa — Estado do Paraná"
+tipo: resolucao_estadual
+esfera: estadual
+natureza: tabela
+situacao: vigente
+area: [honorarios]
+fonte: "Procuradoria-Geral do Estado do Paraná e Secretaria de Estado da Fazenda, protocolo eletrônico nº 22.916.924-6, assinado em 02 e 03/12/2024 (validação em https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento, código 8deba952c91c565a2e534245138f8a81)"
+fonte_url: "https://www.eprotocolo.pr.gov.br/spiweb/validarDocumento,"
+ultima_verificacao: 2026-10-02
+arquivo: HONORARIOS/Resolucao_Conjunta_06_2024_PGE_SEFA_Tabela_Dativos.md
+---
+
 # Tabela de Honorários da Advocacia Dativa — Estado do Paraná
 ## Resolução Conjunta nº 06/2024 – PGE/SEFA (vigência a partir de 01/01/2025)
 

@@ -1,3 +1,16 @@
+---
+titulo: "TCU — Guia de Boas Práticas em Contratação de Soluções de TI: Riscos e Controles para o Planejamento da Contratação (versão 1.0)"
+tipo: orientacao
+esfera: federal
+natureza: orientacao
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Tribunal de Contas da União (TCU)"
+fonte_url: "https://portal.tcu.gov.br/data/files/15/24/15/A5/9ACD491078006549E18818A8/Guia%20de%20boas%20praticas%20em%20contratacao%20de%20solucoes%20de%20tecnologia%20da%20informacao.PDF"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/TCU_Guia_Boas_Praticas_Contratacao_Solucoes_TI.md
+---
+
 # TCU — Guia de Boas Práticas em Contratação de Soluções de TI: Riscos e Controles para o Planejamento da Contratação (versão 1.0)
 
 **Órgão emissor:** Tribunal de Contas da União (TCU)  

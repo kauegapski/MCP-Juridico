@@ -1,10 +1,23 @@
+---
+titulo: "Constituição da República Federativa do Brasil de 1988"
+tipo: constituicao
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [constitucional]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+ultima_verificacao: 2026-10-02
+arquivo: CONSTITUCIONAL/Constituicao_Federal_1988.md
+---
+
 # Constituição da República Federativa do Brasil de 1988
 ## Constituição Federal (inclui o ADCT)
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 

@@ -1,10 +1,23 @@
+---
+titulo: "Lei nº 9.099, de 26 de setembro de 1995"
+tipo: lei_federal
+esfera: federal
+natureza: norma_vinculante
+situacao: vigente
+area: [penal]
+fonte: "Presidência da República – Legislação (Planalto)"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
+ultima_verificacao: 2026-10-02
+arquivo: PENAL/Lei_9099_1995_Juizados_Especiais.md
+---
+
 # Lei nº 9.099, de 26 de setembro de 1995
 ## Juizados Especiais Cíveis e Criminais
 
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/leis/l9099.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
 
 ---
 
@@ -92,11 +105,11 @@ Art. 8º Não poderão ser partes, no processo instituído por esta Lei, o incap
 
 I - as pessoas físicas capazes, excluídos os cessionários de direito de pessoas jurídicas; (Incluído pela Lei nº 12.126, de 2009)
 
-II - as pessoas enquadradas como microempreendedores individuais, microempresas e empresas de pequeno porte na forma da Lei Complementar n o 123, de 14 de dezembro de 2006; (Redação dada pela Lei Complementar nº 147, de 2014)
+II - as pessoas enquadradas como microempreendedores individuais, microempresas e empresas de pequeno porte na forma da Lei Complementar nº 123, de 14 de dezembro de 2006; (Redação dada pela Lei Complementar nº 147, de 2014)
 
-III - as pessoas jurídicas qualificadas como Organização da Sociedade Civil de Interesse Público, nos termos da Lei n o 9.790, de 23 de março de 1999; (Incluído pela Lei nº 12.126, de 2009)
+III - as pessoas jurídicas qualificadas como Organização da Sociedade Civil de Interesse Público, nos termos da Lei nº 9.790, de 23 de março de 1999; (Incluído pela Lei nº 12.126, de 2009)
 
-IV - as sociedades de crédito ao microempreendedor, nos termos do art. 1º da Lei n o 10.194, de 14 de fevereiro de 2001. (Incluído pela Lei nº 12.126, de 2009)
+IV - as sociedades de crédito ao microempreendedor, nos termos do art. 1º da Lei nº 10.194, de 14 de fevereiro de 2001. (Incluído pela Lei nº 12.126, de 2009)
 
 § 2º O maior de dezoito anos poderá ser autor, independentemente de assistência, inclusive para fins de conciliação.
 

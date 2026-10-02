@@ -1,10 +1,25 @@
+---
+titulo: "Instrução Normativa SEGES/ME nº 58, de 8 de agosto de 2022"
+tipo: instrucao_normativa_federal
+esfera: federal
+natureza: norma_referencia
+situacao: vigente
+area: [licitacoes]
+fonte: "Ministério da Economia – Secretaria de Gestão (SEGES)"
+fonte_url: "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-no-58-de-8-de-agosto-de-2022"
+ultima_verificacao: 2026-10-02
+arquivo: LEGISLACAO/IN_SEGES_58_2022_ETP.md
+---
+
 # Instrução Normativa SEGES/ME nº 58, de 8 de agosto de 2022
 ## Estudo Técnico Preliminar (ETP)
 
 **Fonte oficial:** Ministério da Economia – Secretaria de Gestão (SEGES)  
-**URL:** https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-58-de-8-de-agosto-de-2022  
+**URL:** https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-no-58-de-8-de-agosto-de-2022  
 **Versão:** Texto consolidado  
-**Última verificação:** 2025-01-01  
+**Última verificação:** 2026-10-02 (redação conferida sem divergências com a fonte oficial — FERRAMENTAS/verificar_atualizacoes.py)  
+
+**Relação com a norma municipal:** no âmbito do Poder Legislativo de Guarapuava, o ETP é disciplinado pelo **Decreto Municipal nº 37/2022 (arts. 11 e 12)**, que prevalece como regulamento local. Esta Instrução Normativa vincula a administração pública federal e, nos termos do seu art. 2º, os entes que executem recursos da União decorrentes de transferências voluntárias; fora dessa hipótese, serve à Câmara apenas como referência técnica (art. 187 da Lei nº 14.133/2021).  
 
 ---
 

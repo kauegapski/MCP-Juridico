@@ -1,3 +1,16 @@
+---
+titulo: "Decreto nº 38/2022 – Poder Legislativo de Guarapuava"
+tipo: decreto_municipal
+esfera: municipal
+natureza: norma_vinculante
+situacao: vigente
+area: [licitacoes]
+fonte: "Boletim Oficial do Município de Guarapuava, Ano XXVIII, nº 2521, veiculação em 15/12/2022, págs. 70 e 71"
+fonte_url: ""
+ultima_verificacao: 2026-09-24
+arquivo: DECRETOS/MUNICIPAIS_GUARAPUAVA/Decreto_38_2022_Pesquisa_Precos.md
+---
+
 # Decreto nº 38/2022 – Poder Legislativo de Guarapuava
 
 ## Procedimento administrativo para a realização de pesquisa de preços

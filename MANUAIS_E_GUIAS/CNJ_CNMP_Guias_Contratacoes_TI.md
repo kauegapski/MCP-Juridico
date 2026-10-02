@@ -1,3 +1,16 @@
+---
+titulo: "Guia de Contratações de STIC do Poder Judiciário (CNJ) e Manual de Orientações Técnicas para Contratações de TI do Ministério Público (CNMP)"
+tipo: orientacao
+esfera: federal
+natureza: orientacao
+situacao: vigente
+area: [licitacoes, ti]
+fonte: "Conselho Nacional de Justiça (CNJ) e Conselho Nacional do Ministério Público (CNMP)"
+fonte_url: "https://portal.tcu.gov.br/tecnologia-da-informacao/aquisicoes-de-ti-1"
+ultima_verificacao: 2026-10-02
+arquivo: MANUAIS_E_GUIAS/CNJ_CNMP_Guias_Contratacoes_TI.md
+---
+
 # Guia de Contratações de STIC do Poder Judiciário (CNJ) e Manual de Orientações Técnicas para Contratações de TI do Ministério Público (CNMP)
 
 **Órgãos emissores:** Conselho Nacional de Justiça (CNJ) e Conselho Nacional do Ministério Público (CNMP)  
