@@ -5,6 +5,7 @@
 **URL:** https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
 **Última verificação:** 2026-10-02 (extraído da página oficial em 02/10/2026)  
+**Conferência:** texto confrontado, dispositivo por dispositivo, com a cópia da página salva pelo Dr. Kaue em 02/10/2026; sem divergência de conteúdo (a cópia salva perdeu a acentuação na gravação, por isso a base mantém o texto baixado diretamente do Planalto).  
 
 ---
 
