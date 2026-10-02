@@ -121,6 +121,7 @@ Fontes técnicas e normativas relacionadas à **proteção de dados, governança
 - Lei nº 5.478, de 25 de julho de 1968 – Ação de Alimentos — `Lei_5478_1968_Alimentos.md`  
 - Lei nº 8.245, de 18 de outubro de 1991 – Lei do Inquilinato — `Lei_8245_1991_Inquilinato.md`  
 - Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor — `Lei_8078_1990_CDC.md`  
+- Lei nº 13.146, de 6 de julho de 2015 – Estatuto da Pessoa com Deficiência (curatela: arts. 84 a 87) — `Lei_13146_2015_Estatuto_Pessoa_Deficiencia.md` (extraído em 02/10/2026)  
 
 Todos os textos do Planalto nas pastas CONSTITUCIONAL, PENAL e CIVEL contêm **somente a redação vigente** (trechos riscados excluídos), extraídos em 24/09/2026.
 
