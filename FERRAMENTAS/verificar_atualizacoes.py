@@ -7,7 +7,7 @@ parágrafo por parágrafo (texto normalizado), com o texto da base.
 
 Uso:  python3 FERRAMENTAS/verificar_atualizacoes.py [--json relatorio.json] [arquivo.md ...]
 Saída: relatório em texto; código de saída 0 = nada mudou, 1 = há diferenças, 2 = falha de acesso.
-Requer: beautifulsoup4 (pip install beautifulsoup4).
+Requer: beautifulsoup4 e html5lib (pip install beautifulsoup4 html5lib).
 """
 import argparse, glob, json, os, re, sys, unicodedata, urllib.request
 from bs4 import BeautifulSoup
@@ -35,7 +35,10 @@ def baixar(url):
     raise RuntimeError("; ".join(erros))
 
 def paragrafos_oficiais(html):
-    s = BeautifulSoup(html, "html.parser")
+    try:   # html5lib reproduz o navegador e tolera o HTML malformado do Planalto
+        s = BeautifulSoup(html, "html5lib")
+    except Exception:
+        s = BeautifulSoup(html, "html.parser")
     for t in s(["script", "style", "head"]):
         t.decompose()
     for t in s.find_all(["strike", "s", "del"]):
@@ -69,7 +72,7 @@ def relevante(p):
     t = re.sub(r"\s+", " ", p).strip()
     if RUIDO.search(t):
         return False
-    if re.fullmatch(r"(\(?vide [^)]*\)?\s*)+", t, re.I) or re.fullmatch(r"(regulamento\s*)+|(vig[eê]ncia\s*(encerrada)?\s*)+", t, re.I):
+    if re.fullmatch(r"(\((revogad[oa]|vide)[^)]*\)\s*)+", t, re.I) or re.fullmatch(r"(\(?vide [^)]*\)?\s*)+", t, re.I) or re.fullmatch(r"(regulamento\s*)+|(vig[eê]ncia\s*(encerrada)?\s*)+", t, re.I):
         return False
     return len(norm(t)) > 25
 

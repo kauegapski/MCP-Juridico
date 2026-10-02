@@ -4,7 +4,7 @@
 **Fonte oficial:** Presidência da República – Legislação (Planalto)  
 **URL:** https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm  
 **Versão:** texto **somente com a redação vigente**. Os trechos riscados no Planalto (redações revogadas ou alteradas) foram excluídos; as remissões de alteração ("Incluído pela…", "Redação dada pela…", "Vide…") foram mantidas.  
-**Última verificação:** 2026-09-24 (extraído da página oficial salva em 24/09/2026)  
+**Última verificação:** 2026-10-02 (texto vigente reextraído da página oficial em 2026-10-02)  
 
 ---
 
@@ -7350,8 +7350,6 @@ Art. 944. Não publicado o acórdão no prazo de 30 (trinta) dias, contado da da
 
 Parágrafo único. No caso do caput, o presidente do tribunal lavrará, de imediato, as conclusões e a ementa e mandará publicar o acórdão.
 
-(Revogado pela Lei nº 13.256, de 2016)
-
 Art. 946. O agravo de instrumento será julgado antes da apelação interposta no mesmo processo.
 
 Parágrafo único. Se ambos os recursos de que trata o caput houverem de ser julgados na mesma sessão, terá precedência o agravo de instrumento.
@@ -7716,4 +7714,856 @@ V – em casos excepcionais, garantir a observância de acórdão proferido em j
 
 I – proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
 
-II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, de acórdão de recurso especial com relevância da questão de direito federal infraconstitucional reconhecida ou de acórdãos proferidos em julgamento de recursos extraordinários ou especiais repetitivos, quando não esgotadas as instâncias ordinárias ou o ato atacado não
+II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, de acórdão de recurso especial com relevância da questão de direito federal infraconstitucional reconhecida ou de acórdãos proferidos em julgamento de recursos extraordinários ou especiais repetitivos, quando não esgotadas as instâncias ordinárias ou o ato atacado não se mostrar manifestamente em desacordo com o precedente qualificado. (Redação dada pela Lei nº 15.484, de 2026) Vigência
+
+§ 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+
+Art. 989. Ao despachar a reclamação, o relator:
+
+I - requisitará informações da autoridade a quem for imputada a prática do ato impugnado, que as prestará no prazo de 10 (dez) dias;
+
+II - se necessário, ordenará a suspensão do processo ou do ato impugnado para evitar dano irreparável;
+
+III - determinará a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação.
+
+Art. 990. Qualquer interessado poderá impugnar o pedido do reclamante.
+
+Art. 991. Na reclamação que não houver formulado, o Ministério Público terá vista do processo por 5 (cinco) dias, após o decurso do prazo para informações e para o oferecimento da contestação pelo beneficiário do ato impugnado.
+
+Art. 992. Julgando procedente a reclamação, o tribunal cassará a decisão exorbitante de seu julgado ou determinará medida adequada à solução da controvérsia.
+
+Art. 993. O presidente do tribunal determinará o imediato cumprimento da decisão, lavrando-se o acórdão posteriormente.
+
+TÍTULO II DOS RECURSOS
+
+CAPÍTULO I DISPOSIÇÕES GERAIS
+
+Art. 994. São cabíveis os seguintes recursos:
+
+I - apelação;
+
+II - agravo de instrumento;
+
+III - agravo interno;
+
+IV - embargos de declaração;
+
+V - recurso ordinário;
+
+VI - recurso especial;
+
+VII - recurso extraordinário;
+
+VIII - agravo em recurso especial ou extraordinário;
+
+IX - embargos de divergência.
+
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+
+Art. 996. O recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica.
+
+Parágrafo único. Cumpre ao terceiro demonstrar a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que se afirme titular ou que possa discutir em juízo como substituto processual.
+
+Art. 997. Cada parte interporá o recurso independentemente, no prazo e com observância das exigências legais.
+
+§ 1º Sendo vencidos autor e réu, ao recurso interposto por qualquer deles poderá aderir o outro.
+
+§ 2º O recurso adesivo fica subordinado ao recurso independente, sendo-lhe aplicáveis as mesmas regras deste quanto aos requisitos de admissibilidade e julgamento no tribunal, salvo disposição legal diversa, observado, ainda, o seguinte:
+
+I - será dirigido ao órgão perante o qual o recurso independente fora interposto, no prazo de que a parte dispõe para responder;
+
+II - será admissível na apelação, no recurso extraordinário e no recurso especial;
+
+III - não será conhecido, se houver desistência do recurso principal ou se for ele considerado inadmissível.
+
+Art. 998. O recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso.
+
+Parágrafo único. A desistência do recurso não impede a análise de questão cuja repercussão geral ou cuja relevância da questão de direito federal infraconstitucional já tenha sido reconhecida e daquela objeto de julgamento de recursos extraordinários ou especiais repetitivos. (Redação dada pela Lei nº 15.484, de 2026) Vigência
+
+Art. 999. A renúncia ao direito de recorrer independe da aceitação da outra parte.
+
+Art. 1.000. A parte que aceitar expressa ou tacitamente a decisão não poderá recorrer.
+
+Parágrafo único. Considera-se aceitação tácita a prática, sem nenhuma reserva, de ato incompatível com a vontade de recorrer.
+
+Art. 1.001. Dos despachos não cabe recurso.
+
+Art. 1.002. A decisão pode ser impugnada no todo ou em parte.
+
+Art. 1.003. O prazo para interposição de recurso conta-se da data em que os advogados, a sociedade de advogados, a Advocacia Pública, a Defensoria Pública ou o Ministério Público são intimados da decisão.
+
+§ 1º Os sujeitos previstos no caput considerar-se-ão intimados em audiência quando nesta for proferida a decisão.
+
+§ 2º Aplica-se o disposto no art. 231, incisos I a VI, ao prazo de interposição de recurso pelo réu contra decisão proferida anteriormente à citação.
+
+§ 3º No prazo para interposição de recurso, a petição será protocolada em cartório ou conforme as normas de organização judiciária, ressalvado o disposto em regra especial.
+
+§ 4º Para aferição da tempestividade do recurso remetido pelo correio, será considerada como data de interposição a data de postagem.
+
+§ 5º Excetuados os embargos de declaração, o prazo para interpor os recursos e para responder-lhes é de 15 (quinze) dias.
+
+§ 6º O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico. (Redação dada pela Lei nº 14.939, de 2024)
+
+Art. 1.004. Se, durante o prazo para a interposição do recurso, sobrevier o falecimento da parte ou de seu advogado ou ocorrer motivo de força maior que suspenda o curso do processo, será tal prazo restituído em proveito da parte, do herdeiro ou do sucessor, contra quem começará a correr novamente depois da intimação.
+
+Art. 1.005. O recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos os seus interesses.
+
+Parágrafo único. Havendo solidariedade passiva, o recurso interposto por um devedor aproveitará aos outros quando as defesas opostas ao credor lhes forem comuns.
+
+Art. 1.006. Certificado o trânsito em julgado, com menção expressa da data de sua ocorrência, o escrivão ou o chefe de secretaria, independentemente de despacho, providenciará a baixa dos autos ao juízo de origem, no prazo de 5 (cinco) dias.
+
+Art. 1.007. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+
+§ 1º São dispensados de preparo, inclusive porte de remessa e de retorno, os recursos interpostos pelo Ministério Público, pela União, pelo Distrito Federal, pelos Estados, pelos Municípios, e respectivas autarquias, e pelos que gozam de isenção legal.
+
+§ 2º A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias.
+
+§ 3º É dispensado o recolhimento do porte de remessa e de retorno no processo em autos eletrônicos.
+
+§ 4º O recorrente que não comprovar, no ato de interposição do recurso, o recolhimento do preparo, inclusive porte de remessa e de retorno, será intimado, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção.
+
+§ 5º É vedada a complementação se houver insuficiência parcial do preparo, inclusive porte de remessa e de retorno, no recolhimento realizado na forma do § 4º.
+
+§ 6º Provando o recorrente justo impedimento, o relator relevará a pena de deserção, por decisão irrecorrível, fixando-lhe prazo de 5 (cinco) dias para efetuar o preparo.
+
+§ 7º O equívoco no preenchimento da guia de custas não implicará a aplicação da pena de deserção, cabendo ao relator, na hipótese de dúvida quanto ao recolhimento, intimar o recorrente para sanar o vício no prazo de 5 (cinco) dias.
+
+Art. 1.008. O julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso.
+
+CAPÍTULO II DA APELAÇÃO
+
+Art. 1.009. Da sentença cabe apelação.
+
+§ 1º As questões resolvidas na fase de conhecimento, se a decisão a seu respeito não comportar agravo de instrumento, não são cobertas pela preclusão e devem ser suscitadas em preliminar de apelação, eventualmente interposta contra a decisão final, ou nas contrarrazões.
+
+§ 2º Se as questões referidas no § 1º forem suscitadas em contrarrazões, o recorrente será intimado para, em 15 (quinze) dias, manifestar-se a respeito delas.
+
+§ 3º O disposto no caput deste artigo aplica-se mesmo quando as questões mencionadas no art. 1.015 integrarem capítulo da sentença.
+
+Art. 1.010. A apelação, interposta por petição dirigida ao juízo de primeiro grau, conterá:
+
+I - os nomes e a qualificação das partes;
+
+II - a exposição do fato e do direito;
+
+III - as razões do pedido de reforma ou de decretação de nulidade;
+
+IV - o pedido de nova decisão.
+
+§ 1º O apelado será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias.
+
+§ 2º Se o apelado interpuser apelação adesiva, o juiz intimará o apelante para apresentar contrarrazões.
+
+§ 3º Após as formalidades previstas nos §§ 1º e 2º, os autos serão remetidos ao tribunal pelo juiz, independentemente de juízo de admissibilidade.
+
+Art. 1.011. Recebido o recurso de apelação no tribunal e distribuído imediatamente, o relator:
+
+I - decidi-lo-á monocraticamente apenas nas hipóteses do art. 932, incisos III a V;
+
+II - se não for o caso de decisão monocrática, elaborará seu voto para julgamento do recurso pelo órgão colegiado.
+
+Art. 1.012. A apelação terá efeito suspensivo.
+
+§ 1º Além de outras hipóteses previstas em lei, começa a produzir efeitos imediatamente após a sua publicação a sentença que:
+
+I - homologa divisão ou demarcação de terras;
+
+II - condena a pagar alimentos;
+
+III - extingue sem resolução do mérito ou julga improcedentes os embargos do executado;
+
+IV - julga procedente o pedido de instituição de arbitragem;
+
+V - confirma, concede ou revoga tutela provisória;
+
+VI - decreta a interdição.
+
+§ 2º Nos casos do § 1º, o apelado poderá promover o pedido de cumprimento provisório depois de publicada a sentença.
+
+§ 3º O pedido de concessão de efeito suspensivo nas hipóteses do § 1º poderá ser formulado por requerimento dirigido ao:
+
+I - tribunal, no período compreendido entre a interposição da apelação e sua distribuição, ficando o relator designado para seu exame prevento para julgá-la;
+
+II - relator, se já distribuída a apelação.
+
+§ 4º Nas hipóteses do § 1º, a eficácia da sentença poderá ser suspensa pelo relator se o apelante demonstrar a probabilidade de provimento do recurso ou se, sendo relevante a fundamentação, houver risco de dano grave ou de difícil reparação.
+
+Art. 1.013. A apelação devolverá ao tribunal o conhecimento da matéria impugnada.
+
+§ 1º Serão, porém, objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, desde que relativas ao capítulo impugnado.
+
+§ 2º Quando o pedido ou a defesa tiver mais de um fundamento e o juiz acolher apenas um deles, a apelação devolverá ao tribunal o conhecimento dos demais.
+
+§ 3º Se o processo estiver em condições de imediato julgamento, o tribunal deve decidir desde logo o mérito quando:
+
+I - reformar sentença fundada no art. 485;
+
+II - decretar a nulidade da sentença por não ser ela congruente com os limites do pedido ou da causa de pedir;
+
+III - constatar a omissão no exame de um dos pedidos, hipótese em que poderá julgá-lo;
+
+IV - decretar a nulidade de sentença por falta de fundamentação.
+
+§ 4º Quando reformar sentença que reconheça a decadência ou a prescrição, o tribunal, se possível, julgará o mérito, examinando as demais questões, sem determinar o retorno do processo ao juízo de primeiro grau.
+
+§ 5º O capítulo da sentença que confirma, concede ou revoga a tutela provisória é impugnável na apelação.
+
+Art. 1.014. As questões de fato não propostas no juízo inferior poderão ser suscitadas na apelação, se a parte provar que deixou de fazê-lo por motivo de força maior.
+
+CAPÍTULO III DO AGRAVO DE INSTRUMENTO
+
+Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+
+I - tutelas provisórias;
+
+II - mérito do processo;
+
+III - rejeição da alegação de convenção de arbitragem;
+
+IV - incidente de desconsideração da personalidade jurídica;
+
+V - rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação;
+
+VI - exibição ou posse de documento ou coisa;
+
+VII - exclusão de litisconsorte;
+
+VIII - rejeição do pedido de limitação do litisconsórcio;
+
+IX - admissão ou inadmissão de intervenção de terceiros;
+
+X - concessão, modificação ou revogação do efeito suspensivo aos embargos à execução;
+
+XI - redistribuição do ônus da prova nos termos do art. 373, § 1º;
+
+XII - (VETADO);
+
+XIII - outros casos expressamente referidos em lei.
+
+Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário.
+
+Art. 1.016. O agravo de instrumento será dirigido diretamente ao tribunal competente, por meio de petição com os seguintes requisitos:
+
+I - os nomes das partes;
+
+II - a exposição do fato e do direito;
+
+III - as razões do pedido de reforma ou de invalidação da decisão e o próprio pedido;
+
+IV - o nome e o endereço completo dos advogados constantes do processo.
+
+Art. 1.017. A petição de agravo de instrumento será instruída:
+
+I - obrigatoriamente, com cópias da petição inicial, da contestação, da petição que ensejou a decisão agravada, da própria decisão agravada, da certidão da respectiva intimação ou outro documento oficial que comprove a tempestividade e das procurações outorgadas aos advogados do agravante e do agravado;
+
+II - com declaração de inexistência de qualquer dos documentos referidos no inciso I, feita pelo advogado do agravante, sob pena de sua responsabilidade pessoal;
+
+III - facultativamente, com outras peças que o agravante reputar úteis.
+
+§ 1º Acompanhará a petição o comprovante do pagamento das respectivas custas e do porte de retorno, quando devidos, conforme tabela publicada pelos tribunais.
+
+§ 2º No prazo do recurso, o agravo será interposto por:
+
+I - protocolo realizado diretamente no tribunal competente para julgá-lo;
+
+II - protocolo realizado na própria comarca, seção ou subseção judiciárias;
+
+III - postagem, sob registro, com aviso de recebimento;
+
+IV - transmissão de dados tipo fac-símile, nos termos da lei;
+
+V - outra forma prevista em lei.
+
+§ 3º Na falta da cópia de qualquer peça ou no caso de algum outro vício que comprometa a admissibilidade do agravo de instrumento, deve o relator aplicar o disposto no art. 932, parágrafo único.
+
+§ 4º Se o recurso for interposto por sistema de transmissão de dados tipo fac-símile ou similar, as peças devem ser juntadas no momento de protocolo da petição original.
+
+§ 5º Sendo eletrônicos os autos do processo, dispensam-se as peças referidas nos incisos I e II do caput, facultando-se ao agravante anexar outros documentos que entender úteis para a compreensão da controvérsia.
+
+Art. 1.018. O agravante poderá requerer a juntada, aos autos do processo, de cópia da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso.
+
+§ 1º Se o juiz comunicar que reformou inteiramente a decisão, o relator considerará prejudicado o agravo de instrumento.
+
+§ 2º Não sendo eletrônicos os autos, o agravante tomará a providência prevista no caput, no prazo de 3 (três) dias a contar da interposição do agravo de instrumento.
+
+§ 3º O descumprimento da exigência de que trata o § 2º, desde que arguido e provado pelo agravado, importa inadmissibilidade do agravo de instrumento.
+
+Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão;
+
+II - ordenará a intimação do agravado pessoalmente, por carta com aviso de recebimento, quando não tiver procurador constituído, ou pelo Diário da Justiça ou por carta com aviso de recebimento dirigida ao seu advogado, para que responda no prazo de 15 (quinze) dias, facultando-lhe juntar a documentação que entender necessária ao julgamento do recurso;
+
+III - determinará a intimação do Ministério Público, preferencialmente por meio eletrônico, quando for o caso de sua intervenção, para que se manifeste no prazo de 15 (quinze) dias.
+
+Art. 1.020. O relator solicitará dia para julgamento em prazo não superior a 1 (um) mês da intimação do agravado.
+
+CAPÍTULO IV DO AGRAVO INTERNO
+
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+
+§ 2º O agravo será dirigido ao relator, que intimará o agravado para manifestar-se sobre o recurso no prazo de 15 (quinze) dias, ao final do qual, não havendo retratação, o relator levá-lo-á a julgamento pelo órgão colegiado, com inclusão em pauta.
+
+§ 3º É vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno.
+
+§ 4º Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+
+§ 5º A interposição de qualquer outro recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final.
+
+CAPÍTULO V DOS EMBARGOS DE DECLARAÇÃO
+
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+
+I - esclarecer obscuridade ou eliminar contradição;
+
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+
+III - corrigir erro material.
+
+Parágrafo único. Considera-se omissa a decisão que:
+
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+
+Art. 1.023. Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo.
+
+§ 1º Aplica-se aos embargos de declaração o art. 229.
+
+§ 2º O juiz intimará o embargado para, querendo, manifestar-se, no prazo de 5 (cinco) dias, sobre os embargos opostos, caso seu eventual acolhimento implique a modificação da decisão embargada.
+
+Art. 1.024. O juiz julgará os embargos em 5 (cinco) dias.
+
+§ 1º Nos tribunais, o relator apresentará os embargos em mesa na sessão subsequente, proferindo voto, e, não havendo julgamento nessa sessão, será o recurso incluído em pauta automaticamente.
+
+§ 2º Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.
+
+§ 3º O órgão julgador conhecerá dos embargos de declaração como agravo interno se entender ser este o recurso cabível, desde que determine previamente a intimação do recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1º.
+
+§ 4º Caso o acolhimento dos embargos de declaração implique modificação da decisão embargada, o embargado que já tiver interposto outro recurso contra a decisão originária tem o direito de complementar ou alterar suas razões, nos exatos limites da modificação, no prazo de 15 (quinze) dias, contado da intimação da decisão dos embargos de declaração.
+
+§ 5º Se os embargos de declaração forem rejeitados ou não alterarem a conclusão do julgamento anterior, o recurso interposto pela outra parte antes da publicação do julgamento dos embargos de declaração será processado e julgado independentemente de ratificação.
+
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+
+Art. 1.026. Os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso.
+
+§ 1º A eficácia da decisão monocrática ou colegiada poderá ser suspensa pelo respectivo juiz ou relator se demonstrada a probabilidade de provimento do recurso ou, sendo relevante a fundamentação, se houver risco de dano grave ou de difícil reparação.
+
+§ 2º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa.
+
+§ 3º Na reiteração de embargos de declaração manifestamente protelatórios, a multa será elevada a até dez por cento sobre o valor atualizado da causa, e a interposição de qualquer recurso ficará condicionada ao depósito prévio do valor da multa, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que a recolherão ao final.
+
+§ 4º Não serão admitidos novos embargos de declaração se os 2 (dois) anteriores houverem sido considerados protelatórios.
+
+CAPÍTULO VI DOS RECURSOS PARA O SUPREMO TRIBUNAL FEDERAL E PARA O SUPERIOR TRIBUNAL DE JUSTIÇA
+
+Seção I Do Recurso Ordinário
+
+Art. 1.027. Serão julgados em recurso ordinário:
+
+I - pelo Supremo Tribunal Federal, os mandados de segurança, os habeas data e os mandados de injunção decididos em única instância pelos tribunais superiores, quando denegatória a decisão;
+
+II - pelo Superior Tribunal de Justiça:
+
+a) os mandados de segurança decididos em única instância pelos tribunais regionais federais ou pelos tribunais de justiça dos Estados e do Distrito Federal e Territórios, quando denegatória a decisão;
+
+b) os processos em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, Município ou pessoa residente ou domiciliada no País.
+
+§ 1º Nos processos referidos no inciso II, alínea “b”, contra as decisões interlocutórias caberá agravo de instrumento dirigido ao Superior Tribunal de Justiça, nas hipóteses do art. 1.015.
+
+§ 2º Aplica-se ao recurso ordinário o disposto nos arts. 1.013, § 3º, e 1.029, § 5º.
+
+Art. 1.028. Ao recurso mencionado no art. 1.027, inciso II, alínea “b”, aplicam-se, quanto aos requisitos de admissibilidade e ao procedimento, as disposições relativas à apelação e o Regimento Interno do Superior Tribunal de Justiça.
+
+§ 1º Na hipótese do art. 1.027, § 1º, aplicam-se as disposições relativas ao agravo de instrumento e o Regimento Interno do Superior Tribunal de Justiça.
+
+§ 2º O recurso previsto no art. 1.027, incisos I e II, alínea “a”, deve ser interposto perante o tribunal de origem, cabendo ao seu presidente ou vice-presidente determinar a intimação do recorrido para, em 15 (quinze) dias, apresentar as contrarrazões.
+
+§ 3º Findo o prazo referido no § 2º, os autos serão remetidos ao respectivo tribunal superior, independentemente de juízo de admissibilidade.
+
+Seção II Do Recurso Extraordinário e do Recurso Especial
+
+Subseção I Disposições Gerais
+
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+
+I - a exposição do fato e do direito;
+
+II - a demonstração do cabimento do recurso interposto;
+
+III - as razões do pedido de reforma ou de invalidação da decisão recorrida.
+
+§ 1º Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+
+§ 2º (Revogado). (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+
+§ 3º O Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave.
+
+§ 4º Quando, por ocasião do processamento do incidente de resolução de demandas repetitivas, o presidente do Supremo Tribunal Federal ou do Superior Tribunal de Justiça receber requerimento de suspensão de processos em que se discuta questão federal constitucional ou infraconstitucional, poderá, considerando razões de segurança jurídica ou de excepcional interesse social, estender a suspensão a todo o território nacional, até ulterior decisão do recurso extraordinário ou do recurso especial a ser interposto.
+
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+
+I – ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+
+II - ao relator, se já distribuído o recurso;
+
+III – ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037. (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá: (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+
+I – negar seguimento: (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+
+a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral; (Incluída pela Lei nº 13.256, de 2016) (Vigência)
+
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos; (Incluída pela Lei nº 13.256, de 2016) (Vigência)
+
+c) a recurso especial que discuta questão de direito federal infraconstitucional à qual o Superior Tribunal de Justiça não tenha reconhecido a existência de relevância da questão de direito federal infraconstitucional ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Superior Tribunal de Justiça exarado no regime de relevância; (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+II – encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, conforme o caso, nos regimes de repercussão geral, de relevância da questão de direito federal infraconstitucional ou de recursos repetitivos; (Redação dada pela Lei nº 15.484, de 2026) Vigência
+
+III – sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+
+IV – selecionar o recurso como representativo de controvérsia constitucional ou infraconstitucional, nos termos do § 6º do art. 1.036; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+
+V – realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que: (Incluído pela Lei nº 13.256, de 2016)
+
+a) o recurso ainda não tenha sido submetido aos regimes de repercussão geral, de relevância da questão de direito federal infraconstitucional ou de julgamento de recursos repetitivos; (Redação dada pela Lei nº 15.484, de 2026) Vigência
+
+b) o recurso tenha sido selecionado como representativo da controvérsia; ou (Incluída pela Lei nº 13.256, de 2016) (Vigência)
+
+c) o tribunal recorrido tenha refutado o juízo de retratação. (Incluída pela Lei nº 13.256, de 2016) (Vigência)
+
+§ 1º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042. (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021. (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+
+Art. 1.031. Na hipótese de interposição conjunta de recurso extraordinário e recurso especial, os autos serão remetidos ao Superior Tribunal de Justiça.
+
+§ 1º Concluído o julgamento do recurso especial, os autos serão remetidos ao Supremo Tribunal Federal para apreciação do recurso extraordinário, se este não estiver prejudicado.
+
+§ 2º Se o relator do recurso especial considerar prejudicial o recurso extraordinário, em decisão irrecorrível, sobrestará o julgamento e remeterá os autos ao Supremo Tribunal Federal.
+
+§ 3º Na hipótese do § 2º, se o relator do recurso extraordinário, em decisão irrecorrível, rejeitar a prejudicialidade, devolverá os autos ao Superior Tribunal de Justiça para o julgamento do recurso especial.
+
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+
+Parágrafo único. Cumprida a diligência de que trata o caput, o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça.
+
+Art. 1.033. Se o Supremo Tribunal Federal considerar como reflexa a ofensa à Constituição afirmada no recurso extraordinário, por pressupor a revisão da interpretação de lei federal ou de tratado, remetê-lo-á ao Superior Tribunal de Justiça para julgamento como recurso especial.
+
+Art. 1.034. Admitido o recurso extraordinário ou o recurso especial, o Supremo Tribunal Federal ou o Superior Tribunal de Justiça julgará o processo, aplicando o direito.
+
+Parágrafo único. Admitido o recurso extraordinário ou o recurso especial por um fundamento, devolve-se ao tribunal superior o conhecimento dos demais fundamentos para a solução do capítulo impugnado.
+
+Art. 1.035. O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não tiver repercussão geral, nos termos deste artigo.
+
+§ 1º Para efeito de repercussão geral, será considerada a existência ou não de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
+
+§ 2º O recorrente deverá demonstrar a existência de repercussão geral para apreciação exclusiva pelo Supremo Tribunal Federal.
+
+§ 3º Haverá repercussão geral sempre que o recurso impugnar acórdão que:
+
+I - contrarie súmula ou jurisprudência dominante do Supremo Tribunal Federal;
+
+II – (Revogado); (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+
+III - tenha reconhecido a inconstitucionalidade de tratado ou de lei federal, nos termos do art. 97 da Constituição Federal.
+
+§ 4º O relator poderá admitir, na análise da repercussão geral, a manifestação de terceiros, subscrita por procurador habilitado, nos termos do Regimento Interno do Supremo Tribunal Federal.
+
+§ 5º Reconhecida a repercussão geral, o relator no Supremo Tribunal Federal determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional.
+
+§ 6º O interessado pode requerer, ao presidente ou ao vice-presidente do tribunal de origem, que exclua da decisão de sobrestamento e inadmita o recurso extraordinário que tenha sido interposto intempestivamente, tendo o recorrente o prazo de 5 (cinco) dias para manifestar-se sobre esse requerimento.
+
+§ 7º Da decisão que indeferir o requerimento referido no § 6º ou que aplicar entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos caberá agravo interno. (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+
+§ 8º Negada a repercussão geral, o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos extraordinários sobrestados na origem que versem sobre matéria idêntica.
+
+§ 9º O recurso que tiver a repercussão geral reconhecida deverá ser julgado no prazo de 1 (um) ano e terá preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus.
+
+§ 10. (Revogado). (Redação dada pela Lei nº 13.256, de 2016)
+
+§ 11. A súmula da decisão sobre a repercussão geral constará de ata, que será publicada no diário oficial e valerá como acórdão.
+
+Art. 1.035-A. O Superior Tribunal de Justiça, em decisão irrecorrível, não conhecerá do recurso especial quando a questão de direito federal infraconstitucional nele versada não for relevante, nos termos deste artigo. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 1º A deliberação a que se refere o caput deste artigo considerará a existência ou não de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 2º O recorrente deverá demonstrar a existência da relevância da questão de direito federal infraconstitucional para apreciação exclusiva pelo Superior Tribunal de Justiça, em tópico específico e fundamentado. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 3º Desatendida a forma prevista no § 2º, o recurso será inadmitido. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 4º Presume-se a relevância da questão de direito federal infraconstitucional nas hipóteses do art. 105, § 3º, da Constituição Federal. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 5º O relator poderá admitir, na análise da relevância da questão de direito federal infraconstitucional, a manifestação de terceiros subscrita por procurador habilitado. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 6º Somente não se conhecerá do recurso especial, nos termos do caput, pela manifestação de inexistência de relevância por parte de 2/3 (dois terços) dos membros do órgão competente para o julgamento. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 7º Reconhecida a relevância da questão de direito federal infraconstitucional, o relator no Superior Tribunal de Justiça poderá, mediante justificativa, determinar a suspensão, total ou parcial, do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, pelo prazo de 6 (seis) meses, prorrogável, uma única vez, por mais 6 (seis) meses quando houver a necessidade de audiência pública ou a participação de terceiros. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+§ 8º O julgamento de recurso especial sob o regime da relevância da questão de direito federal infraconstitucional será realizado em sessão presencial, salvo se o voto do relator for no sentido de não reconhecer a relevância ou de reafirmar a jurisprudência dominante do Tribunal. (Incluído pela Lei nº 15.484, de 2026) Vigência
+
+Subseção II Do Julgamento dos Recursos Extraordinário e Especial Repetitivos
+
+Art. 1.036. Sempre que houver multiplicidade de recursos extraordinários ou especiais com fundamento em idêntica questão de direito, haverá afetação para julgamento de acordo com as disposições desta Subseção, observado o disposto no Regimento Interno do Supremo Tribunal Federal e no do Superior Tribunal de Justiça.
+
+§ 1º O presidente ou o vice-presidente de tribunal de justiça ou de tribunal regional federal selecionará 2 (dois) ou mais recursos representativos da controvérsia, que serão encaminhados ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça para fins de afetação, determinando a suspensão do trâmite de todos os processos pendentes, individuais ou coletivos, que tramitem no Estado ou na região, conforme o caso.
+
+§ 2º O interessado pode requerer, ao presidente ou ao vice-presidente, que exclua da decisão de sobrestamento e inadmita o recurso especial ou o recurso extraordinário que tenha sido interposto intempestivamente, tendo o recorrente o prazo de 5 (cinco) dias para manifestar-se sobre esse requerimento.
+
+§ 3º Da decisão que indeferir o requerimento referido no § 2º caberá apenas agravo interno. (Redação dada pela Lei nº 13.256, de 2016)
+
+§ 4º A escolha feita pelo presidente ou vice-presidente do tribunal de justiça ou do tribunal regional federal não vinculará o relator no tribunal superior, que poderá selecionar outros recursos representativos da controvérsia.
+
+§ 5º O relator em tribunal superior também poderá selecionar 2 (dois) ou mais recursos representativos da controvérsia para julgamento da questão de direito independentemente da iniciativa do presidente ou do vice-presidente do tribunal de origem.
+
+§ 6º Somente podem ser selecionados recursos admissíveis que contenham abrangente argumentação e discussão a respeito da questão a ser decidida.
+
+Art. 1.037. Selecionados os recursos, o relator, no tribunal superior, constatando a presença do pressuposto do caput do art. 1.036, proferirá decisão de afetação, na qual:
+
+I - identificará com precisão a questão a ser submetida a julgamento;
+
+II - determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional;
+
+III - poderá requisitar aos presidentes ou aos vice-presidentes dos tribunais de justiça ou dos tribunais regionais federais a remessa de um recurso representativo da controvérsia.
+
+§ 1º Se, após receber os recursos selecionados pelo presidente ou pelo vice-presidente de tribunal de justiça ou de tribunal regional federal, não se proceder à afetação, o relator, no tribunal superior, comunicará o fato ao presidente ou ao vice-presidente que os houver enviado, para que seja revogada a decisão de suspensão referida no art. 1.036, § 1º.
+
+§ 3º Havendo mais de uma afetação, será prevento o relator que primeiro tiver proferido a decisão a que se refere o inciso I do caput.
+
+§ 4º Os recursos afetados deverão ser julgados no prazo de 1 (um) ano e terão preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus.
+
+§ 6º Ocorrendo a hipótese do § 5º, é permitido a outro relator do respectivo tribunal superior afetar 2 (dois) ou mais recursos representativos da controvérsia na forma do art. 1.036.
+
+§ 7º Quando os recursos requisitados na forma do inciso III do caput contiverem outras questões além daquela que é objeto da afetação, caberá ao tribunal decidir esta em primeiro lugar e depois as demais, em acórdão específico para cada processo.
+
+§ 8º As partes deverão ser intimadas da decisão de suspensão de seu processo, a ser proferida pelo respectivo juiz ou relator quando informado da decisão a que se refere o inciso II do caput.
+
+§ 9º Demonstrando distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial ou extraordinário afetado, a parte poderá requerer o prosseguimento do seu processo.
+
+§ 10. O requerimento a que se refere o § 9º será dirigido:
+
+I - ao juiz, se o processo sobrestado estiver em primeiro grau;
+
+II - ao relator, se o processo sobrestado estiver no tribunal de origem;
+
+III - ao relator do acórdão recorrido, se for sobrestado recurso especial ou recurso extraordinário no tribunal de origem;
+
+IV - ao relator, no tribunal superior, de recurso especial ou de recurso extraordinário cujo processamento houver sido sobrestado.
+
+§ 11. A outra parte deverá ser ouvida sobre o requerimento a que se refere o § 9º, no prazo de 5 (cinco) dias.
+
+§ 12. Reconhecida a distinção no caso:
+
+I - dos incisos I, II e IV do § 10, o próprio juiz ou relator dará prosseguimento ao processo;
+
+II - do inciso III do § 10, o relator comunicará a decisão ao presidente ou ao vice-presidente que houver determinado o sobrestamento, para que o recurso especial ou o recurso extraordinário seja encaminhado ao respectivo tribunal superior, na forma do art. 1.030, parágrafo único.
+
+§ 13. Da decisão que resolver o requerimento a que se refere o § 9º caberá:
+
+I - agravo de instrumento, se o processo estiver em primeiro grau;
+
+II - agravo interno, se a decisão for de relator.
+
+Art. 1.038. O relator poderá:
+
+I - solicitar ou admitir manifestação de pessoas, órgãos ou entidades com interesse na controvérsia, considerando a relevância da matéria e consoante dispuser o regimento interno;
+
+II - fixar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e conhecimento na matéria, com a finalidade de instruir o procedimento;
+
+III - requisitar informações aos tribunais inferiores a respeito da controvérsia e, cumprida a diligência, intimará o Ministério Público para manifestar-se.
+
+§ 1º No caso do inciso III, os prazos respectivos são de 15 (quinze) dias, e os atos serão praticados, sempre que possível, por meio eletrônico.
+
+§ 2º Transcorrido o prazo para o Ministério Público e remetida cópia do relatório aos demais ministros, haverá inclusão em pauta, devendo ocorrer o julgamento com preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de habeas corpus.
+
+§ 3º O conteúdo do acórdão abrangerá a análise dos fundamentos relevantes da tese jurídica discutida. (Redação dada pela Lei nº 13.256, de 2016)
+
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+
+Parágrafo único. Negada a existência de repercussão geral ou de relevância da questão de direito federal infraconstitucional, respectivamente, no recurso extraordinário ou especial afetado, serão considerados automaticamente inadmitidos os recursos extraordinários ou os recursos especiais cujo processamento tenha sido sobrestado. (Redação dada pela Lei nº 15.484, de 2026) Vigência
+
+Art. 1.040. Publicado o acórdão paradigma:
+
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+
+§ 1º A parte poderá desistir da ação em curso no primeiro grau de jurisdição, antes de proferida a sentença, se a questão nela discutida for idêntica à resolvida pelo recurso representativo da controvérsia.
+
+§ 2º Se a desistência ocorrer antes de oferecida contestação, a parte ficará isenta do pagamento de custas e de honorários de sucumbência.
+
+§ 3º A desistência apresentada nos termos do § 1º independe de consentimento do réu, ainda que apresentada contestação.
+
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.
+
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões. (Redação dada pela Lei nº 13.256, de 2016)
+
+Seção III Do Agravo em Recurso Especial e em Recurso Extraordinário
+
+Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regimes de repercussão geral, de relevância da questão de direito federal infraconstitucional ou de julgamento de recursos repetitivos. (Redação dada pela Lei nº 15.484, de 2026) Vigência
+
+I – (Revogado); (Redação dada pela Lei nº 13.256, de 2016)
+
+II – (Revogado); (Redação dada pela Lei nº 13.256, de 2016)
+
+III – (Revogado). (Redação dada pela Lei nº 13.256, de 2016)
+
+§ 1º (Revogado): (Redação dada pela Lei nº 13.256, de 2016)
+
+I – (Revogado); (Redação dada pela Lei nº 13.256, de 2016)
+
+II – (Revogado): (Redação dada pela Lei nº 13.256, de 2016)
+
+a) (Revogada); (Redação dada pela Lei nº 13.256, de 2016)
+
+b) (Revogada). (Redação dada pela Lei nº 13.256, de 2016)
+
+§ 2º A petição de agravo será dirigida ao presidente ou ao vice-presidente do tribunal de origem e independe do pagamento de custas e despesas postais, aplicando-se a ela o regime de repercussão geral, de relevância da questão de direito federal infraconstitucional e de recursos repetitivos, inclusive quanto à possibilidade de sobrestamento e do juízo de retratação. (Redação dada pela Lei nº 15.484, de 2026) Vigência
+
+§ 3º O agravado será intimado, de imediato, para oferecer resposta no prazo de 15 (quinze) dias.
+
+§ 4º Após o prazo de resposta, não havendo retratação, o agravo será remetido ao tribunal superior competente.
+
+§ 5º O agravo poderá ser julgado, conforme o caso, conjuntamente com o recurso especial ou extraordinário, assegurada, neste caso, sustentação oral, observando-se, ainda, o disposto no regimento interno do tribunal respectivo.
+
+§ 6º Na hipótese de interposição conjunta de recursos extraordinário e especial, o agravante deverá interpor um agravo para cada recurso não admitido.
+
+§ 7º Havendo apenas um agravo, o recurso será remetido ao tribunal competente, e, havendo interposição conjunta, os autos serão remetidos ao Superior Tribunal de Justiça.
+
+§ 8º Concluído o julgamento do agravo pelo Superior Tribunal de Justiça e, se for o caso, do recurso especial, independentemente de pedido, os autos serão remetidos ao Supremo Tribunal Federal para apreciação do agravo a ele dirigido, salvo se estiver prejudicado.
+
+Seção IV Dos Embargos de Divergência
+
+Art. 1.043. É embargável o acórdão de órgão fracionário que:
+
+I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia;
+
+§ 1º Poderão ser confrontadas teses jurídicas contidas em julgamentos de recursos e de ações de competência originária.
+
+§ 2º A divergência que autoriza a interposição de embargos de divergência pode verificar-se na aplicação do direito material ou do direito processual.
+
+§ 3º Cabem embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros.
+
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+
+Art. 1.044. No recurso de embargos de divergência, será observado o procedimento estabelecido no regimento interno do respectivo tribunal superior.
+
+§ 1º A interposição de embargos de divergência no Superior Tribunal de Justiça interrompe o prazo para interposição de recurso extraordinário por qualquer das partes.
+
+§ 2º Se os embargos de divergência forem desprovidos ou não alterarem a conclusão do julgamento anterior, o recurso extraordinário interposto pela outra parte antes da publicação do julgamento dos embargos de divergência será processado e julgado independentemente de ratificação.
+
+LIVRO COMPLEMENTAR DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+Art. 1.045. Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial.
+
+Art. 1.046. Ao entrar em vigor este Código, suas disposições se aplicarão desde logo aos processos pendentes, ficando revogada a Lei nº 5.869, de 11 de janeiro de 1973.
+
+§ 1º As disposições da Lei nº 5.869, de 11 de janeiro de 1973, relativas ao procedimento sumário e aos procedimentos especiais que forem revogadas aplicar-se-ão às ações propostas e não sentenciadas até o início da vigência deste Código.
+
+§ 2º Permanecem em vigor as disposições especiais dos procedimentos regulados em outras leis, aos quais se aplicará supletivamente este Código.
+
+§ 3º Os processos mencionados no art. 1.218 da Lei nº 5.869, de 11 de janeiro de 1973, cujo procedimento ainda não tenha sido incorporado por lei submetem-se ao procedimento comum previsto neste Código.
+
+§ 4º As remissões a disposições do Código de Processo Civil revogado, existentes em outras leis, passam a referir-se às que lhes são correspondentes neste Código.
+
+§ 5º A primeira lista de processos para julgamento em ordem cronológica observará a antiguidade da distribuição entre os já conclusos na data da entrada em vigor deste Código.
+
+Art. 1.047. As disposições de direito probatório adotadas neste Código aplicam-se apenas às provas requeridas ou determinadas de ofício a partir da data de início de sua vigência.
+
+Art. 1.048. Terão prioridade de tramitação, em qualquer juízo ou tribunal, os procedimentos judiciais:
+
+I - em que figure como parte ou interessado pessoa com idade igual ou superior a 60 (sessenta) anos ou portadora de doença grave, assim compreendida qualquer das enumeradas no art. 6º, inciso XIV, da Lei nº 7.713, de 22 de dezembro de 1988;
+
+II - regulados pela Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).
+
+III - em que figure como parte a vítima de violência doméstica e familiar, nos termos da Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha). (Incluído pela Lei nº 13.894, de 2019)
+
+IV - em que se discuta a aplicação do disposto nas normas gerais de licitação e contratação a que se refere o inciso XXVII do caput do art. 22 da Constituição Federal. (Incluído pela Lei nº 14.133, de 2021)
+
+§ 1º A pessoa interessada na obtenção do benefício, juntando prova de sua condição, deverá requerê-lo à autoridade judiciária competente para decidir o feito, que determinará ao cartório do juízo as providências a serem cumpridas.
+
+§ 2º Deferida a prioridade, os autos receberão identificação própria que evidencie o regime de tramitação prioritária.
+
+§ 3º Concedida a prioridade, essa não cessará com a morte do beneficiado, estendendo-se em favor do cônjuge supérstite ou do companheiro em união estável.
+
+§ 4º A tramitação prioritária independe de deferimento pelo órgão jurisdicional e deverá ser imediatamente concedida diante da prova da condição de beneficiário.
+
+Art. 1.049. Sempre que a lei remeter a procedimento previsto na lei processual sem especificá-lo, será observado o procedimento comum previsto neste Código.
+
+Parágrafo único. Na hipótese de a lei remeter ao procedimento sumário, será observado o procedimento comum previsto neste Código, com as modificações previstas na própria lei especial, se houver.
+
+Art. 1.050. A União, os Estados, o Distrito Federal, os Municípios, suas respectivas entidades da administração indireta, o Ministério Público, a Defensoria Pública e a Advocacia Pública, no prazo de 30 (trinta) dias a contar da data da entrada em vigor deste Código, deverão se cadastrar perante a administração do tribunal no qual atuem para cumprimento do disposto nos arts. 246, § 2º, e 270, parágrafo único.
+
+Art. 1.051. As empresas públicas e privadas devem cumprir o disposto no art. 246, § 1º, no prazo de 30 (trinta) dias, a contar da data de inscrição do ato constitutivo da pessoa jurídica, perante o juízo onde tenham sede ou filial.
+
+Parágrafo único. O disposto no caput não se aplica às microempresas e às empresas de pequeno porte.
+
+Art. 1.052. Até a edição de lei específica, as execuções contra devedor insolvente, em curso ou que venham a ser propostas, permanecem reguladas pelo Livro II, Título IV, da Lei nº 5.869, de 11 de janeiro de 1973.
+
+Art. 1.053. Os atos processuais praticados por meio eletrônico até a transição definitiva para certificação digital ficam convalidados, ainda que não tenham observado os requisitos mínimos estabelecidos por este Código, desde que tenham atingido sua finalidade e não tenha havido prejuízo à defesa de qualquer das partes.
+
+Art. 1.054. O disposto no art. 503, § 1º, somente se aplica aos processos iniciados após a vigência deste Código, aplicando-se aos anteriores o disposto nos arts. 5º, 325 e 470 da Lei nº 5.869, de 11 de janeiro de 1973.
+
+Art. 1.055. (VETADO).
+
+Art. 1.056. Considerar-se-á como termo inicial do prazo da prescrição prevista no art. 924, inciso V, inclusive para as execuções em curso, a data de vigência deste Código.
+
+Art. 1.057. O disposto no art. 525, §§ 14 e 15, e no art. 535, §§ 7º e 8º, aplica-se às decisões transitadas em julgado após a entrada em vigor deste Código, e, às decisões transitadas em julgado anteriormente, aplica-se o disposto no art. 475-L, § 1º, e no art. 741, parágrafo único, da Lei nº 5.869, de 11 de janeiro de 1973.
+
+Art. 1.058. Em todos os casos em que houver recolhimento de importância em dinheiro, esta será depositada em nome da parte ou do interessado, em conta especial movimentada por ordem do juiz, nos termos do art. 840, inciso I.
+
+Art. 1.059. À tutela provisória requerida contra a Fazenda Pública aplica-se o disposto nos arts. 1º a 4º da Lei nº 8.437, de 30 de junho de 1992, e no art. 7º, § 2º, da Lei nº 12.016, de 7 de agosto de 2009.
+
+Art. 1.060. O inciso II do art. 14 da Lei nº 9.289, de 4 de julho de 1996, passa a vigorar com a seguinte redação: (Vigência)
+
+“Art. 14.....................................................................
+
+..........................................................................................
+
+II - aquele que recorrer da sentença adiantará a outra metade das custas, comprovando o adiantamento no ato de interposição do recurso, sob pena de deserção, observado o disposto nos §§ 1º a 7º do art. 1.007 do Código de Processo Civil;
+
+...................................................................................” (NR)
+
+Art. 1.061. O § 3º do art. 33 da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem), passa a vigorar com a seguinte redação: (Vigência)
+
+“Art. 33.......................................................................
+
+.............................................................................................
+
+§ 3º A decretação da nulidade da sentença arbitral também poderá ser requerida na impugnação ao cumprimento da sentença, nos termos dos arts. 525 e seguintes do Código de Processo Civil, se houver execução judicial.” (NR)
+
+Art. 1.062. O incidente de desconsideração da personalidade jurídica aplica-se ao processo de competência dos juizados especiais.
+
+Art. 1.063. Os juizados especiais cíveis previstos na Lei nº 9.099, de 26 de setembro de 1995, continuam competentes para o processamento e o julgamento das causas previstas no inciso II do art. 275 da Lei nº 5.869, de 11 de janeiro de 1973. (Redação dada pela Lei nº 14.976, de 2024)
+
+Art. 1.064. O caput do art. 48 da Lei nº 9.099, de 26 de setembro de 1995, passa a vigorar com a seguinte redação: (Vigência)
+
+“ Art. 48. Caberão embargos de declaração contra sentença ou acórdão nos casos previstos no Código de Processo Civil.
+
+...................................................................................” (NR)
+
+Art. 1.065. O art. 50 da Lei nº 9.099, de 26 de setembro de 1995, passa a vigorar com a seguinte redação: (Vigência)
+
+“ Art. 50. Os embargos de declaração interrompem o prazo para a interposição de recurso.” (NR)
+
+Art. 1.066. O art. 83 da Lei nº 9.099, de 26 de setembro de 1995, passam a vigorar com a seguinte redação: (Vigência)
+
+“ Art. 83. Cabem embargos de declaração quando, em sentença ou acórdão, houver obscuridade, contradição ou omissão.
+
+.............................................................................................
+
+§ 2º Os embargos de declaração interrompem o prazo para a interposição de recurso.
+
+...................................................................................” (NR)
+
+Art. 1.067. O art. 275 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), passa a vigorar com a seguinte redação: (Vigência)
+
+“ Art. 275. São admissíveis embargos de declaração nas hipóteses previstas no Código de Processo Civil.
+
+§ 1º Os embargos de declaração serão opostos no prazo de 3 (três) dias, contado da data de publicação da decisão embargada, em petição dirigida ao juiz ou relator, com a indicação do ponto que lhes deu causa.
+
+§ 2º Os embargos de declaração não estão sujeitos a preparo.
+
+§ 3º O juiz julgará os embargos em 5 (cinco) dias.
+
+§ 4º Nos tribunais:
+
+I - o relator apresentará os embargos em mesa na sessão subsequente, proferindo voto;
+
+II - não havendo julgamento na sessão referida no inciso I, será o recurso incluído em pauta;
+
+III - vencido o relator, outro será designado para lavrar o acórdão.
+
+§ 5º Os embargos de declaração interrompem o prazo para a interposição de recurso.
+
+§ 6º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a 2 (dois) salários-mínimos.
+
+§ 7º Na reiteração de embargos de declaração manifestamente protelatórios, a multa será elevada a até 10 (dez) salários-mínimos.” (NR)
+
+Art. 1.068. O art. 274 e o caput do art. 2.027 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), passam a vigorar com a seguinte redação: (Vigência)
+
+“Art. 274. O julgamento contrário a um dos credores solidários não atinge os demais, mas o julgamento favorável aproveita-lhes, sem prejuízo de exceção pessoal que o devedor tenha direito de invocar em relação a qualquer deles.” (NR)
+
+“Art. 2.027. A partilha é anulável pelos vícios e defeitos que invalidam, em geral, os negócios jurídicos.
+
+...................................................................................” (NR)
+
+Art. 1.069. O Conselho Nacional de Justiça promoverá, periodicamente, pesquisas estatísticas para avaliação da efetividade das normas previstas neste Código.
+
+Art. 1.070. É de 15 (quinze) dias o prazo para a interposição de qualquer agravo, previsto em lei ou em regimento interno de tribunal, contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
+
+Art. 1.071. O Capítulo III do Título V da Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), passa a vigorar acrescida do seguinte art. 216-A: (Vigência)
+
+“Art. 216-A. Sem prejuízo da via jurisdicional, é admitido o pedido de reconhecimento extrajudicial de usucapião, que será processado diretamente perante o cartório do registro de imóveis da comarca em que estiver situado o imóvel usucapiendo, a requerimento do interessado, representado por advogado, instruído com:
+
+I - ata notarial lavrada pelo tabelião, atestando o tempo de posse do requerente e seus antecessores, conforme o caso e suas circunstâncias;
+
+II - planta e memorial descritivo assinado por profissional legalmente habilitado, com prova de anotação de responsabilidade técnica no respectivo conselho de fiscalização profissional, e pelos titulares de direitos reais e de outros direitos registrados ou averbados na matrícula do imóvel usucapiendo e na matrícula dos imóveis confinantes;
+
+III - certidões negativas dos distribuidores da comarca da situação do imóvel e do domicílio do requerente;
+
+IV - justo título ou quaisquer outros documentos que demonstrem a origem, a continuidade, a natureza e o tempo da posse, tais como o pagamento dos impostos e das taxas que incidirem sobre o imóvel.
+
+§ 1º O pedido será autuado pelo registrador, prorrogando-se o prazo da prenotação até o acolhimento ou a rejeição do pedido.
+
+§ 2º Se a planta não contiver a assinatura de qualquer um dos titulares de direitos reais e de outros direitos registrados ou averbados na matrícula do imóvel usucapiendo e na matrícula dos imóveis confinantes, esse será notificado pelo registrador competente, pessoalmente ou pelo correio com aviso de recebimento, para manifestar seu consentimento expresso em 15 (quinze) dias, interpretado o seu silêncio como discordância.
+
+§ 3º O oficial de registro de imóveis dará ciência à União, ao Estado, ao Distrito Federal e ao Município, pessoalmente, por intermédio do oficial de registro de títulos e documentos, ou pelo correio com aviso de recebimento, para que se manifestem, em 15 (quinze) dias, sobre o pedido.
+
+§ 4º O oficial de registro de imóveis promoverá a publicação de edital em jornal de grande circulação, onde houver, para a ciência de terceiros eventualmente interessados, que poderão se manifestar em 15 (quinze) dias.
+
+§ 5º Para a elucidação de qualquer ponto de dúvida, poderão ser solicitadas ou realizadas diligências pelo oficial de registro de imóveis.
+
+§ 6º Transcorrido o prazo de que trata o § 4º deste artigo, sem pendência de diligências na forma do § 5º deste artigo e achando-se em ordem a documentação, com inclusão da concordância expressa dos titulares de direitos reais e de outros direitos registrados ou averbados na matrícula do imóvel usucapiendo e na matrícula dos imóveis confinantes, o oficial de registro de imóveis registrará a aquisição do imóvel com as descrições apresentadas, sendo permitida a abertura de matrícula, se for o caso.
+
+§ 7º Em qualquer caso, é lícito ao interessado suscitar o procedimento de dúvida, nos termos desta Lei.
+
+§ 8º Ao final das diligências, se a documentação não estiver em ordem, o oficial de registro de imóveis rejeitará o pedido.
+
+§ 9º A rejeição do pedido extrajudicial não impede o ajuizamento de ação de usucapião.
+
+§ 10. Em caso de impugnação do pedido de reconhecimento extrajudicial de usucapião, apresentada por qualquer um dos titulares de direito reais e de outros direitos registrados ou averbados na matrícula do imóvel usucapiendo e na matrícula dos imóveis confinantes, por algum dos entes públicos ou por algum terceiro interessado, o oficial de registro de imóveis remeterá os autos ao juízo competente da comarca da situação do imóvel, cabendo ao requerente emendar a petição inicial para adequá-la ao procedimento comum.”
+
+Art. 1.072. Revogam-se: (Vigência)
+
+I - o art. 22 do Decreto-Lei nº 25, de 30 de novembro de 1937;
+
+II - os arts. 227, caput, 229, 230, 456, 1.482, 1.483 e 1.768 a 1.773 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);
+
+III - os arts. 2º, 3º, 4º, 6º, 7º, 11, 12 e 17 da Lei nº 1.060, de 5 de fevereiro de 1950;
+
+IV - os arts. 13 a 18, 26 a 29 e 38 da Lei nº 8.038, de 28 de maio de 1990;
+
+V - os arts. 16 a 18 da Lei nº 5.478, de 25 de julho de 1968; e
+
+VI - o art. 98, § 4º, da Lei nº 12.529, de 30 de novembro de 2011.
+
+Brasília, 16 de março de 2015; 194º da Independência e 127º da República.
+
+DILMA ROUSSEFF
+
+José Eduardo Cardozo
+
+Jaques Wagner
+
+Joaquim Vieira Ferreira Levy
+
+Luís Inácio Lucena Adams
+
+Este texto não substitui o publicado no DOU de 17.3.2015
+
+*

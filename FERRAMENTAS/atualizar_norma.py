@@ -21,9 +21,11 @@ def main():
         p = re.sub(r"\s+", " ", p).strip()
         p = re.sub(r"\s+([.,;:)])", r"\1", p)
         p = re.sub(r"\b(\d+) o\b", r"\1º", p)        # 6 o (sobrescrito) -> 6º
+        p = re.sub(r"\b(\d+) º", r"\1º", p)
         p = re.sub(r"\b([Nn]) o\b", r"\1º", p)        # n o -> nº
         return re.sub(r"\(\s+", "(", p)
     paras = [limpa(p) for p in paragrafos_oficiais(baixar(url))]
+    paras = [p for p in paras if not re.fullmatch(r"(\((Revogad[oa]|Vide)[^)]*\)\s*)+", p)]
     paras = [p for p in paras if not re.fullmatch(r"(Regulamento|Vig[eê]ncia|Mensagem de veto|Convers[aã]o da Medida Provis[oó]ria.*)( .*)?", p) or len(p) > 60]
     # descarta o cabeçalho do Planalto até o título da norma
     ini = next((i for i, p in enumerate(paras)
