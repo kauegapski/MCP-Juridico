@@ -148,12 +148,14 @@ Tecnologia da Informação:
 - Lei do Inquilinato (Lei nº 8.245/1991) — `Lei_8245_1991_Inquilinato.md`
 - Código de Defesa do Consumidor (Lei nº 8.078/1990) — `Lei_8078_1990_CDC.md`
 - Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015; curatela: arts. 84 a 87) — `Lei_13146_2015_Estatuto_Pessoa_Deficiencia.md`
+- Juizados Especiais da Fazenda Pública (Lei nº 12.153/2009) — `Lei_12153_2009_Juizados_Fazenda_Publica.md`
 
 ## 11. Advocacia — Honorários
 
 📁 **HONORARIOS/**
 - Advocacia dativa no Paraná — Resolução Conjunta nº 06/2024 PGE/SEFA — `Resolucao_Conjunta_06_2024_PGE_SEFA_Tabela_Dativos.md`
 - Tabela de Honorários da OAB/PR 2026 — `Tabela_Honorarios_OAB_PR_2026.md`
+- Honorários periciais — Resolução CNJ nº 232/2016 (Anexo; reajuste anual pelo IPCA-E, art. 2º, § 5º) — `Resolucao_CNJ_232_2016_Honorarios_Periciais.md`
 
 ## 12. Jurisprudência sumulada (uso somente a pedido expresso)
 
